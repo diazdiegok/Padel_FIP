@@ -1,0 +1,6915 @@
+{
+  "gender": "female",
+  "year": 2026,
+  "week": 32,
+  "generatedAt": "2026-08-03T13:30:57.265Z",
+  "players": [
+    {
+      "playerId": "P200002",
+      "firstName": "Gemma",
+      "lastName": "Triay Pons",
+      "name": "Gemma Triay Pons",
+      "rank": 1,
+      "points": 18114,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/TRIAY-150x150.png",
+      "url": "https://www.padelfip.com/player/gemma-triay-pons/"
+    },
+    {
+      "playerId": "P200005",
+      "firstName": "Delfina",
+      "lastName": "Brea Senesi",
+      "name": "Delfina Brea Senesi",
+      "rank": 1,
+      "points": 18114,
+      "move": 0,
+      "country": "ARG",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Delfi-c-150x150.png",
+      "url": "https://www.padelfip.com/player/delfina-brea-senesi/"
+    },
+    {
+      "playerId": "P200011",
+      "firstName": "Beatriz",
+      "lastName": "Gonzalez Fernandez",
+      "name": "Beatriz Gonzalez Fernandez",
+      "rank": 3,
+      "points": 14417,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/BEA-GONZALEZ-1-150x150.png",
+      "url": "https://www.padelfip.com/player/beatriz-gonzalez-fernandez/"
+    },
+    {
+      "playerId": "P200004",
+      "firstName": "Paula",
+      "lastName": "Josemaria Martin",
+      "name": "Paula Josemaria Martin",
+      "rank": 4,
+      "points": 13949,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Paula-josemaria-c-150x150.png",
+      "url": "https://www.padelfip.com/player/paula-josemaria-martin/"
+    },
+    {
+      "playerId": "P200003",
+      "firstName": "Ariana",
+      "lastName": "Sanchez Fallada",
+      "name": "Ariana Sanchez Fallada",
+      "rank": 5,
+      "points": 12599,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ARIANA-SANCHEZ-150x150.png",
+      "url": "https://www.padelfip.com/player/ariana-sanchez-fallada/"
+    },
+    {
+      "playerId": "P000532",
+      "firstName": "Claudia",
+      "lastName": "Fernandez Sanchez",
+      "name": "Claudia Fernandez Sanchez",
+      "rank": 6,
+      "points": 10887,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/CLAUDIA-FERNANDEZ-150x150.png",
+      "url": "https://www.padelfip.com/player/claudia-fernandez-sanchez/"
+    },
+    {
+      "playerId": "P200224",
+      "firstName": "Andrea",
+      "lastName": "Ustero Prieto",
+      "name": "Andrea Ustero Prieto",
+      "rank": 7,
+      "points": 9019,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ANDREA-USTERO-150x150.png",
+      "url": "https://www.padelfip.com/player/andrea-ustero-prieto/"
+    },
+    {
+      "playerId": "P000526",
+      "firstName": "Sofia",
+      "lastName": "Araujo",
+      "name": "Sofia Araujo",
+      "rank": 8,
+      "points": 6799,
+      "move": 0,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/SOFIA-ARAUJO-5-150x150.png",
+      "url": "https://www.padelfip.com/player/sofia-araujo/"
+    },
+    {
+      "playerId": "P200006",
+      "firstName": "Tamara",
+      "lastName": "Icardo Alcorisa",
+      "name": "Tamara Icardo Alcorisa",
+      "rank": 9,
+      "points": 6339,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/TAMARA-ICARDO-2-150x150.png",
+      "url": "https://www.padelfip.com/player/tamara-icardo-alcorisa/"
+    },
+    {
+      "playerId": "P200014",
+      "firstName": "Marta",
+      "lastName": "Ortega Gallego",
+      "name": "Marta Ortega Gallego",
+      "rank": 10,
+      "points": 5919,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ORTEGA-150x150.png",
+      "url": "https://www.padelfip.com/player/marta-ortega-gallego/"
+    },
+    {
+      "playerId": "P200032",
+      "firstName": "Claudia",
+      "lastName": "Jensen",
+      "name": "Claudia Jensen",
+      "rank": 11,
+      "points": 5844,
+      "move": 0,
+      "country": "ARG",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/CLAUDIA-JENSEN-5-150x150.png",
+      "url": "https://www.padelfip.com/player/claudia-jensen/"
+    },
+    {
+      "playerId": "P203086",
+      "firstName": "Martina",
+      "lastName": "Calvo Santamaria",
+      "name": "Martina Calvo Santamaria",
+      "rank": 12,
+      "points": 5599,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/03/MARTINA-CALVO-1-150x150.png",
+      "url": "https://www.padelfip.com/player/martina-calvo-santamaria/"
+    },
+    {
+      "playerId": "P200001",
+      "firstName": "Alejandra",
+      "lastName": "Salazar Bengoechea",
+      "name": "Alejandra Salazar Bengoechea",
+      "rank": 13,
+      "points": 4787,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ALEJANDRA-SALAZAR-2-150x150.png",
+      "url": "https://www.padelfip.com/player/alejandra-salazar-bengoechea/"
+    },
+    {
+      "playerId": "P200124",
+      "firstName": "Alejandra",
+      "lastName": "Alonso De Villa",
+      "name": "Alejandra Alonso De Villa",
+      "rank": 14,
+      "points": 4639,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ALEJANDRA-ALONSO-150x150.png",
+      "url": "https://www.padelfip.com/player/alejandra-alonso-de-villa/"
+    },
+    {
+      "playerId": "P000466",
+      "firstName": "Veronica",
+      "lastName": "Virseda",
+      "name": "Veronica Virseda",
+      "rank": 15,
+      "points": 4367,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/VERONICA-VIRSEDA-2-150x150.png",
+      "url": "https://www.padelfip.com/player/veronica-virseda/"
+    },
+    {
+      "playerId": "P000472",
+      "firstName": "Marina",
+      "lastName": "Guinart España",
+      "name": "Marina Guinart España",
+      "rank": 16,
+      "points": 4279,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MARINA-GUINART-150x150.png",
+      "url": "https://www.padelfip.com/player/marina-guinart-espana/"
+    },
+    {
+      "playerId": "P200013",
+      "firstName": "Aranzazu",
+      "lastName": "Osoro Ulrich",
+      "name": "Aranzazu Osoro Ulrich",
+      "rank": 17,
+      "points": 3310,
+      "move": 2,
+      "country": "ARG",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ARANCIA-OSORO-150x150.png",
+      "url": "https://www.padelfip.com/player/aranzazu-osoro-ulrich/"
+    },
+    {
+      "playerId": "P200029",
+      "firstName": "Beatriz",
+      "lastName": "Caldera Sanchez",
+      "name": "Beatriz Caldera Sanchez",
+      "rank": 18,
+      "points": 3159,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/BEATRIZ-CALDERA-150x150.png",
+      "url": "https://www.padelfip.com/player/beatriz-caldera-sanchez/"
+    },
+    {
+      "playerId": "P200030",
+      "firstName": "Carmen",
+      "lastName": "Goenaga Garcia",
+      "name": "Carmen Goenaga Garcia",
+      "rank": 18,
+      "points": 3159,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/CARMEN-GOENAGA-1-150x150.png",
+      "url": "https://www.padelfip.com/player/carmen-goenaga-garcia/"
+    },
+    {
+      "playerId": "P200012",
+      "firstName": "Victoria",
+      "lastName": "Iglesias Segador",
+      "name": "Victoria Iglesias Segador",
+      "rank": 20,
+      "points": 2794,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/VICTORIA-IGLESIAS-150x150.png",
+      "url": "https://www.padelfip.com/player/victoria-iglesias-segador/"
+    },
+    {
+      "playerId": "P200008",
+      "firstName": "Patricia",
+      "lastName": "Llaguno Zielinski",
+      "name": "Patricia Llaguno Zielinski",
+      "rank": 21,
+      "points": 2654,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/PATRICIA-LLAGUNO-2-150x150.png",
+      "url": "https://www.padelfip.com/player/patricia-llaguno-zielinski/"
+    },
+    {
+      "playerId": "P200247",
+      "firstName": "Raquel",
+      "lastName": "Eugenio Barrera",
+      "name": "Raquel Eugenio Barrera",
+      "rank": 22,
+      "points": 2650,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/RAQUEL-EUGENIO-150x150.png",
+      "url": "https://www.padelfip.com/player/raquel-eugenio-barrera/"
+    },
+    {
+      "playerId": "P200009",
+      "firstName": "Lucia",
+      "lastName": "Sainz Pelegri",
+      "name": "Lucia Sainz Pelegri",
+      "rank": 23,
+      "points": 2629,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LUCIA-SAINZ-2-150x150.png",
+      "url": "https://www.padelfip.com/player/lucia-sainz-pelegri/"
+    },
+    {
+      "playerId": "P000538",
+      "firstName": "Martina",
+      "lastName": "Fassio Goyeneche",
+      "name": "Martina Fassio Goyeneche",
+      "rank": 24,
+      "points": 2590,
+      "move": 0,
+      "country": "ARG",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MARTINA-FASSIO-150x150.png",
+      "url": "https://www.padelfip.com/player/martina-fassio-goyeneche/"
+    },
+    {
+      "playerId": "P000456",
+      "firstName": "Nuria",
+      "lastName": "Rodriguez",
+      "name": "Nuria Rodriguez",
+      "rank": 25,
+      "points": 2494,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/01/NURIA-RODRIGUEZ-150x150.png",
+      "url": "https://www.padelfip.com/player/nuria-rodriguez/"
+    },
+    {
+      "playerId": "P200092",
+      "firstName": "Marta",
+      "lastName": "Barrera De La Fuente",
+      "name": "Marta Barrera De La Fuente",
+      "rank": 26,
+      "points": 2259,
+      "move": 4,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Marta-Barrera-c-150x150.png",
+      "url": "https://www.padelfip.com/player/marta-barrera-de-la-fuente/"
+    },
+    {
+      "playerId": "P002020",
+      "firstName": "Jessica",
+      "lastName": "Castello Lopez",
+      "name": "Jessica Castello Lopez",
+      "rank": 27,
+      "points": 2205,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JESSICA-CASTELLO-150x150.png",
+      "url": "https://www.padelfip.com/player/jessica-castello-lopez/"
+    },
+    {
+      "playerId": "P000477",
+      "firstName": "Lorena",
+      "lastName": "Rufo Ortiz",
+      "name": "Lorena Rufo Ortiz",
+      "rank": 27,
+      "points": 2205,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LORENA-RUFO-2-150x150.png",
+      "url": "https://www.padelfip.com/player/lorena-rufo-ortiz/"
+    },
+    {
+      "playerId": "P000455",
+      "firstName": "Jimena",
+      "lastName": "Velasco Postiguillo",
+      "name": "Jimena Velasco Postiguillo",
+      "rank": 29,
+      "points": 2175,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Velasco-c-150x150.png",
+      "url": "https://www.padelfip.com/player/jimena-velasco-postiguillo/"
+    },
+    {
+      "playerId": "P000452",
+      "firstName": "Carolina",
+      "lastName": "Orsi",
+      "name": "Carolina Orsi",
+      "rank": 30,
+      "points": 2174,
+      "move": -2,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ORSI-150x150.png",
+      "url": "https://www.padelfip.com/player/carolina-orsi/"
+    },
+    {
+      "playerId": "P202302",
+      "firstName": "Giulia",
+      "lastName": "Dal Pozzo",
+      "name": "Giulia Dal Pozzo",
+      "rank": 31,
+      "points": 2160,
+      "move": 0,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/GIULIA-DAL-POZZO-150x150.png",
+      "url": "https://www.padelfip.com/player/giulia-dal-pozzo/"
+    },
+    {
+      "playerId": "P200148",
+      "firstName": "Maria Eulalia",
+      "lastName": "Rodriguez Abajo",
+      "name": "Maria Eulalia Rodriguez Abajo",
+      "rank": 32,
+      "points": 1875,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MARIA-EULAJA-ABAJO-150x150.png",
+      "url": "https://www.padelfip.com/player/maria-eulalia-rodriguez-abajo/"
+    },
+    {
+      "playerId": "P200040",
+      "firstName": "Noa",
+      "lastName": "Canovas Paredes",
+      "name": "Noa Canovas Paredes",
+      "rank": 32,
+      "points": 1875,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/NOA-CANOVAS-150x150.png",
+      "url": "https://www.padelfip.com/player/noa-canovas-paredes/"
+    },
+    {
+      "playerId": "P200133",
+      "firstName": "Ksenia",
+      "lastName": "Sharifova",
+      "name": "Ksenia Sharifova",
+      "rank": 34,
+      "points": 1729,
+      "move": 0,
+      "country": "RUS",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/KSENIA-SHARIFOVA-2-150x150.png",
+      "url": "https://www.padelfip.com/player/ksenia-sharifova/"
+    },
+    {
+      "playerId": "P200007",
+      "firstName": "Virginia",
+      "lastName": "Riera",
+      "name": "Virginia Riera",
+      "rank": 35,
+      "points": 1705,
+      "move": 2,
+      "country": "ARG",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/VIRGINIA-RIERA-7-150x150.png",
+      "url": "https://www.padelfip.com/player/virginia-riera/"
+    },
+    {
+      "playerId": "P000450",
+      "firstName": "Araceli",
+      "lastName": "Martinez",
+      "name": "Araceli Martinez",
+      "rank": 36,
+      "points": 1656,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ARACELI-MARTINEZ-2-150x150.png",
+      "url": "https://www.padelfip.com/player/araceli-martinez/"
+    },
+    {
+      "playerId": "P200020",
+      "firstName": "Alix",
+      "lastName": "Collombon",
+      "name": "Alix Collombon",
+      "rank": 37,
+      "points": 1624,
+      "move": -1,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/COLLOMBON-150x150.png",
+      "url": "https://www.padelfip.com/player/alix-collombon/"
+    },
+    {
+      "playerId": "P200366",
+      "firstName": "Jana",
+      "lastName": "Montes Cabruja",
+      "name": "Jana Montes Cabruja",
+      "rank": 38,
+      "points": 1558,
+      "move": 5,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/JANA-MONTES-1-150x150.png",
+      "url": "https://www.padelfip.com/player/jana-montes-cabruja/"
+    },
+    {
+      "playerId": "P000484",
+      "firstName": "Julieta Evangelina",
+      "lastName": "Bidahorria",
+      "name": "Julieta Evangelina Bidahorria",
+      "rank": 39,
+      "points": 1490,
+      "move": 2,
+      "country": "ARG",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JULETTA-BIDAHORRIA-150x150.png",
+      "url": "https://www.padelfip.com/player/julieta-evangelina-bidahorria/"
+    },
+    {
+      "playerId": "P200063",
+      "firstName": "Marta",
+      "lastName": "Caparros Maldonado",
+      "name": "Marta Caparros Maldonado",
+      "rank": 40,
+      "points": 1489,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/CAPARROS-150x150.png",
+      "url": "https://www.padelfip.com/player/marta-caparros-maldonado/"
+    },
+    {
+      "playerId": "330614",
+      "firstName": "Lucia",
+      "lastName": "Martinez Gomez",
+      "name": "Lucia Martinez Gomez",
+      "rank": 41,
+      "points": 1440,
+      "move": -3,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LUCIA-MARTINEZ-GOMEZ-2-150x150.png",
+      "url": "https://www.padelfip.com/player/lucia-martinez-gomez/"
+    },
+    {
+      "playerId": "P000541",
+      "firstName": "Marta",
+      "lastName": "Talavan",
+      "name": "Marta Talavan",
+      "rank": 42,
+      "points": 1439,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/TALAVAN-150x150.png",
+      "url": "https://www.padelfip.com/player/marta-talavan/"
+    },
+    {
+      "playerId": "P200184",
+      "firstName": "Agueda",
+      "lastName": "Perez Ortiz",
+      "name": "Agueda Perez Ortiz",
+      "rank": 43,
+      "points": 1385,
+      "move": -4,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/AGUEDA-PEREZ-2-150x150.png",
+      "url": "https://www.padelfip.com/player/agueda-perez-ortiz/"
+    },
+    {
+      "playerId": "P200896",
+      "firstName": "Laura",
+      "lastName": "Lujan Rodriguez",
+      "name": "Laura Lujan Rodriguez",
+      "rank": 44,
+      "points": 1381,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LAURA-LUJAN-150x150.png",
+      "url": "https://www.padelfip.com/player/laura-lujan-rodriguez/"
+    },
+    {
+      "playerId": "P200131",
+      "firstName": "Letizia Maria",
+      "lastName": "Manquillo Alarza",
+      "name": "Letizia Maria Manquillo Alarza",
+      "rank": 45,
+      "points": 1375,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LETIZIA-MANQUILLO-2-150x150.png",
+      "url": "https://www.padelfip.com/player/letizia-maria-manquillo-alarza/"
+    },
+    {
+      "playerId": "P200110",
+      "firstName": "Noemi",
+      "lastName": "Aguilar Carrillo",
+      "name": "Noemi Aguilar Carrillo",
+      "rank": 46,
+      "points": 1351,
+      "move": -4,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/NOEMI-AGUILAR-2-150x150.png",
+      "url": "https://www.padelfip.com/player/noemi-aguilar-carrillo/"
+    },
+    {
+      "playerId": "P000473",
+      "firstName": "Marta",
+      "lastName": "Borrero",
+      "name": "Marta Borrero",
+      "rank": 47,
+      "points": 1308,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MARTA-BORRERO-150x150.png",
+      "url": "https://www.padelfip.com/player/marta-borrero/"
+    },
+    {
+      "playerId": "P200899",
+      "firstName": "Lara",
+      "lastName": "Arruabarrena",
+      "name": "Lara Arruabarrena",
+      "rank": 48,
+      "points": 1294,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LARA-ARRUABBARENA-150x150.png",
+      "url": "https://www.padelfip.com/player/lara-arruabarrena/"
+    },
+    {
+      "playerId": "P200044",
+      "firstName": "Sofia",
+      "lastName": "Saiz Vallejo",
+      "name": "Sofia Saiz Vallejo",
+      "rank": 49,
+      "points": 1245,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/SOFIA-SAINZ-150x150.png",
+      "url": "https://www.padelfip.com/player/sofia-saiz-vallejo/"
+    },
+    {
+      "playerId": "P200059",
+      "firstName": "Patricia",
+      "lastName": "Martinez Fortun",
+      "name": "Patricia Martinez Fortun",
+      "rank": 50,
+      "points": 1242,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/PATRICIA-MARTINEZ-150x150.png",
+      "url": "https://www.padelfip.com/player/patricia-martinez-fortun/"
+    },
+    {
+      "playerId": "P200038",
+      "firstName": "Lea",
+      "lastName": "Godallier",
+      "name": "Lea Godallier",
+      "rank": 51,
+      "points": 1230,
+      "move": 0,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LEA-GODALIER-150x150.png",
+      "url": "https://www.padelfip.com/player/lea-godallier/"
+    },
+    {
+      "playerId": "P000488",
+      "firstName": "Julia",
+      "lastName": "Polo Bautista",
+      "name": "Julia Polo Bautista",
+      "rank": 51,
+      "points": 1230,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JULIA-POLO-2-150x150.png",
+      "url": "https://www.padelfip.com/player/julia-polo-bautista/"
+    },
+    {
+      "playerId": "317387",
+      "firstName": "Giorgia",
+      "lastName": "Marchetti",
+      "name": "Giorgia Marchetti",
+      "rank": 53,
+      "points": 1224,
+      "move": 1,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/GIORGIA-MARCHETTI-150x150.png",
+      "url": "https://www.padelfip.com/player/giorgia-marchetti/"
+    },
+    {
+      "playerId": "P000478",
+      "firstName": "Teresa",
+      "lastName": "Navarro lopez-Barajas",
+      "name": "Teresa Navarro lopez-Barajas",
+      "rank": 54,
+      "points": 1211,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/NAVARRO-TERESA-150x150.png",
+      "url": "https://www.padelfip.com/player/teresa-navarro-lopez-barajas/"
+    },
+    {
+      "playerId": "P200042",
+      "firstName": "Marina",
+      "lastName": "Lobo",
+      "name": "Marina Lobo",
+      "rank": 55,
+      "points": 1210,
+      "move": -2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MARINA-LOBO-150x150.png",
+      "url": "https://www.padelfip.com/player/marina-lobo/"
+    },
+    {
+      "playerId": "P200185",
+      "firstName": "Amanda",
+      "lastName": "Lopez Moral",
+      "name": "Amanda Lopez Moral",
+      "rank": 56,
+      "points": 1141,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/AMANDA-LOPEZ-MORAL-150x150.png",
+      "url": "https://www.padelfip.com/player/amanda-lopez-moral/"
+    },
+    {
+      "playerId": "P200075",
+      "firstName": "Melania",
+      "lastName": "Merino Saez",
+      "name": "Melania Merino Saez",
+      "rank": 57,
+      "points": 1116,
+      "move": -2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MERINO-1-150x150.png",
+      "url": "https://www.padelfip.com/player/melania-merino-saez/"
+    },
+    {
+      "playerId": "P000432",
+      "firstName": "Daiara Agustina",
+      "lastName": "Valenzuela",
+      "name": "Daiara Agustina Valenzuela",
+      "rank": 58,
+      "points": 1106,
+      "move": 0,
+      "country": "ARG",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/DAIARA-VALENZUELA-150x150.png",
+      "url": "https://www.padelfip.com/player/daiara-agustina-valenzuela/"
+    },
+    {
+      "playerId": "P200036",
+      "firstName": "Ariadna",
+      "lastName": "Cañellas Rodero",
+      "name": "Ariadna Cañellas Rodero",
+      "rank": 59,
+      "points": 1079,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/ARIADNA-CANELLAS-150x150.png",
+      "url": "https://www.padelfip.com/player/ariadna-canellas-rodero/"
+    },
+    {
+      "playerId": "P200028",
+      "firstName": "Ana Catarina",
+      "lastName": "Nogueira",
+      "name": "Ana Catarina Nogueira",
+      "rank": 60,
+      "points": 1062,
+      "move": -1,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ANA-CATARINA-NOGUEIRA-4-150x150.png",
+      "url": "https://www.padelfip.com/player/ana-catarina-nogueira/"
+    },
+    {
+      "playerId": "P202063",
+      "firstName": "Claudia",
+      "lastName": "Escacena Montero",
+      "name": "Claudia Escacena Montero",
+      "rank": 61,
+      "points": 991,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/claudia-escacena-montero/"
+    },
+    {
+      "playerId": "P000489",
+      "firstName": "Barbara",
+      "lastName": "Las Heras",
+      "name": "Barbara Las Heras",
+      "rank": 62,
+      "points": 931,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/BARBARA-LAS-HERAS-150x150.png",
+      "url": "https://www.padelfip.com/player/barbara-las-heras/"
+    },
+    {
+      "playerId": "P200356",
+      "firstName": "Aida",
+      "lastName": "Martinez Sanjuan",
+      "name": "Aida Martinez Sanjuan",
+      "rank": 63,
+      "points": 851,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/AIDA-MARTINEZ-150x150.png",
+      "url": "https://www.padelfip.com/player/aida-martinez-sanjuan/"
+    },
+    {
+      "playerId": "P000471",
+      "firstName": "Sandra",
+      "lastName": "Bellver Fructuoso",
+      "name": "Sandra Bellver Fructuoso",
+      "rank": 63,
+      "points": 851,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/SANDRA-BELLVER-2-150x150.png",
+      "url": "https://www.padelfip.com/player/sandra-bellver-fructuoso/"
+    },
+    {
+      "playerId": "P002025",
+      "firstName": "Marta",
+      "lastName": "Arellano Navarro",
+      "name": "Marta Arellano Navarro",
+      "rank": 65,
+      "points": 799,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/MARTA-ARELLANO-150x150.png",
+      "url": "https://www.padelfip.com/player/marta-arellano-navarro/"
+    },
+    {
+      "playerId": "P200176",
+      "firstName": "Ana",
+      "lastName": "Dominguez Gracia",
+      "name": "Ana Dominguez Gracia",
+      "rank": 66,
+      "points": 787,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/ANA-DOMINGUEZ-150x150.png",
+      "url": "https://www.padelfip.com/player/ana-dominguez-gracia/"
+    },
+    {
+      "playerId": "P200081",
+      "firstName": "Monica",
+      "lastName": "Gomez Rivas",
+      "name": "Monica Gomez Rivas",
+      "rank": 67,
+      "points": 784,
+      "move": 4,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MONICA-GOMEZ-2-150x150.png",
+      "url": "https://www.padelfip.com/player/monica-gomez-rivas/"
+    },
+    {
+      "playerId": "P000462",
+      "firstName": "Raquel",
+      "lastName": "Piltcher",
+      "name": "Raquel Piltcher",
+      "rank": 68,
+      "points": 778,
+      "move": -2,
+      "country": "BRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Brazil_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Raquel-Piltcher-c-150x150.png",
+      "url": "https://www.padelfip.com/player/raquel-piltcher/"
+    },
+    {
+      "playerId": "P200019",
+      "firstName": "Carolina",
+      "lastName": "Navarro Björk",
+      "name": "Carolina Navarro Björk",
+      "rank": 68,
+      "points": 778,
+      "move": -4,
+      "country": "SWE",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Sweden_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/CAROLINA-NAVARRO-150x150.png",
+      "url": "https://www.padelfip.com/player/carolina-navarro-bjork/"
+    },
+    {
+      "playerId": "P200559",
+      "firstName": "Natividad",
+      "lastName": "Lopez Diaz",
+      "name": "Natividad Lopez Diaz",
+      "rank": 70,
+      "points": 773,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/NAVIDAD-LOPEZ-DIAZ-150x150.png",
+      "url": "https://www.padelfip.com/player/natividad-lopez-diaz/"
+    },
+    {
+      "playerId": "P201785",
+      "firstName": "Camila",
+      "lastName": "Fassio Goyeneche",
+      "name": "Camila Fassio Goyeneche",
+      "rank": 71,
+      "points": 768,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/camila-fassio-goyeneche/"
+    },
+    {
+      "playerId": "P200162",
+      "firstName": "Lucia",
+      "lastName": "Peralta Exposito",
+      "name": "Lucia Peralta Exposito",
+      "rank": 72,
+      "points": 765,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/LUCIA-PERALTA-150x150.png",
+      "url": "https://www.padelfip.com/player/lucia-peralta-exposito/"
+    },
+    {
+      "playerId": "P002031",
+      "firstName": "Victoria",
+      "lastName": "Kurz",
+      "name": "Victoria Kurz",
+      "rank": 73,
+      "points": 752,
+      "move": -1,
+      "country": "GER",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Germany_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/VICTORIA-KURZ-1-150x150.png",
+      "url": "https://www.padelfip.com/player/victoria-kurz/"
+    },
+    {
+      "playerId": "P200111",
+      "firstName": "Alba",
+      "lastName": "Perez Momha",
+      "name": "Alba Perez Momha",
+      "rank": 74,
+      "points": 751,
+      "move": -2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/ALBA-PEREZ-150x150.png",
+      "url": "https://www.padelfip.com/player/alba-perez-momha/"
+    },
+    {
+      "playerId": "P200359",
+      "firstName": "Carla",
+      "lastName": "Fernandez Gonzalez",
+      "name": "Carla Fernandez Gonzalez",
+      "rank": 75,
+      "points": 732,
+      "move": 3,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Carla-Fernandez-c-150x150.png",
+      "url": "https://www.padelfip.com/player/carla-fernandez-gonzalez/"
+    },
+    {
+      "playerId": "P200255",
+      "firstName": "Marcella",
+      "lastName": "Koek",
+      "name": "Marcella Koek",
+      "rank": 76,
+      "points": 725,
+      "move": 0,
+      "country": "NED",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/MARCELA-KOEK-150x150.png",
+      "url": "https://www.padelfip.com/player/marcella-koek/"
+    },
+    {
+      "playerId": "P002024",
+      "firstName": "Caterina Maria",
+      "lastName": "Baldi",
+      "name": "Caterina Maria Baldi",
+      "rank": 77,
+      "points": 720,
+      "move": 6,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/caterina-maria-baldi/"
+    },
+    {
+      "playerId": "P200560",
+      "firstName": "Nerea",
+      "lastName": "Guerra Santana",
+      "name": "Nerea Guerra Santana",
+      "rank": 78,
+      "points": 701,
+      "move": 3,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Nera-Guerra-c-150x150.png",
+      "url": "https://www.padelfip.com/player/nerea-guerra-santana/"
+    },
+    {
+      "playerId": "P000534",
+      "firstName": "Carlotta",
+      "lastName": "Casali",
+      "name": "Carlotta Casali",
+      "rank": 79,
+      "points": 691,
+      "move": 0,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/CARLOTTA-CASALI-150x150.png",
+      "url": "https://www.padelfip.com/player/carlotta-casali/"
+    },
+    {
+      "playerId": "P200027",
+      "firstName": "Carla",
+      "lastName": "Mesa Salazar",
+      "name": "Carla Mesa Salazar",
+      "rank": 79,
+      "points": 691,
+      "move": -4,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/CARLA-MESA-150x150.png",
+      "url": "https://www.padelfip.com/player/carla-mesa-salazar/"
+    },
+    {
+      "playerId": "P200109",
+      "firstName": "Lucia",
+      "lastName": "Garcia Trella",
+      "name": "Lucia Garcia Trella",
+      "rank": 81,
+      "points": 682,
+      "move": -4,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/LUCIA-GARCIA-TRELLA-150x150.png",
+      "url": "https://www.padelfip.com/player/lucia-garcia-trella/"
+    },
+    {
+      "playerId": "P000453",
+      "firstName": "Lorena",
+      "lastName": "Vano",
+      "name": "Lorena Vano",
+      "rank": 82,
+      "points": 665,
+      "move": -2,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/LORENA-VANO-150x150.png",
+      "url": "https://www.padelfip.com/player/lorena-vano/"
+    },
+    {
+      "playerId": "P000479",
+      "firstName": "Maria",
+      "lastName": "Portillo Perez",
+      "name": "Maria Portillo Perez",
+      "rank": 83,
+      "points": 626,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/MARIA-PORTILLO-150x150.png",
+      "url": "https://www.padelfip.com/player/maria-portillo-perez/"
+    },
+    {
+      "playerId": "P200098",
+      "firstName": "Rebeca",
+      "lastName": "Lopez Lopez",
+      "name": "Rebeca Lopez Lopez",
+      "rank": 84,
+      "points": 620,
+      "move": 3,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/REBECA-LOPEZ-150x150.png",
+      "url": "https://www.padelfip.com/player/rebeca-lopez-lopez/"
+    },
+    {
+      "playerId": "P200925",
+      "firstName": "Anna",
+      "lastName": "Ortiz Gasco",
+      "name": "Anna Ortiz Gasco",
+      "rank": 84,
+      "points": 620,
+      "move": -2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/ANNA-ORTIZ-150x150.png",
+      "url": "https://www.padelfip.com/player/anna-ortiz-gasco/"
+    },
+    {
+      "playerId": "P201863",
+      "firstName": "Maria Laura",
+      "lastName": "Ferreyra",
+      "name": "Maria Laura Ferreyra",
+      "rank": 86,
+      "points": 613,
+      "move": 3,
+      "country": "ARG",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/maria-laura-ferreyra/"
+    },
+    {
+      "playerId": "P200153",
+      "firstName": "Camila",
+      "lastName": "Ramme Coellar",
+      "name": "Camila Ramme Coellar",
+      "rank": 87,
+      "points": 611,
+      "move": -2,
+      "country": "MEX",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/camila-ramme-coellar/"
+    },
+    {
+      "playerId": "P201526",
+      "firstName": "Carla",
+      "lastName": "Touly",
+      "name": "Carla Touly",
+      "rank": 88,
+      "points": 607,
+      "move": -2,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/CARLA-TOULY-150x150.png",
+      "url": "https://www.padelfip.com/player/carla-touly/"
+    },
+    {
+      "playerId": "P202287",
+      "firstName": "Brittany",
+      "lastName": "Dubins",
+      "name": "Brittany Dubins",
+      "rank": 89,
+      "points": 595,
+      "move": -1,
+      "country": "USA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/USA_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Dubins-c-150x150.png",
+      "url": "https://www.padelfip.com/player/brittany-dubins/"
+    },
+    {
+      "playerId": "P200308",
+      "firstName": "Clarissa",
+      "lastName": "Margherita Aima",
+      "name": "Clarissa Margherita Aima",
+      "rank": 90,
+      "points": 564,
+      "move": 0,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Clarissa-Aima-c-150x150.png",
+      "url": "https://www.padelfip.com/player/clarissa-margherita-aima/"
+    },
+    {
+      "playerId": "P200102",
+      "firstName": "Ana",
+      "lastName": "Varo Ramos",
+      "name": "Ana Varo Ramos",
+      "rank": 91,
+      "points": 517,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/ANA-VARO-150x150.png",
+      "url": "https://www.padelfip.com/player/ana-varo-ramos/"
+    },
+    {
+      "playerId": "P200079",
+      "firstName": "Lucia",
+      "lastName": "Perez Parra",
+      "name": "Lucia Perez Parra",
+      "rank": 92,
+      "points": 506,
+      "move": 3,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Lucia-Perez-C-150x150.jpg",
+      "url": "https://www.padelfip.com/player/lucia-perez-parra/"
+    },
+    {
+      "playerId": "P000490",
+      "firstName": "Esther",
+      "lastName": "Carnicero Martin",
+      "name": "Esther Carnicero Martin",
+      "rank": 92,
+      "points": 506,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/CARNICERO-150x150.png",
+      "url": "https://www.padelfip.com/player/esther-carnicero-martin/"
+    },
+    {
+      "playerId": "P000467",
+      "firstName": "Emily",
+      "lastName": "Stellato",
+      "name": "Emily Stellato",
+      "rank": 94,
+      "points": 505,
+      "move": 0,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Emily-Stellato-Centrale-150x150.png",
+      "url": "https://www.padelfip.com/player/emily-stellato/"
+    },
+    {
+      "playerId": "P000536",
+      "firstName": "Giulia",
+      "lastName": "Sussarello",
+      "name": "Giulia Sussarello",
+      "rank": 95,
+      "points": 503,
+      "move": 4,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/SUSSARELLO-GIULIA-12-centrale-150x150.png",
+      "url": "https://www.padelfip.com/player/giulia-sussarello/"
+    },
+    {
+      "playerId": "P200049",
+      "firstName": "Xenia",
+      "lastName": "Clasca Vidiella",
+      "name": "Xenia Clasca Vidiella",
+      "rank": 96,
+      "points": 502,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/xenia-clasca-vidiella/"
+    },
+    {
+      "playerId": "P200728",
+      "firstName": "Catherine",
+      "lastName": "Rose",
+      "name": "Catherine Rose",
+      "rank": 97,
+      "points": 493,
+      "move": 0,
+      "country": "GBR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/GreatBritain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/catherine-rose/"
+    },
+    {
+      "playerId": "P000483",
+      "firstName": "Sara",
+      "lastName": "Ruiz Soto",
+      "name": "Sara Ruiz Soto",
+      "rank": 97,
+      "points": 493,
+      "move": -6,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/SARA-RUIZ-150x150.png",
+      "url": "https://www.padelfip.com/player/sara-ruiz-soto/"
+    },
+    {
+      "playerId": "P202472",
+      "firstName": "Blanca",
+      "lastName": "Arriola Cerrejon",
+      "name": "Blanca Arriola Cerrejon",
+      "rank": 99,
+      "points": 484,
+      "move": 6,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/blanca-arriola-cerrejon/"
+    },
+    {
+      "playerId": "P200129",
+      "firstName": "Aitana",
+      "lastName": "Garcia Roman",
+      "name": "Aitana Garcia Roman",
+      "rank": 100,
+      "points": 483,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/AITANA-GARCIA-150x150.png",
+      "url": "https://www.padelfip.com/player/aitana-garcia-roman/"
+    },
+    {
+      "playerId": "P201837",
+      "firstName": "Aimee",
+      "lastName": "Gibson",
+      "name": "Aimee Gibson",
+      "rank": 101,
+      "points": 480,
+      "move": -5,
+      "country": "GBR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/GreatBritain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/AIMEE-GIBSON-150x150.png",
+      "url": "https://www.padelfip.com/player/aimee-gibson/"
+    },
+    {
+      "playerId": "P200190",
+      "firstName": "Lucia Micaela",
+      "lastName": "Fernandez Lopez",
+      "name": "Lucia Micaela Fernandez Lopez",
+      "rank": 102,
+      "points": 475,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/lucia-micaela-fernandez-lopez/"
+    },
+    {
+      "playerId": "P200232",
+      "firstName": "Maria Teresa",
+      "lastName": "Moriñigo Gomez",
+      "name": "Maria Teresa  Moriñigo Gomez",
+      "rank": 103,
+      "points": 471,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/maria-teresa-morinigo-gomez/"
+    },
+    {
+      "playerId": "P200261",
+      "firstName": "Ainize",
+      "lastName": "Santamaria Landa",
+      "name": "Ainize Santamaria Landa",
+      "rank": 104,
+      "points": 467,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/ainize-santamaria-landa/"
+    },
+    {
+      "playerId": "P202112",
+      "firstName": "Bo",
+      "lastName": "Luttikhuis",
+      "name": "Bo Luttikhuis",
+      "rank": 105,
+      "points": 465,
+      "move": -1,
+      "country": "NED",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Bo-Luttikhuis-1-150x150.png",
+      "url": "https://www.padelfip.com/player/bo-luttikhuis/"
+    },
+    {
+      "playerId": "P200087",
+      "firstName": "Eugenia",
+      "lastName": "Guimet Bigas",
+      "name": "Eugenia Guimet Bigas",
+      "rank": 105,
+      "points": 465,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/eugenia-guimet-bigas/"
+    },
+    {
+      "playerId": "P200163",
+      "firstName": "Ana Cristina",
+      "lastName": "Sanchez Perez",
+      "name": "Ana Cristina Sanchez Perez",
+      "rank": 107,
+      "points": 443,
+      "move": 4,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/03/ana-sanxhez-c-150x150.png",
+      "url": "https://www.padelfip.com/player/ana-cristina-sanchez-perez/"
+    },
+    {
+      "playerId": "P000486",
+      "firstName": "Martina",
+      "lastName": "Parmigiani",
+      "name": "Martina Parmigiani",
+      "rank": 108,
+      "points": 432,
+      "move": -1,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/martina-parmigiani/"
+    },
+    {
+      "playerId": "P000475",
+      "firstName": "Carmen",
+      "lastName": "Castillon Gamez",
+      "name": "Carmen Castillon Gamez",
+      "rank": 109,
+      "points": 421,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Carmen-Castillon-Gamez-1-150x150.png",
+      "url": "https://www.padelfip.com/player/carmen-castillon-gamez/"
+    },
+    {
+      "playerId": "P200674",
+      "firstName": "Janine",
+      "lastName": "Hemmes",
+      "name": "Janine Hemmes",
+      "rank": 110,
+      "points": 412,
+      "move": 0,
+      "country": "NED",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/HEMMES-150x150.png",
+      "url": "https://www.padelfip.com/player/janine-hemmes/"
+    },
+    {
+      "playerId": "P202025",
+      "firstName": "Jimena",
+      "lastName": "Diaz De La Iglesia",
+      "name": "Jimena Diaz De La Iglesia",
+      "rank": 111,
+      "points": 393,
+      "move": 3,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/jimena-diaz-de-la-iglesia/"
+    },
+    {
+      "playerId": "P200236",
+      "firstName": "Catarina",
+      "lastName": "Santos Domingos",
+      "name": "Catarina Santos Domingos",
+      "rank": 112,
+      "points": 387,
+      "move": 0,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/catarina-santos-domingos/"
+    },
+    {
+      "playerId": "P200921",
+      "firstName": "Clarinha",
+      "lastName": "Santos",
+      "name": "Clarinha Santos",
+      "rank": 113,
+      "points": 385,
+      "move": 0,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/clarinha-santos/"
+    },
+    {
+      "playerId": "P200166",
+      "firstName": "Patricia",
+      "lastName": "Araus Lopez",
+      "name": "Patricia Araus Lopez",
+      "rank": 114,
+      "points": 384,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/patricia-araus-lopez/"
+    },
+    {
+      "playerId": "P200235",
+      "firstName": "Alba",
+      "lastName": "Gallardo Salvado",
+      "name": "Alba Gallardo Salvado",
+      "rank": 115,
+      "points": 382,
+      "move": -7,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/03/Alba-Gallardo-Salvado-150x150.png",
+      "url": "https://www.padelfip.com/player/alba-gallardo-salvado/"
+    },
+    {
+      "playerId": "P202137",
+      "firstName": "Louise",
+      "lastName": "Bahurel",
+      "name": "Louise Bahurel",
+      "rank": 116,
+      "points": 373,
+      "move": 0,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/louise-bahurel/"
+    },
+    {
+      "playerId": "P200222",
+      "firstName": "Natalia",
+      "lastName": "Molinilla Paniagua",
+      "name": "Natalia Molinilla Paniagua",
+      "rank": 117,
+      "points": 366,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/natalia-molinilla-paniagua/"
+    },
+    {
+      "playerId": "P000480",
+      "firstName": "Elsa",
+      "lastName": "Terranova",
+      "name": "Elsa Terranova",
+      "rank": 118,
+      "points": 364,
+      "move": 1,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/elsa-terranova/"
+    },
+    {
+      "playerId": "P202394",
+      "firstName": "Alba",
+      "lastName": "Vazquez Gracia",
+      "name": "Alba Vazquez Gracia",
+      "rank": 119,
+      "points": 363,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/alba-vazquez-gracia/"
+    },
+    {
+      "playerId": "P201968",
+      "firstName": "Dora",
+      "lastName": "Chamli",
+      "name": "Dora Chamli",
+      "rank": 120,
+      "points": 337,
+      "move": 0,
+      "country": "TUN",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Tunisia_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/03/Dna-Chamli-c-150x150.png",
+      "url": "https://www.padelfip.com/player/dora-chamli/"
+    },
+    {
+      "playerId": "P205711",
+      "firstName": "Maria",
+      "lastName": "Delgado Medina",
+      "name": "Maria Delgado Medina",
+      "rank": 121,
+      "points": 332,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/maria-delgado-medina/"
+    },
+    {
+      "playerId": "P000495",
+      "firstName": "Giorgia",
+      "lastName": "Rosi",
+      "name": "Giorgia Rosi",
+      "rank": 122,
+      "points": 331,
+      "move": 0,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/giorgia-rosi/"
+    },
+    {
+      "playerId": "P200279",
+      "firstName": "Ivet",
+      "lastName": "Val Lopez",
+      "name": "Ivet Val Lopez",
+      "rank": 123,
+      "points": 324,
+      "move": 3,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/ivet-val-lopez/"
+    },
+    {
+      "playerId": "P202126",
+      "firstName": "Kotomi",
+      "lastName": "Ozawa",
+      "name": "Kotomi Ozawa",
+      "rank": 124,
+      "points": 323,
+      "move": 0,
+      "country": "JPN",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Japan_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/kotomi-ozawa/"
+    },
+    {
+      "playerId": "P200492",
+      "firstName": "Angelina",
+      "lastName": "Neizvestnaya",
+      "name": "Angelina Neizvestnaya",
+      "rank": 125,
+      "points": 322,
+      "move": 4,
+      "country": "RUS",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/angelina-neizvestnaya/"
+    },
+    {
+      "playerId": "P204148",
+      "firstName": "Claudia",
+      "lastName": "Ordoñez Romero",
+      "name": "Claudia Ordoñez Romero",
+      "rank": 126,
+      "points": 319,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/claudia-ordonez-romero/"
+    },
+    {
+      "playerId": "P200127",
+      "firstName": "Valeria",
+      "lastName": "Atencia Basilio",
+      "name": "Valeria Atencia Basilio",
+      "rank": 127,
+      "points": 312,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/valeria-atencia-basilio/"
+    },
+    {
+      "playerId": "P200097",
+      "firstName": "Margarida",
+      "lastName": "Fernandes",
+      "name": "Margarida Fernandes",
+      "rank": 128,
+      "points": 310,
+      "move": 0,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/margarida-fernandes/"
+    },
+    {
+      "playerId": "P200920",
+      "firstName": "Constança",
+      "lastName": "Gorito",
+      "name": "Constança Gorito",
+      "rank": 129,
+      "points": 303,
+      "move": 1,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/constanca-gorito/"
+    },
+    {
+      "playerId": "P204388",
+      "firstName": "Anastasiia",
+      "lastName": "Ryzhova",
+      "name": "Anastasiia Ryzhova",
+      "rank": 130,
+      "points": 296,
+      "move": 4,
+      "country": "RUS",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/anastasiia-ryzhova/"
+    },
+    {
+      "playerId": "P200157",
+      "firstName": "Mafalda",
+      "lastName": "Marques Fernandes",
+      "name": "Mafalda Marques Fernandes",
+      "rank": 131,
+      "points": 295,
+      "move": 0,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/mafalda-marques-fernandes/"
+    },
+    {
+      "playerId": "P202585",
+      "firstName": "Alexandra",
+      "lastName": "Silva",
+      "name": "Alexandra Silva",
+      "rank": 132,
+      "points": 290,
+      "move": 0,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/alexandra-silva/"
+    },
+    {
+      "playerId": "P201986",
+      "firstName": "Camille",
+      "lastName": "Sireix",
+      "name": "Camille Sireix",
+      "rank": 133,
+      "points": 288,
+      "move": 2,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/camille-sireix/"
+    },
+    {
+      "playerId": "P204113",
+      "firstName": "Daniela",
+      "lastName": "Portilla Gomez",
+      "name": "Daniela Portilla Gomez",
+      "rank": 134,
+      "points": 285,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/daniela-portilla-gomez/"
+    },
+    {
+      "playerId": "P000464",
+      "firstName": "Manuela",
+      "lastName": "Schuck Silva",
+      "name": "Manuela Schuck Silva",
+      "rank": 135,
+      "points": 284,
+      "move": -13,
+      "country": "BRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Brazil_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Manuela-Schuck-1-150x150.png",
+      "url": "https://www.padelfip.com/player/manuela-schuck-silva/"
+    },
+    {
+      "playerId": "P205265",
+      "firstName": "Paula",
+      "lastName": "Ferrán",
+      "name": "Paula Ferrán",
+      "rank": 136,
+      "points": 282,
+      "move": 0,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/paula-ferran/"
+    },
+    {
+      "playerId": "P205747",
+      "firstName": "Daria",
+      "lastName": "Kucheriavaia",
+      "name": "Daria Kucheriavaia",
+      "rank": 137,
+      "points": 275,
+      "move": 22,
+      "country": "RUS",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/daria-kucheriavaia/"
+    },
+    {
+      "playerId": "P200090",
+      "firstName": "Patricia Maria",
+      "lastName": "Ribeiro",
+      "name": "Patricia Maria Ribeiro",
+      "rank": 137,
+      "points": 275,
+      "move": 0,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Patricia-Ribeiro-1-150x150.png",
+      "url": "https://www.padelfip.com/player/patricia-maria-ribeiro/"
+    },
+    {
+      "playerId": "P200188",
+      "firstName": "Tia",
+      "lastName": "Louisa Norton",
+      "name": "Tia Louisa Norton",
+      "rank": 139,
+      "points": 274,
+      "move": -1,
+      "country": "GBR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/GreatBritain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/tia-louisa-norton/"
+    },
+    {
+      "playerId": "P200260",
+      "firstName": "Stephanie",
+      "lastName": "Weterings",
+      "name": "Stephanie Weterings",
+      "rank": 140,
+      "points": 272,
+      "move": -1,
+      "country": "NED",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2024/01/GIOCATORI-CENTRALI-Stephanie-Weterings-150x150.jpg",
+      "url": "https://www.padelfip.com/player/stephanie-weterings/"
+    },
+    {
+      "playerId": "P200230",
+      "firstName": "Carla",
+      "lastName": "Fito Fernandez",
+      "name": "Carla Fito Fernandez",
+      "rank": 141,
+      "points": 266,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/carla-fito-fernandez/"
+    },
+    {
+      "playerId": "P000493",
+      "firstName": "Marianela",
+      "lastName": "Montesi",
+      "name": "Marianela Montesi",
+      "rank": 142,
+      "points": 265,
+      "move": 0,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/marianela-montesi/"
+    },
+    {
+      "playerId": "P202212",
+      "firstName": "Dora",
+      "lastName": "Andrejszki",
+      "name": "Dora Andrejszki",
+      "rank": 142,
+      "points": 265,
+      "move": -1,
+      "country": "HUN",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Hungary_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/dora-andrejszki/"
+    },
+    {
+      "playerId": "P201786",
+      "firstName": "Kae",
+      "lastName": "Tokumoto",
+      "name": "Kae Tokumoto",
+      "rank": 144,
+      "points": 261,
+      "move": -1,
+      "country": "JPN",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Japan_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/kae-tokumoto-2/"
+    },
+    {
+      "playerId": "P202488",
+      "firstName": "Camilla",
+      "lastName": "Livioni",
+      "name": "Camilla Livioni",
+      "rank": 144,
+      "points": 261,
+      "move": 2,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/camilla-livioni/"
+    },
+    {
+      "playerId": "P200170",
+      "firstName": "Bruna",
+      "lastName": "Albuquerque Melo",
+      "name": "Bruna Albuquerque Melo",
+      "rank": 144,
+      "points": 261,
+      "move": -1,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Bruna-Melo-1-150x150.png",
+      "url": "https://www.padelfip.com/player/bruna-albuquerque-melo/"
+    },
+    {
+      "playerId": "P200505",
+      "firstName": "Steffi",
+      "lastName": "Merah",
+      "name": "Steffi Merah",
+      "rank": 147,
+      "points": 254,
+      "move": -2,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/steffi-merah/"
+    },
+    {
+      "playerId": "P201788",
+      "firstName": "Sara",
+      "lastName": "Foguer Lapuente",
+      "name": "Sara Foguer Lapuente",
+      "rank": 148,
+      "points": 247,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/sara-foguer-lapuente/"
+    },
+    {
+      "playerId": "P203522",
+      "firstName": "Maria",
+      "lastName": "Arteaga Vilches",
+      "name": "Maria Arteaga Vilches",
+      "rank": 149,
+      "points": 242,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/maria-arteaga-vilches/"
+    },
+    {
+      "playerId": "P203078",
+      "firstName": "Susana",
+      "lastName": "Martin Marin",
+      "name": "Susana Martin Marin",
+      "rank": 149,
+      "points": 242,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/susana-martin-marin/"
+    },
+    {
+      "playerId": "P000449",
+      "firstName": "Anna",
+      "lastName": "Cortiles",
+      "name": "Anna Cortiles",
+      "rank": 151,
+      "points": 239,
+      "move": 7,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/anna-cortiles/"
+    },
+    {
+      "playerId": "P200691",
+      "firstName": "Justine",
+      "lastName": "Pysson",
+      "name": "Justine Pysson",
+      "rank": 152,
+      "points": 238,
+      "move": -3,
+      "country": "BEL",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Belgium_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/justine-pysson/"
+    },
+    {
+      "playerId": "P200671",
+      "firstName": "Rosalie",
+      "lastName": "Van Der Hoek",
+      "name": "Rosalie Van Der Hoek",
+      "rank": 153,
+      "points": 234,
+      "move": -3,
+      "country": "NED",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/GIOCATORI-CENTRALI-Rosalie-Van-Der-Hoek-150x150.jpg",
+      "url": "https://www.padelfip.com/player/rosalie-van-der-hoek/"
+    },
+    {
+      "playerId": "P002036",
+      "firstName": "Maaike",
+      "lastName": "Betz",
+      "name": "Maaike Betz",
+      "rank": 154,
+      "points": 229,
+      "move": -2,
+      "country": "NED",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Maaike-BETZ-1-150x150.png",
+      "url": "https://www.padelfip.com/player/maaike-betz/"
+    },
+    {
+      "playerId": "P000487",
+      "firstName": "Cristina",
+      "lastName": "Carrascosa Cazorla",
+      "name": "Cristina Carrascosa Cazorla",
+      "rank": 154,
+      "points": 229,
+      "move": -2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/cristina-carrascosa-cazorla/"
+    },
+    {
+      "playerId": "P204647",
+      "firstName": "Yoshino",
+      "lastName": "Kushima",
+      "name": "Yoshino Kushima",
+      "rank": 156,
+      "points": 228,
+      "move": -2,
+      "country": "JPN",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Japan_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/yoshino-kushima/"
+    },
+    {
+      "playerId": "P000481",
+      "firstName": "Lorena",
+      "lastName": "Alonso De Lera",
+      "name": "Lorena Alonso De Lera",
+      "rank": 157,
+      "points": 227,
+      "move": -2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Lorena-Alonso-De-Lera-1-150x150.png",
+      "url": "https://www.padelfip.com/player/lorena-alonso-de-lera/"
+    },
+    {
+      "playerId": "P200128",
+      "firstName": "Melissa",
+      "lastName": "Martin",
+      "name": "Melissa Martin",
+      "rank": 157,
+      "points": 227,
+      "move": -2,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/melissa-martin/"
+    },
+    {
+      "playerId": "P205180",
+      "firstName": "Nika",
+      "lastName": "Sluzhiteleva",
+      "name": "Nika Sluzhiteleva",
+      "rank": 157,
+      "points": 227,
+      "move": -2,
+      "country": "RUS",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/nika-sluzhiteleva/"
+    },
+    {
+      "playerId": "P000460",
+      "firstName": "Francesca",
+      "lastName": "Ligotti",
+      "name": "Francesca Ligotti",
+      "rank": 160,
+      "points": 219,
+      "move": 0,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/francesca-ligotti/"
+    },
+    {
+      "playerId": "P201961",
+      "firstName": "Cayetana",
+      "lastName": "Sanchez Vera",
+      "name": "Cayetana Sanchez Vera",
+      "rank": 161,
+      "points": 214,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/cayetana-sanchez-vera/"
+    },
+    {
+      "playerId": "P200678",
+      "firstName": "Liza",
+      "lastName": "Groenveld",
+      "name": "Liza Groenveld",
+      "rank": 161,
+      "points": 214,
+      "move": 4,
+      "country": "NED",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/liza-groenveld/"
+    },
+    {
+      "playerId": "P206165",
+      "firstName": "Martina",
+      "lastName": "Vera Cebollero",
+      "name": "Martina Vera Cebollero",
+      "rank": 163,
+      "points": 212,
+      "move": -2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/martina-vera-cebollero/"
+    },
+    {
+      "playerId": "P201794",
+      "firstName": "Lucia",
+      "lastName": "Dionisio Laureano",
+      "name": "Lucia Dionisio Laureano",
+      "rank": 163,
+      "points": 212,
+      "move": 1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/lucia-dionisio-laureano/"
+    },
+    {
+      "playerId": "P002021",
+      "firstName": "Tess",
+      "lastName": "De Vocht",
+      "name": "Tess De Vocht",
+      "rank": 163,
+      "points": 212,
+      "move": 3,
+      "country": "NED",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/tess-de-vocht/"
+    },
+    {
+      "playerId": "P200299",
+      "firstName": "Carmen",
+      "lastName": "Azcoitia Mazo",
+      "name": "Carmen Azcoitia Mazo",
+      "rank": 166,
+      "points": 208,
+      "move": -3,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/carmen-azcoitia-mazo/"
+    },
+    {
+      "playerId": "P204769",
+      "firstName": "Matilde",
+      "lastName": "Minelli",
+      "name": "Matilde Minelli",
+      "rank": 167,
+      "points": 200,
+      "move": 3,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/matilde-minelli/"
+    },
+    {
+      "playerId": "P206758",
+      "firstName": "Christina-Styliani",
+      "lastName": "Ntanou",
+      "name": "Christina-Styliani Ntanou",
+      "rank": 168,
+      "points": 196,
+      "move": 7,
+      "country": "GRE",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/04/Flag_of_Greece.png",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/christina-styliani-ntanou/"
+    },
+    {
+      "playerId": "P202289",
+      "firstName": "Coral",
+      "lastName": "Alvarez Castro",
+      "name": "Coral Alvarez Castro",
+      "rank": 169,
+      "points": 194,
+      "move": -2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/coral-alvarez-castro/"
+    },
+    {
+      "playerId": "P202070",
+      "firstName": "Claudia",
+      "lastName": "Gaspar",
+      "name": "Claudia Gaspar",
+      "rank": 169,
+      "points": 194,
+      "move": -2,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/claudia-gaspar/"
+    },
+    {
+      "playerId": "P200706",
+      "firstName": "Elyne",
+      "lastName": "Boeykens",
+      "name": "Elyne Boeykens",
+      "rank": 171,
+      "points": 193,
+      "move": -2,
+      "country": "BEL",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Belgium_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/elyne-boeykens/"
+    },
+    {
+      "playerId": "P206161",
+      "firstName": "Vilena",
+      "lastName": "Petrova",
+      "name": "Vilena Petrova",
+      "rank": 172,
+      "points": 192,
+      "move": 2,
+      "country": "RUS",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/vilena-petrova/"
+    },
+    {
+      "playerId": "P002022",
+      "firstName": "Puck",
+      "lastName": "Bernard",
+      "name": "Puck Bernard",
+      "rank": 173,
+      "points": 189,
+      "move": -2,
+      "country": "NED",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/puck-bernard/"
+    },
+    {
+      "playerId": "P200091",
+      "firstName": "Ana Maria",
+      "lastName": "Cabrejas Ruiz",
+      "name": "Ana Maria Cabrejas Ruiz",
+      "rank": 174,
+      "points": 188,
+      "move": -2,
+      "country": "MEX",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/ana-maria-cabrejas-ruiz/"
+    },
+    {
+      "playerId": "P201985",
+      "firstName": "Marie",
+      "lastName": "Amelie Dardaine",
+      "name": "Marie Amelie Dardaine",
+      "rank": 174,
+      "points": 188,
+      "move": -2,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/marie-amelie-dardaine/"
+    },
+    {
+      "playerId": "P200937",
+      "firstName": "Maria",
+      "lastName": "Garin",
+      "name": "Maria Garin",
+      "rank": 176,
+      "points": 185,
+      "move": -1,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/maria-garin/"
+    },
+    {
+      "playerId": "P203271",
+      "firstName": "Manon",
+      "lastName": "Marcarie",
+      "name": "Manon Marcarie",
+      "rank": 177,
+      "points": 184,
+      "move": 0,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/manon-marcarie/"
+    },
+    {
+      "playerId": "P205021",
+      "firstName": "Novela",
+      "lastName": "Putria",
+      "name": "Novela Putria",
+      "rank": 178,
+      "points": 180,
+      "move": 0,
+      "country": "INA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2026/05/Indonesia.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/novela-putria/"
+    },
+    {
+      "playerId": "P200713",
+      "firstName": "Lisa Rachel",
+      "lastName": "Phillips",
+      "name": "Lisa Rachel Phillips",
+      "rank": 179,
+      "points": 174,
+      "move": 0,
+      "country": "GBR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/GreatBritain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/lisa-rachel-phillips/"
+    },
+    {
+      "playerId": "P205209",
+      "firstName": "Kimy",
+      "lastName": "Barla",
+      "name": "Kimy Barla",
+      "rank": 180,
+      "points": 171,
+      "move": 2,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/kimy-barla/"
+    },
+    {
+      "playerId": "P204852",
+      "firstName": "Alena",
+      "lastName": "Vasileva",
+      "name": "Alena Vasileva",
+      "rank": 180,
+      "points": 171,
+      "move": 0,
+      "country": "RUS",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/alena-vasileva/"
+    },
+    {
+      "playerId": "P205404",
+      "firstName": "Nerea",
+      "lastName": "Gomez Blasquez",
+      "name": "Nerea Gomez Blasquez",
+      "rank": 182,
+      "points": 166,
+      "move": -2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/nerea-gomez-blasquez/"
+    },
+    {
+      "playerId": "P203867",
+      "firstName": "Marisol",
+      "lastName": "Fernandez Garcia",
+      "name": "Marisol Fernandez Garcia",
+      "rank": 182,
+      "points": 166,
+      "move": 23,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/marisol-fernandez-garcia/"
+    },
+    {
+      "playerId": "P200877",
+      "firstName": "Teresa Casero",
+      "lastName": "De La Casa",
+      "name": "Teresa Casero De La Casa",
+      "rank": 184,
+      "points": 162,
+      "move": -1,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/teresa-casero-de-la-casa/"
+    },
+    {
+      "playerId": "P206185",
+      "firstName": "Mar",
+      "lastName": "Munera Vila",
+      "name": "Mar Munera Vila",
+      "rank": 185,
+      "points": 161,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/mar-munera-vila/"
+    },
+    {
+      "playerId": "P203648",
+      "firstName": "Luna",
+      "lastName": "Di Battista",
+      "name": "Luna Di Battista",
+      "rank": 186,
+      "points": 160,
+      "move": 0,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/luna-di-battista/"
+    },
+    {
+      "playerId": "P200941",
+      "firstName": "Ainhoa",
+      "lastName": "Navarro Fernandez",
+      "name": "Ainhoa Navarro Fernandez",
+      "rank": 187,
+      "points": 159,
+      "move": -3,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/ainhoa-navarro-fernandez/"
+    },
+    {
+      "playerId": "P201781",
+      "firstName": "Laura",
+      "lastName": "Buteau",
+      "name": "Laura Buteau",
+      "rank": 188,
+      "points": 158,
+      "move": -3,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/laura-buteau/"
+    },
+    {
+      "playerId": "P206128",
+      "firstName": "Vlada",
+      "lastName": "Kutuzova",
+      "name": "Vlada Kutuzova",
+      "rank": 189,
+      "points": 157,
+      "move": 1,
+      "country": "RUS",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/vlada-kutuzova/"
+    },
+    {
+      "playerId": "P205204",
+      "firstName": "Lou",
+      "lastName": "Lambert Agosti",
+      "name": "Lou Lambert Agosti",
+      "rank": 190,
+      "points": 155,
+      "move": 2,
+      "country": "FRA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/lou-lambert-agosti/"
+    },
+    {
+      "playerId": "P200668",
+      "firstName": "Renata",
+      "lastName": "Martinez Becerra",
+      "name": "Renata Martinez Becerra",
+      "rank": 191,
+      "points": 153,
+      "move": -4,
+      "country": "MEX",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/renata-martinez-becerra/"
+    },
+    {
+      "playerId": "P201987",
+      "firstName": "Leire",
+      "lastName": "Uriarte Medina",
+      "name": "Leire Uriarte Medina",
+      "rank": 191,
+      "points": 153,
+      "move": -4,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/leire-uriarte-medina/"
+    },
+    {
+      "playerId": "P203440",
+      "firstName": "Jessica",
+      "lastName": "Palma",
+      "name": "Jessica Palma",
+      "rank": 193,
+      "points": 152,
+      "move": -3,
+      "country": "VEN",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Venezuela_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/jessica-palma/"
+    },
+    {
+      "playerId": "P203000",
+      "firstName": "Aurora",
+      "lastName": "Buscaino",
+      "name": "Aurora Buscaino",
+      "rank": 194,
+      "points": 151,
+      "move": -1,
+      "country": "ITA",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/aurora-buscaino/"
+    },
+    {
+      "playerId": "P202123",
+      "firstName": "Chifumi",
+      "lastName": "Sato",
+      "name": "Chifumi Sato",
+      "rank": 195,
+      "points": 149,
+      "move": -2,
+      "country": "JPN",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Japan_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/chifumi-sato/"
+    },
+    {
+      "playerId": "P203888",
+      "firstName": "Vega",
+      "lastName": "Cano Ortin",
+      "name": "Vega Cano Ortin",
+      "rank": 195,
+      "points": 149,
+      "move": 2,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/vega-cano-ortin/"
+    },
+    {
+      "playerId": "P201787",
+      "firstName": "Saki",
+      "lastName": "Tsukamoto",
+      "name": "Saki Tsukamoto",
+      "rank": 197,
+      "points": 146,
+      "move": -1,
+      "country": "JPN",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Japan_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/saki-tsukamoto/"
+    },
+    {
+      "playerId": "P203250",
+      "firstName": "Ekaterina",
+      "lastName": "Nikitina",
+      "name": "Ekaterina Nikitina",
+      "rank": 198,
+      "points": 143,
+      "move": 0,
+      "country": "RUS",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/ekaterina-nikitina/"
+    },
+    {
+      "playerId": "P204701",
+      "firstName": "Micaela",
+      "lastName": "Para",
+      "name": "Micaela Para",
+      "rank": 199,
+      "points": 142,
+      "move": 2,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/micaela-para/"
+    },
+    {
+      "playerId": "P204702",
+      "firstName": "Jessica",
+      "lastName": "Para",
+      "name": "Jessica Para",
+      "rank": 199,
+      "points": 142,
+      "move": 2,
+      "country": "POR",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/jessica-para/"
+    }
+  ],
+  "pairs": [
+    {
+      "id": "P200002+P200005",
+      "rank": 1,
+      "avgPoints": 18114,
+      "combinedPoints": 36228,
+      "sharedPoints": 18114,
+      "players": [
+        {
+          "playerId": "P200005",
+          "name": "Delfina Brea Senesi",
+          "shortName": "Brea Senesi",
+          "country": "ARG",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Delfi-c-150x150.png",
+          "rank": 1,
+          "points": 18114
+        },
+        {
+          "playerId": "P200002",
+          "name": "Gemma Triay Pons",
+          "shortName": "Triay Pons",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/TRIAY-150x150.png",
+          "rank": 1,
+          "points": 18114
+        }
+      ],
+      "countries": [
+        "ARG",
+        "ESP"
+      ],
+      "titles": 1,
+      "combinedMove": 0,
+      "source": "official",
+      "pairRank": 1
+    },
+    {
+      "id": "P000532+P203086",
+      "rank": 6,
+      "avgPoints": 8243,
+      "combinedPoints": 16486,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P000532",
+          "name": "Claudia Fernandez Sanchez",
+          "shortName": "Fernandez Sanchez",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/CLAUDIA-FERNANDEZ-150x150.png",
+          "rank": 6,
+          "points": 10887
+        },
+        {
+          "playerId": "P203086",
+          "name": "Martina Calvo Santamaria",
+          "shortName": "Calvo Santamaria",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/03/MARTINA-CALVO-1-150x150.png",
+          "rank": 12,
+          "points": 5599
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": 0,
+      "source": "circuit",
+      "pairRank": 2
+    },
+    {
+      "id": "P200029+P200030",
+      "rank": 18,
+      "avgPoints": 3159,
+      "combinedPoints": 6318,
+      "sharedPoints": 3159,
+      "players": [
+        {
+          "playerId": "P200029",
+          "name": "Beatriz Caldera Sanchez",
+          "shortName": "Caldera Sanchez",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/BEATRIZ-CALDERA-150x150.png",
+          "rank": 18,
+          "points": 3159
+        },
+        {
+          "playerId": "P200030",
+          "name": "Carmen Goenaga Garcia",
+          "shortName": "Goenaga Garcia",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/CARMEN-GOENAGA-1-150x150.png",
+          "rank": 18,
+          "points": 3159
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -2,
+      "source": "ranking",
+      "pairRank": 3
+    },
+    {
+      "id": "P000452+P200008",
+      "rank": 21,
+      "avgPoints": 2414,
+      "combinedPoints": 4828,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P200008",
+          "name": "Patricia Llaguno Zielinski",
+          "shortName": "Llaguno Zielinski",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/PATRICIA-LLAGUNO-2-150x150.png",
+          "rank": 21,
+          "points": 2654
+        },
+        {
+          "playerId": "P000452",
+          "name": "Carolina Orsi",
+          "shortName": "Orsi",
+          "country": "ITA",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ORSI-150x150.png",
+          "rank": 30,
+          "points": 2174
+        }
+      ],
+      "countries": [
+        "ITA",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -2,
+      "source": "circuit",
+      "pairRank": 4
+    },
+    {
+      "id": "P000477+P002020",
+      "rank": 27,
+      "avgPoints": 2205,
+      "combinedPoints": 4410,
+      "sharedPoints": 2205,
+      "players": [
+        {
+          "playerId": "P002020",
+          "name": "Jessica Castello Lopez",
+          "shortName": "Castello Lopez",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JESSICA-CASTELLO-150x150.png",
+          "rank": 27,
+          "points": 2205
+        },
+        {
+          "playerId": "P000477",
+          "name": "Lorena Rufo Ortiz",
+          "shortName": "Rufo Ortiz",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LORENA-RUFO-2-150x150.png",
+          "rank": 27,
+          "points": 2205
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -2,
+      "source": "ranking",
+      "pairRank": 5
+    },
+    {
+      "id": "P200040+P200148",
+      "rank": 32,
+      "avgPoints": 1875,
+      "combinedPoints": 3750,
+      "sharedPoints": 1875,
+      "players": [
+        {
+          "playerId": "P200148",
+          "name": "Maria Eulalia Rodriguez Abajo",
+          "shortName": "Rodriguez Abajo",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MARIA-EULAJA-ABAJO-150x150.png",
+          "rank": 32,
+          "points": 1875
+        },
+        {
+          "playerId": "P200040",
+          "name": "Noa Canovas Paredes",
+          "shortName": "Canovas Paredes",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/NOA-CANOVAS-150x150.png",
+          "rank": 32,
+          "points": 1875
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 1,
+      "combinedMove": 0,
+      "source": "ranking",
+      "pairRank": 6
+    },
+    {
+      "id": "P000478+P200007",
+      "rank": 35,
+      "avgPoints": 1458,
+      "combinedPoints": 2916,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P200007",
+          "name": "Virginia Riera",
+          "shortName": "Riera",
+          "country": "ARG",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/VIRGINIA-RIERA-7-150x150.png",
+          "rank": 35,
+          "points": 1705
+        },
+        {
+          "playerId": "P000478",
+          "name": "Teresa Navarro lopez-Barajas",
+          "shortName": "Navarro lopez-Barajas",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/NAVARRO-TERESA-150x150.png",
+          "rank": 54,
+          "points": 1211
+        }
+      ],
+      "countries": [
+        "ESP",
+        "ARG"
+      ],
+      "titles": 1,
+      "combinedMove": 3,
+      "source": "circuit",
+      "pairRank": 7
+    },
+    {
+      "id": "P000488+P200038",
+      "rank": 51,
+      "avgPoints": 1230,
+      "combinedPoints": 2460,
+      "sharedPoints": 1230,
+      "players": [
+        {
+          "playerId": "P200038",
+          "name": "Lea Godallier",
+          "shortName": "Godallier",
+          "country": "FRA",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LEA-GODALIER-150x150.png",
+          "rank": 51,
+          "points": 1230
+        },
+        {
+          "playerId": "P000488",
+          "name": "Julia Polo Bautista",
+          "shortName": "Polo Bautista",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JULIA-POLO-2-150x150.png",
+          "rank": 51,
+          "points": 1230
+        }
+      ],
+      "countries": [
+        "FRA",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -1,
+      "source": "ranking",
+      "pairRank": 8
+    },
+    {
+      "id": "P200036+P200185",
+      "rank": 56,
+      "avgPoints": 1110,
+      "combinedPoints": 2220,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P200185",
+          "name": "Amanda Lopez Moral",
+          "shortName": "Lopez Moral",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/AMANDA-LOPEZ-MORAL-150x150.png",
+          "rank": 56,
+          "points": 1141
+        },
+        {
+          "playerId": "P200036",
+          "name": "Ariadna Cañellas Rodero",
+          "shortName": "Cañellas Rodero",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/ARIADNA-CANELLAS-150x150.png",
+          "rank": 59,
+          "points": 1079
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 1,
+      "combinedMove": 2,
+      "source": "circuit",
+      "pairRank": 9
+    },
+    {
+      "id": "P200028+P201785",
+      "rank": 60,
+      "avgPoints": 915,
+      "combinedPoints": 1830,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P200028",
+          "name": "Ana Catarina Nogueira",
+          "shortName": "Nogueira",
+          "country": "POR",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ANA-CATARINA-NOGUEIRA-4-150x150.png",
+          "rank": 60,
+          "points": 1062
+        },
+        {
+          "playerId": "P201785",
+          "name": "Camila Fassio Goyeneche",
+          "shortName": "Fassio Goyeneche",
+          "country": "ESP",
+          "photo": null,
+          "rank": 71,
+          "points": 768
+        }
+      ],
+      "countries": [
+        "POR",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -2,
+      "source": "circuit",
+      "pairRank": 10
+    },
+    {
+      "id": "P000471+P200356",
+      "rank": 63,
+      "avgPoints": 851,
+      "combinedPoints": 1702,
+      "sharedPoints": 851,
+      "players": [
+        {
+          "playerId": "P200356",
+          "name": "Aida Martinez Sanjuan",
+          "shortName": "Martinez Sanjuan",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/AIDA-MARTINEZ-150x150.png",
+          "rank": 63,
+          "points": 851
+        },
+        {
+          "playerId": "P000471",
+          "name": "Sandra Bellver Fructuoso",
+          "shortName": "Bellver Fructuoso",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/SANDRA-BELLVER-2-150x150.png",
+          "rank": 63,
+          "points": 851
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": 2,
+      "source": "ranking",
+      "pairRank": 11
+    },
+    {
+      "id": "P000462+P200019",
+      "rank": 68,
+      "avgPoints": 778,
+      "combinedPoints": 1556,
+      "sharedPoints": 778,
+      "players": [
+        {
+          "playerId": "P000462",
+          "name": "Raquel Piltcher",
+          "shortName": "Piltcher",
+          "country": "BRA",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Raquel-Piltcher-c-150x150.png",
+          "rank": 68,
+          "points": 778
+        },
+        {
+          "playerId": "P200019",
+          "name": "Carolina Navarro Björk",
+          "shortName": "Navarro Björk",
+          "country": "SWE",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/CAROLINA-NAVARRO-150x150.png",
+          "rank": 68,
+          "points": 778
+        }
+      ],
+      "countries": [
+        "BRA",
+        "SWE"
+      ],
+      "titles": 0,
+      "combinedMove": -6,
+      "source": "ranking",
+      "pairRank": 12
+    },
+    {
+      "id": "P200081+P200162",
+      "rank": 67,
+      "avgPoints": 775,
+      "combinedPoints": 1549,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P200081",
+          "name": "Monica Gomez Rivas",
+          "shortName": "Gomez Rivas",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MONICA-GOMEZ-2-150x150.png",
+          "rank": 67,
+          "points": 784
+        },
+        {
+          "playerId": "P200162",
+          "name": "Lucia Peralta Exposito",
+          "shortName": "Peralta Exposito",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/LUCIA-PERALTA-150x150.png",
+          "rank": 72,
+          "points": 765
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 1,
+      "combinedMove": 6,
+      "source": "circuit",
+      "pairRank": 13
+    },
+    {
+      "id": "P000534+P200027",
+      "rank": 79,
+      "avgPoints": 691,
+      "combinedPoints": 1382,
+      "sharedPoints": 691,
+      "players": [
+        {
+          "playerId": "P000534",
+          "name": "Carlotta Casali",
+          "shortName": "Casali",
+          "country": "ITA",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/CARLOTTA-CASALI-150x150.png",
+          "rank": 79,
+          "points": 691
+        },
+        {
+          "playerId": "P200027",
+          "name": "Carla Mesa Salazar",
+          "shortName": "Mesa Salazar",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/CARLA-MESA-150x150.png",
+          "rank": 79,
+          "points": 691
+        }
+      ],
+      "countries": [
+        "ITA",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -4,
+      "source": "ranking",
+      "pairRank": 14
+    },
+    {
+      "id": "P200098+P200925",
+      "rank": 84,
+      "avgPoints": 620,
+      "combinedPoints": 1240,
+      "sharedPoints": 620,
+      "players": [
+        {
+          "playerId": "P200098",
+          "name": "Rebeca Lopez Lopez",
+          "shortName": "Lopez Lopez",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/REBECA-LOPEZ-150x150.png",
+          "rank": 84,
+          "points": 620
+        },
+        {
+          "playerId": "P200925",
+          "name": "Anna Ortiz Gasco",
+          "shortName": "Ortiz Gasco",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/ANNA-ORTIZ-150x150.png",
+          "rank": 84,
+          "points": 620
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": 1,
+      "source": "ranking",
+      "pairRank": 15
+    },
+    {
+      "id": "P000453+P000475",
+      "rank": 82,
+      "avgPoints": 543,
+      "combinedPoints": 1086,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P000453",
+          "name": "Lorena Vano",
+          "shortName": "Vano",
+          "country": "ITA",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/LORENA-VANO-150x150.png",
+          "rank": 82,
+          "points": 665
+        },
+        {
+          "playerId": "P000475",
+          "name": "Carmen Castillon Gamez",
+          "shortName": "Castillon Gamez",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Carmen-Castillon-Gamez-1-150x150.png",
+          "rank": 109,
+          "points": 421
+        }
+      ],
+      "countries": [
+        "ITA",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -3,
+      "source": "circuit",
+      "pairRank": 16
+    },
+    {
+      "id": "P000467+P200308",
+      "rank": 90,
+      "avgPoints": 535,
+      "combinedPoints": 1069,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P200308",
+          "name": "Clarissa Margherita Aima",
+          "shortName": "Margherita Aima",
+          "country": "ITA",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Clarissa-Aima-c-150x150.png",
+          "rank": 90,
+          "points": 564
+        },
+        {
+          "playerId": "P000467",
+          "name": "Emily Stellato",
+          "shortName": "Stellato",
+          "country": "ITA",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Emily-Stellato-Centrale-150x150.png",
+          "rank": 94,
+          "points": 505
+        }
+      ],
+      "countries": [
+        "ITA"
+      ],
+      "titles": 1,
+      "combinedMove": 0,
+      "source": "circuit",
+      "pairRank": 17
+    },
+    {
+      "id": "P000490+P200079",
+      "rank": 92,
+      "avgPoints": 506,
+      "combinedPoints": 1012,
+      "sharedPoints": 506,
+      "players": [
+        {
+          "playerId": "P200079",
+          "name": "Lucia Perez Parra",
+          "shortName": "Perez Parra",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Lucia-Perez-C-150x150.jpg",
+          "rank": 92,
+          "points": 506
+        },
+        {
+          "playerId": "P000490",
+          "name": "Esther Carnicero Martin",
+          "shortName": "Carnicero Martin",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/CARNICERO-150x150.png",
+          "rank": 92,
+          "points": 506
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": 3,
+      "source": "ranking",
+      "pairRank": 18
+    },
+    {
+      "id": "P000483+P200728",
+      "rank": 97,
+      "avgPoints": 493,
+      "combinedPoints": 986,
+      "sharedPoints": 493,
+      "players": [
+        {
+          "playerId": "P200728",
+          "name": "Catherine Rose",
+          "shortName": "Rose",
+          "country": "GBR",
+          "photo": null,
+          "rank": 97,
+          "points": 493
+        },
+        {
+          "playerId": "P000483",
+          "name": "Sara Ruiz Soto",
+          "shortName": "Ruiz Soto",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/SARA-RUIZ-150x150.png",
+          "rank": 97,
+          "points": 493
+        }
+      ],
+      "countries": [
+        "GBR",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -6,
+      "source": "ranking",
+      "pairRank": 19
+    },
+    {
+      "id": "P200087+P202112",
+      "rank": 105,
+      "avgPoints": 465,
+      "combinedPoints": 930,
+      "sharedPoints": 465,
+      "players": [
+        {
+          "playerId": "P202112",
+          "name": "Bo Luttikhuis",
+          "shortName": "Luttikhuis",
+          "country": "NED",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Bo-Luttikhuis-1-150x150.png",
+          "rank": 105,
+          "points": 465
+        },
+        {
+          "playerId": "P200087",
+          "name": "Eugenia Guimet Bigas",
+          "shortName": "Guimet Bigas",
+          "country": "ESP",
+          "photo": null,
+          "rank": 105,
+          "points": 465
+        }
+      ],
+      "countries": [
+        "NED",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": 0,
+      "source": "ranking",
+      "pairRank": 20
+    },
+    {
+      "id": "P000480+P200492",
+      "rank": 118,
+      "avgPoints": 343,
+      "combinedPoints": 686,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P000480",
+          "name": "Elsa Terranova",
+          "shortName": "Terranova",
+          "country": "ITA",
+          "photo": null,
+          "rank": 118,
+          "points": 364
+        },
+        {
+          "playerId": "P200492",
+          "name": "Angelina Neizvestnaya",
+          "shortName": "Neizvestnaya",
+          "country": "RUS",
+          "photo": null,
+          "rank": 125,
+          "points": 322
+        }
+      ],
+      "countries": [
+        "ITA",
+        "RUS"
+      ],
+      "titles": 0,
+      "combinedMove": 5,
+      "source": "circuit",
+      "pairRank": 21
+    },
+    {
+      "id": "P200090+P205747",
+      "rank": 137,
+      "avgPoints": 275,
+      "combinedPoints": 550,
+      "sharedPoints": 275,
+      "players": [
+        {
+          "playerId": "P205747",
+          "name": "Daria Kucheriavaia",
+          "shortName": "Kucheriavaia",
+          "country": "RUS",
+          "photo": null,
+          "rank": 137,
+          "points": 275
+        },
+        {
+          "playerId": "P200090",
+          "name": "Patricia Maria Ribeiro",
+          "shortName": "Ribeiro",
+          "country": "POR",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Patricia-Ribeiro-1-150x150.png",
+          "rank": 137,
+          "points": 275
+        }
+      ],
+      "countries": [
+        "RUS",
+        "POR"
+      ],
+      "titles": 0,
+      "combinedMove": 22,
+      "source": "ranking",
+      "pairRank": 22
+    },
+    {
+      "id": "P000493+P202212",
+      "rank": 142,
+      "avgPoints": 265,
+      "combinedPoints": 530,
+      "sharedPoints": 265,
+      "players": [
+        {
+          "playerId": "P000493",
+          "name": "Marianela Montesi",
+          "shortName": "Montesi",
+          "country": "ITA",
+          "photo": null,
+          "rank": 142,
+          "points": 265
+        },
+        {
+          "playerId": "P202212",
+          "name": "Dora Andrejszki",
+          "shortName": "Andrejszki",
+          "country": "HUN",
+          "photo": null,
+          "rank": 142,
+          "points": 265
+        }
+      ],
+      "countries": [
+        "ITA",
+        "HUN"
+      ],
+      "titles": 0,
+      "combinedMove": -1,
+      "source": "ranking",
+      "pairRank": 23
+    },
+    {
+      "id": "P203078+P203522",
+      "rank": 149,
+      "avgPoints": 242,
+      "combinedPoints": 484,
+      "sharedPoints": 242,
+      "players": [
+        {
+          "playerId": "P203522",
+          "name": "Maria Arteaga Vilches",
+          "shortName": "Arteaga Vilches",
+          "country": "ESP",
+          "photo": null,
+          "rank": 149,
+          "points": 242
+        },
+        {
+          "playerId": "P203078",
+          "name": "Susana Martin Marin",
+          "shortName": "Martin Marin",
+          "country": "ESP",
+          "photo": null,
+          "rank": 149,
+          "points": 242
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": 0,
+      "source": "ranking",
+      "pairRank": 24
+    },
+    {
+      "id": "P000487+P002036",
+      "rank": 154,
+      "avgPoints": 229,
+      "combinedPoints": 458,
+      "sharedPoints": 229,
+      "players": [
+        {
+          "playerId": "P002036",
+          "name": "Maaike Betz",
+          "shortName": "Betz",
+          "country": "NED",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Maaike-BETZ-1-150x150.png",
+          "rank": 154,
+          "points": 229
+        },
+        {
+          "playerId": "P000487",
+          "name": "Cristina Carrascosa Cazorla",
+          "shortName": "Carrascosa Cazorla",
+          "country": "ESP",
+          "photo": null,
+          "rank": 154,
+          "points": 229
+        }
+      ],
+      "countries": [
+        "NED",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -4,
+      "source": "ranking",
+      "pairRank": 25
+    },
+    {
+      "id": "P200691+P200706",
+      "rank": 152,
+      "avgPoints": 216,
+      "combinedPoints": 431,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P200691",
+          "name": "Justine Pysson",
+          "shortName": "Pysson",
+          "country": "BEL",
+          "photo": null,
+          "rank": 152,
+          "points": 238
+        },
+        {
+          "playerId": "P200706",
+          "name": "Elyne Boeykens",
+          "shortName": "Boeykens",
+          "country": "BEL",
+          "photo": null,
+          "rank": 171,
+          "points": 193
+        }
+      ],
+      "countries": [
+        "BEL"
+      ],
+      "titles": 0,
+      "combinedMove": -5,
+      "source": "circuit",
+      "pairRank": 26
+    },
+    {
+      "id": "P200678+P201961",
+      "rank": 161,
+      "avgPoints": 214,
+      "combinedPoints": 428,
+      "sharedPoints": 214,
+      "players": [
+        {
+          "playerId": "P201961",
+          "name": "Cayetana Sanchez Vera",
+          "shortName": "Sanchez Vera",
+          "country": "ESP",
+          "photo": null,
+          "rank": 161,
+          "points": 214
+        },
+        {
+          "playerId": "P200678",
+          "name": "Liza Groenveld",
+          "shortName": "Groenveld",
+          "country": "NED",
+          "photo": null,
+          "rank": 161,
+          "points": 214
+        }
+      ],
+      "countries": [
+        "ESP",
+        "NED"
+      ],
+      "titles": 0,
+      "combinedMove": 5,
+      "source": "ranking",
+      "pairRank": 27
+    },
+    {
+      "id": "P202070+P202289",
+      "rank": 169,
+      "avgPoints": 194,
+      "combinedPoints": 388,
+      "sharedPoints": 194,
+      "players": [
+        {
+          "playerId": "P202289",
+          "name": "Coral Alvarez Castro",
+          "shortName": "Alvarez Castro",
+          "country": "ESP",
+          "photo": null,
+          "rank": 169,
+          "points": 194
+        },
+        {
+          "playerId": "P202070",
+          "name": "Claudia Gaspar",
+          "shortName": "Gaspar",
+          "country": "POR",
+          "photo": null,
+          "rank": 169,
+          "points": 194
+        }
+      ],
+      "countries": [
+        "ESP",
+        "POR"
+      ],
+      "titles": 0,
+      "combinedMove": -4,
+      "source": "ranking",
+      "pairRank": 28
+    },
+    {
+      "id": "P200091+P201985",
+      "rank": 174,
+      "avgPoints": 188,
+      "combinedPoints": 376,
+      "sharedPoints": 188,
+      "players": [
+        {
+          "playerId": "P200091",
+          "name": "Ana Maria Cabrejas Ruiz",
+          "shortName": "Cabrejas Ruiz",
+          "country": "MEX",
+          "photo": null,
+          "rank": 174,
+          "points": 188
+        },
+        {
+          "playerId": "P201985",
+          "name": "Marie Amelie Dardaine",
+          "shortName": "Amelie Dardaine",
+          "country": "FRA",
+          "photo": null,
+          "rank": 174,
+          "points": 188
+        }
+      ],
+      "countries": [
+        "MEX",
+        "FRA"
+      ],
+      "titles": 0,
+      "combinedMove": -4,
+      "source": "ranking",
+      "pairRank": 29
+    },
+    {
+      "id": "P204852+P205209",
+      "rank": 180,
+      "avgPoints": 171,
+      "combinedPoints": 342,
+      "sharedPoints": 171,
+      "players": [
+        {
+          "playerId": "P205209",
+          "name": "Kimy Barla",
+          "shortName": "Barla",
+          "country": "FRA",
+          "photo": null,
+          "rank": 180,
+          "points": 171
+        },
+        {
+          "playerId": "P204852",
+          "name": "Alena Vasileva",
+          "shortName": "Vasileva",
+          "country": "RUS",
+          "photo": null,
+          "rank": 180,
+          "points": 171
+        }
+      ],
+      "countries": [
+        "FRA",
+        "RUS"
+      ],
+      "titles": 0,
+      "combinedMove": 2,
+      "source": "ranking",
+      "pairRank": 30
+    },
+    {
+      "id": "P203867+P205404",
+      "rank": 182,
+      "avgPoints": 166,
+      "combinedPoints": 332,
+      "sharedPoints": 166,
+      "players": [
+        {
+          "playerId": "P205404",
+          "name": "Nerea Gomez Blasquez",
+          "shortName": "Gomez Blasquez",
+          "country": "ESP",
+          "photo": null,
+          "rank": 182,
+          "points": 166
+        },
+        {
+          "playerId": "P203867",
+          "name": "Marisol Fernandez Garcia",
+          "shortName": "Fernandez Garcia",
+          "country": "ESP",
+          "photo": null,
+          "rank": 182,
+          "points": 166
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": 21,
+      "source": "ranking",
+      "pairRank": 31
+    },
+    {
+      "id": "P200668+P201987",
+      "rank": 191,
+      "avgPoints": 153,
+      "combinedPoints": 306,
+      "sharedPoints": 153,
+      "players": [
+        {
+          "playerId": "P200668",
+          "name": "Renata Martinez Becerra",
+          "shortName": "Martinez Becerra",
+          "country": "MEX",
+          "photo": null,
+          "rank": 191,
+          "points": 153
+        },
+        {
+          "playerId": "P201987",
+          "name": "Leire Uriarte Medina",
+          "shortName": "Uriarte Medina",
+          "country": "ESP",
+          "photo": null,
+          "rank": 191,
+          "points": 153
+        }
+      ],
+      "countries": [
+        "MEX",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -8,
+      "source": "ranking",
+      "pairRank": 32
+    },
+    {
+      "id": "P202123+P203888",
+      "rank": 195,
+      "avgPoints": 149,
+      "combinedPoints": 298,
+      "sharedPoints": 149,
+      "players": [
+        {
+          "playerId": "P202123",
+          "name": "Chifumi Sato",
+          "shortName": "Sato",
+          "country": "JPN",
+          "photo": null,
+          "rank": 195,
+          "points": 149
+        },
+        {
+          "playerId": "P203888",
+          "name": "Vega Cano Ortin",
+          "shortName": "Cano Ortin",
+          "country": "ESP",
+          "photo": null,
+          "rank": 195,
+          "points": 149
+        }
+      ],
+      "countries": [
+        "JPN",
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": 0,
+      "source": "ranking",
+      "pairRank": 33
+    },
+    {
+      "id": "P204701+P204702",
+      "rank": 199,
+      "avgPoints": 142,
+      "combinedPoints": 284,
+      "sharedPoints": 142,
+      "players": [
+        {
+          "playerId": "P204701",
+          "name": "Micaela Para",
+          "shortName": "Para",
+          "country": "POR",
+          "photo": null,
+          "rank": 199,
+          "points": 142
+        },
+        {
+          "playerId": "P204702",
+          "name": "Jessica Para",
+          "shortName": "Para",
+          "country": "POR",
+          "photo": null,
+          "rank": 199,
+          "points": 142
+        }
+      ],
+      "countries": [
+        "POR"
+      ],
+      "titles": 0,
+      "combinedMove": 4,
+      "source": "ranking",
+      "pairRank": 34
+    }
+  ],
+  "countries": [
+    {
+      "code": "ESP",
+      "name": "España",
+      "color": "#e63946",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "players": 106,
+      "points": 199743,
+      "bestRank": 1,
+      "top10": 8,
+      "top50": 39,
+      "avgPoints": 1884,
+      "share": 72
+    },
+    {
+      "code": "ARG",
+      "name": "Argentina",
+      "color": "#5bc0eb",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
+      "players": 8,
+      "points": 34772,
+      "bestRank": 1,
+      "top10": 1,
+      "top50": 6,
+      "avgPoints": 4347,
+      "share": 12.5
+    },
+    {
+      "code": "ITA",
+      "name": "Italia",
+      "color": "#0ead69",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "players": 18,
+      "points": 11589,
+      "bestRank": 30,
+      "top10": 0,
+      "top50": 2,
+      "avgPoints": 644,
+      "share": 4.2
+    },
+    {
+      "code": "POR",
+      "name": "Portugal",
+      "color": "#e85d04",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Portugal_Fip.jpg",
+      "players": 14,
+      "points": 11030,
+      "bestRank": 8,
+      "top10": 1,
+      "top50": 1,
+      "avgPoints": 788,
+      "share": 4
+    },
+    {
+      "code": "FRA",
+      "name": "Francia",
+      "color": "#4361ee",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
+      "players": 12,
+      "points": 5459,
+      "bestRank": 37,
+      "top10": 0,
+      "top50": 1,
+      "avgPoints": 455,
+      "share": 2
+    },
+    {
+      "code": "RUS",
+      "name": "RUS",
+      "color": "#9d4eddff",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2024/02/ban_Fip-1.jpg",
+      "players": 9,
+      "points": 3512,
+      "bestRank": 34,
+      "top10": 0,
+      "top50": 1,
+      "avgPoints": 390,
+      "share": 1.3
+    },
+    {
+      "code": "NED",
+      "name": "Países Bajos",
+      "color": "#ff7b00",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "players": 9,
+      "points": 2952,
+      "bestRank": 76,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 328,
+      "share": 1.1
+    },
+    {
+      "code": "GBR",
+      "name": "Reino Unido",
+      "color": "#8d99ae",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/GreatBritain_Fip.jpg",
+      "players": 4,
+      "points": 1421,
+      "bestRank": 97,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 355,
+      "share": 0.5
+    },
+    {
+      "code": "JPN",
+      "name": "Japón",
+      "color": "#ff5d8f",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Japan_Fip.jpg",
+      "players": 5,
+      "points": 1107,
+      "bestRank": 124,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 221,
+      "share": 0.4
+    },
+    {
+      "code": "BRA",
+      "name": "Brasil",
+      "color": "#2dc653",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Brazil_Fip.jpg",
+      "players": 2,
+      "points": 1062,
+      "bestRank": 68,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 531,
+      "share": 0.4
+    },
+    {
+      "code": "MEX",
+      "name": "México",
+      "color": "#06d6a0",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
+      "players": 3,
+      "points": 952,
+      "bestRank": 87,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 317,
+      "share": 0.3
+    },
+    {
+      "code": "SWE",
+      "name": "Suecia",
+      "color": "#ffd60a",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Sweden_Fip.jpg",
+      "players": 1,
+      "points": 778,
+      "bestRank": 68,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 778,
+      "share": 0.3
+    },
+    {
+      "code": "GER",
+      "name": "Alemania",
+      "color": "#adb5bd",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Germany_Fip.jpg",
+      "players": 1,
+      "points": 752,
+      "bestRank": 73,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 752,
+      "share": 0.3
+    },
+    {
+      "code": "USA",
+      "name": "Estados Unidos",
+      "color": "#7209b7",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/USA_Fip.jpg",
+      "players": 1,
+      "points": 595,
+      "bestRank": 89,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 595,
+      "share": 0.2
+    },
+    {
+      "code": "BEL",
+      "name": "Bélgica",
+      "color": "#f4a261",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Belgium_Fip.jpg",
+      "players": 2,
+      "points": 431,
+      "bestRank": 152,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 216,
+      "share": 0.2
+    },
+    {
+      "code": "TUN",
+      "name": "Túnez",
+      "color": "#57cc99",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Tunisia_Fip.jpg",
+      "players": 1,
+      "points": 337,
+      "bestRank": 120,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 337,
+      "share": 0.1
+    },
+    {
+      "code": "HUN",
+      "name": "Hungría",
+      "color": "#f4978e",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Hungary_Fip.jpg",
+      "players": 1,
+      "points": 265,
+      "bestRank": 142,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 265,
+      "share": 0.1
+    },
+    {
+      "code": "GRE",
+      "name": "Grecia",
+      "color": "#4895ef",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/04/Flag_of_Greece.png",
+      "players": 1,
+      "points": 196,
+      "bestRank": 168,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 196,
+      "share": 0.1
+    },
+    {
+      "code": "INA",
+      "name": "INA",
+      "color": "#b5e48c",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2026/05/Indonesia.jpg",
+      "players": 1,
+      "points": 180,
+      "bestRank": 178,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 180,
+      "share": 0.1
+    },
+    {
+      "code": "VEN",
+      "name": "Venezuela",
+      "color": "#ffafcc",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Venezuela_Fip.jpg",
+      "players": 1,
+      "points": 152,
+      "bestRank": 193,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 152,
+      "share": 0.1
+    }
+  ],
+  "trends": {
+    "317387": {
+      "points4w": 107,
+      "points12w": 47,
+      "rank4w": 4,
+      "rank12w": 0,
+      "seasonBestRank": 50,
+      "seasonPeakPoints": 1244,
+      "spark": [
+        1177,
+        1167,
+        1098,
+        1039,
+        1112,
+        1109,
+        1115,
+        1117,
+        1133,
+        1185,
+        1182,
+        1224
+      ]
+    },
+    "330614": {
+      "points4w": -133,
+      "points12w": -165,
+      "rank4w": -3,
+      "rank12w": -4,
+      "seasonBestRank": 34,
+      "seasonPeakPoints": 1740,
+      "spark": [
+        1740,
+        1737,
+        1679,
+        1585,
+        1592,
+        1589,
+        1576,
+        1573,
+        1514,
+        1511,
+        1508,
+        1440
+      ]
+    },
+    "P200002": {
+      "points4w": 354,
+      "points12w": 274,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 1,
+      "seasonPeakPoints": 18300,
+      "spark": [
+        18260,
+        18009,
+        17757,
+        17686,
+        17794,
+        17723,
+        17651,
+        17760,
+        17689,
+        18257,
+        18186,
+        18114
+      ]
+    },
+    "P200005": {
+      "points4w": 354,
+      "points12w": 274,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 1,
+      "seasonPeakPoints": 18300,
+      "spark": [
+        18260,
+        18009,
+        17757,
+        17686,
+        17794,
+        17723,
+        17651,
+        17760,
+        17689,
+        18257,
+        18186,
+        18114
+      ]
+    },
+    "P200011": {
+      "points4w": -503,
+      "points12w": -463,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 3,
+      "seasonPeakPoints": 15700,
+      "spark": [
+        15700,
+        15254,
+        14719,
+        14693,
+        14757,
+        14731,
+        14946,
+        14920,
+        14894,
+        14469,
+        14443,
+        14417
+      ]
+    },
+    "P200004": {
+      "points4w": 9,
+      "points12w": -771,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 3,
+      "seasonPeakPoints": 15540,
+      "spark": [
+        15540,
+        15497,
+        14634,
+        14111,
+        14069,
+        14026,
+        13983,
+        13940,
+        13897,
+        14274,
+        14231,
+        13949
+      ]
+    },
+    "P200003": {
+      "points4w": -681,
+      "points12w": -1041,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 3,
+      "seasonPeakPoints": 14720,
+      "spark": [
+        13820,
+        13777,
+        12824,
+        12781,
+        13649,
+        13606,
+        13323,
+        13280,
+        13237,
+        13194,
+        13151,
+        12599
+      ]
+    },
+    "P000532": {
+      "points4w": -683,
+      "points12w": -1823,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 5,
+      "seasonPeakPoints": 13040,
+      "spark": [
+        12980,
+        12444,
+        11909,
+        11523,
+        12007,
+        11981,
+        11686,
+        11570,
+        11544,
+        10699,
+        10673,
+        10887
+      ]
+    },
+    "P200224": {
+      "points4w": -341,
+      "points12w": 1439,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 7,
+      "seasonPeakPoints": 9780,
+      "spark": [
+        7760,
+        7754,
+        7657,
+        8671,
+        9574,
+        9568,
+        9780,
+        9360,
+        9360,
+        9302,
+        9296,
+        9019
+      ]
+    },
+    "P000526": {
+      "points4w": -231,
+      "points12w": -51,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 7,
+      "seasonPeakPoints": 7579,
+      "spark": [
+        7120,
+        7017,
+        6914,
+        7081,
+        7579,
+        7566,
+        7553,
+        7030,
+        7017,
+        7004,
+        6991,
+        6799
+      ]
+    },
+    "P200006": {
+      "points4w": -471,
+      "points12w": 39,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 9,
+      "seasonPeakPoints": 6810,
+      "spark": [
+        6390,
+        6377,
+        6274,
+        6261,
+        6339,
+        6326,
+        6313,
+        6810,
+        6797,
+        6364,
+        6351,
+        6339
+      ]
+    },
+    "P200014": {
+      "points4w": -291,
+      "points12w": -21,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 9,
+      "seasonPeakPoints": 6435,
+      "spark": [
+        6030,
+        6017,
+        6004,
+        5991,
+        6249,
+        6236,
+        6223,
+        6210,
+        6197,
+        5944,
+        5931,
+        5919
+      ]
+    },
+    "P200032": {
+      "points4w": -231,
+      "points12w": 189,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 11,
+      "seasonPeakPoints": 6075,
+      "spark": [
+        5745,
+        5732,
+        5629,
+        5616,
+        5694,
+        5681,
+        5668,
+        6075,
+        6062,
+        5869,
+        5856,
+        5844
+      ]
+    },
+    "P203086": {
+      "points4w": 444,
+      "points12w": 524,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 12,
+      "seasonPeakPoints": 5599,
+      "spark": [
+        5165,
+        5159,
+        4842,
+        5016,
+        5279,
+        5273,
+        5161,
+        5155,
+        5149,
+        5102,
+        5096,
+        5599
+      ]
+    },
+    "P200001": {
+      "points4w": -143,
+      "points12w": -233,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 12,
+      "seasonPeakPoints": 5290,
+      "spark": [
+        5110,
+        5084,
+        5149,
+        5033,
+        5007,
+        4981,
+        4956,
+        4930,
+        4904,
+        4569,
+        4543,
+        4787
+      ]
+    },
+    "P200124": {
+      "points4w": -26,
+      "points12w": -251,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 12,
+      "seasonPeakPoints": 5565,
+      "spark": [
+        4980,
+        4974,
+        5057,
+        4781,
+        4774,
+        4768,
+        4761,
+        4665,
+        4659,
+        4652,
+        4646,
+        4639
+      ]
+    },
+    "P000466": {
+      "points4w": -103,
+      "points12w": 267,
+      "rank4w": 0,
+      "rank12w": 1,
+      "seasonBestRank": 15,
+      "seasonPeakPoints": 4521,
+      "spark": [
+        4100,
+        4074,
+        4304,
+        4188,
+        4297,
+        4521,
+        4496,
+        4470,
+        4444,
+        4419,
+        4393,
+        4367
+      ]
+    },
+    "P000472": {
+      "points4w": 224,
+      "points12w": 59,
+      "rank4w": 0,
+      "rank12w": -1,
+      "seasonBestRank": 15,
+      "seasonPeakPoints": 4417,
+      "spark": [
+        4220,
+        4214,
+        4417,
+        3781,
+        3864,
+        4068,
+        4061,
+        4055,
+        4049,
+        4312,
+        4306,
+        4279
+      ]
+    },
+    "P200013": {
+      "points4w": 257,
+      "points12w": -265,
+      "rank4w": 2,
+      "rank12w": 2,
+      "seasonBestRank": 17,
+      "seasonPeakPoints": 3750,
+      "spark": [
+        3620,
+        3572,
+        3259,
+        3255,
+        3252,
+        3254,
+        3101,
+        3053,
+        3049,
+        3046,
+        3043,
+        3310
+      ]
+    },
+    "P200029": {
+      "points4w": 59,
+      "points12w": -556,
+      "rank4w": -1,
+      "rank12w": -1,
+      "seasonBestRank": 17,
+      "seasonPeakPoints": 3715,
+      "spark": [
+        3715,
+        3702,
+        3539,
+        3346,
+        3469,
+        3501,
+        3443,
+        3100,
+        3087,
+        3229,
+        3216,
+        3159
+      ]
+    },
+    "P200030": {
+      "points4w": 59,
+      "points12w": -556,
+      "rank4w": -1,
+      "rank12w": -1,
+      "seasonBestRank": 17,
+      "seasonPeakPoints": 3715,
+      "spark": [
+        3715,
+        3702,
+        3539,
+        3346,
+        3469,
+        3501,
+        3443,
+        3100,
+        3087,
+        3229,
+        3216,
+        3159
+      ]
+    },
+    "P200012": {
+      "points4w": -136,
+      "points12w": -626,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 19,
+      "seasonPeakPoints": 3510,
+      "spark": [
+        3465,
+        3459,
+        3497,
+        2951,
+        2944,
+        2943,
+        2936,
+        2930,
+        2924,
+        2917,
+        2911,
+        2794
+      ]
+    },
+    "P200008": {
+      "points4w": -51,
+      "points12w": -181,
+      "rank4w": 1,
+      "rank12w": 1,
+      "seasonBestRank": 21,
+      "seasonPeakPoints": 2975,
+      "spark": [
+        2875,
+        2822,
+        2679,
+        2666,
+        2694,
+        2811,
+        2758,
+        2705,
+        2692,
+        2679,
+        2666,
+        2654
+      ]
+    },
+    "P200247": {
+      "points4w": -3,
+      "points12w": 40,
+      "rank4w": 2,
+      "rank12w": 1,
+      "seasonBestRank": 22,
+      "seasonPeakPoints": 2656,
+      "spark": [
+        2610,
+        2607,
+        2559,
+        2555,
+        2617,
+        2614,
+        2656,
+        2653,
+        2614,
+        2611,
+        2608,
+        2650
+      ]
+    },
+    "P200009": {
+      "points4w": -96,
+      "points12w": -361,
+      "rank4w": -2,
+      "rank12w": -2,
+      "seasonBestRank": 21,
+      "seasonPeakPoints": 3100,
+      "spark": [
+        3030,
+        2977,
+        2834,
+        2821,
+        2809,
+        2836,
+        2783,
+        2725,
+        2712,
+        2654,
+        2641,
+        2629
+      ]
+    },
+    "P000538": {
+      "points4w": -78,
+      "points12w": 40,
+      "rank4w": -1,
+      "rank12w": 0,
+      "seasonBestRank": 23,
+      "seasonPeakPoints": 2676,
+      "spark": [
+        2550,
+        2547,
+        2489,
+        2575,
+        2637,
+        2634,
+        2676,
+        2668,
+        2664,
+        2551,
+        2548,
+        2590
+      ]
+    },
+    "P000456": {
+      "points4w": 29,
+      "points12w": 849,
+      "rank4w": 0,
+      "rank12w": 11,
+      "seasonBestRank": 25,
+      "seasonPeakPoints": 2506,
+      "spark": [
+        1700,
+        1694,
+        1687,
+        2371,
+        2364,
+        2358,
+        2506,
+        2465,
+        2424,
+        2462,
+        2456,
+        2494
+      ]
+    },
+    "P200092": {
+      "points4w": 109,
+      "points12w": 34,
+      "rank4w": 4,
+      "rank12w": 1,
+      "seasonBestRank": 25,
+      "seasonPeakPoints": 2259,
+      "spark": [
+        2225,
+        2219,
+        2167,
+        2131,
+        2169,
+        2163,
+        2156,
+        2150,
+        2144,
+        2137,
+        2131,
+        2259
+      ]
+    },
+    "P002020": {
+      "points4w": -113,
+      "points12w": -50,
+      "rank4w": -1,
+      "rank12w": -2,
+      "seasonBestRank": 23,
+      "seasonPeakPoints": 2480,
+      "spark": [
+        2300,
+        2332,
+        2334,
+        2370,
+        2367,
+        2364,
+        2361,
+        2318,
+        2314,
+        2351,
+        2318,
+        2205
+      ]
+    },
+    "P000477": {
+      "points4w": -113,
+      "points12w": -50,
+      "rank4w": -1,
+      "rank12w": -2,
+      "seasonBestRank": 25,
+      "seasonPeakPoints": 2370,
+      "spark": [
+        2300,
+        2332,
+        2334,
+        2370,
+        2367,
+        2364,
+        2361,
+        2318,
+        2314,
+        2351,
+        2318,
+        2205
+      ]
+    },
+    "P000455": {
+      "points4w": -13,
+      "points12w": 165,
+      "rank4w": 0,
+      "rank12w": -1,
+      "seasonBestRank": 28,
+      "seasonPeakPoints": 2197,
+      "spark": [
+        1975,
+        1937,
+        1889,
+        2155,
+        2197,
+        2194,
+        2191,
+        2188,
+        2184,
+        2181,
+        2178,
+        2175
+      ]
+    },
+    "P000452": {
+      "points4w": -16,
+      "points12w": 179,
+      "rank4w": -2,
+      "rank12w": -1,
+      "seasonBestRank": 28,
+      "seasonPeakPoints": 2238,
+      "spark": [
+        2040,
+        2034,
+        1987,
+        2071,
+        2109,
+        2238,
+        2231,
+        2190,
+        2149,
+        2187,
+        2181,
+        2174
+      ]
+    },
+    "P202302": {
+      "points4w": 55,
+      "points12w": 1085,
+      "rank4w": 0,
+      "rank12w": 26,
+      "seasonBestRank": 31,
+      "seasonPeakPoints": 2160,
+      "spark": [
+        1150,
+        1150,
+        1215,
+        1960,
+        1980,
+        1965,
+        2085,
+        2105,
+        2085,
+        2095,
+        2095,
+        2160
+      ]
+    },
+    "P200148": {
+      "points4w": 22,
+      "points12w": 275,
+      "rank4w": 0,
+      "rank12w": 6,
+      "seasonBestRank": 32,
+      "seasonPeakPoints": 1875,
+      "spark": [
+        1605,
+        1602,
+        1594,
+        1705,
+        1812,
+        1814,
+        1811,
+        1853,
+        1849,
+        1846,
+        1843,
+        1875
+      ]
+    },
+    "P200040": {
+      "points4w": 22,
+      "points12w": 200,
+      "rank4w": 0,
+      "rank12w": 3,
+      "seasonBestRank": 32,
+      "seasonPeakPoints": 1875,
+      "spark": [
+        1640,
+        1597,
+        1526,
+        1642,
+        1767,
+        1769,
+        1811,
+        1853,
+        1849,
+        1846,
+        1843,
+        1875
+      ]
+    },
+    "P200133": {
+      "points4w": 19,
+      "points12w": -16,
+      "rank4w": 1,
+      "rank12w": -1,
+      "seasonBestRank": 31,
+      "seasonPeakPoints": 1815,
+      "spark": [
+        1795,
+        1789,
+        1782,
+        1776,
+        1769,
+        1768,
+        1716,
+        1710,
+        1704,
+        1742,
+        1736,
+        1729
+      ]
+    },
+    "P200007": {
+      "points4w": -3,
+      "points12w": -115,
+      "rank4w": 1,
+      "rank12w": -5,
+      "seasonBestRank": 30,
+      "seasonPeakPoints": 1840,
+      "spark": [
+        1840,
+        1837,
+        1769,
+        1675,
+        1737,
+        1734,
+        1731,
+        1708,
+        1704,
+        1656,
+        1653,
+        1705
+      ]
+    },
+    "P000450": {
+      "points4w": -91,
+      "points12w": -94,
+      "rank4w": -2,
+      "rank12w": -4,
+      "seasonBestRank": 31,
+      "seasonPeakPoints": 1845,
+      "spark": [
+        1815,
+        1789,
+        1717,
+        1621,
+        1679,
+        1673,
+        1771,
+        1747,
+        1741,
+        1734,
+        1708,
+        1656
+      ]
+    },
+    "P200020": {
+      "points4w": -26,
+      "points12w": -111,
+      "rank4w": 0,
+      "rank12w": -3,
+      "seasonBestRank": 33,
+      "seasonPeakPoints": 1800,
+      "spark": [
+        1735,
+        1729,
+        1677,
+        1671,
+        1664,
+        1663,
+        1656,
+        1650,
+        1644,
+        1682,
+        1676,
+        1624
+      ]
+    },
+    "P200366": {
+      "points4w": 140,
+      "points12w": 401,
+      "rank4w": 5,
+      "rank12w": 16,
+      "seasonBestRank": 38,
+      "seasonPeakPoints": 1558,
+      "spark": [
+        1180,
+        1177,
+        1176,
+        1319,
+        1341,
+        1405,
+        1422,
+        1418,
+        1417,
+        1406,
+        1405,
+        1558
+      ]
+    },
+    "P000484": {
+      "points4w": -45,
+      "points12w": -30,
+      "rank4w": 0,
+      "rank12w": 0,
+      "seasonBestRank": 37,
+      "seasonPeakPoints": 1600,
+      "spark": [
+        1595,
+        1595,
+        1600,
+        1545,
+        1555,
+        1570,
+        1535,
+        1535,
+        1535,
+        1490,
+        1445,
+        1490
+      ]
+    },
+    "P200063": {
+      "points4w": 19,
+      "points12w": -311,
+      "rank4w": 1,
+      "rank12w": -9,
+      "seasonBestRank": 29,
+      "seasonPeakPoints": 1910,
+      "spark": [
+        1885,
+        1879,
+        1832,
+        1471,
+        1474,
+        1483,
+        1476,
+        1470,
+        1464,
+        1457,
+        1451,
+        1489
+      ]
+    },
+    "P000541": {
+      "points4w": -26,
+      "points12w": -46,
+      "rank4w": 0,
+      "rank12w": -2,
+      "seasonBestRank": 40,
+      "seasonPeakPoints": 1579,
+      "spark": [
+        1550,
+        1579,
+        1562,
+        1466,
+        1469,
+        1463,
+        1471,
+        1465,
+        1414,
+        1407,
+        1401,
+        1439
+      ]
+    },
+    "P200184": {
+      "points4w": -115,
+      "points12w": -97,
+      "rank4w": -3,
+      "rank12w": -2,
+      "seasonBestRank": 37,
+      "seasonPeakPoints": 1635,
+      "spark": [
+        1635,
+        1628,
+        1592,
+        1585,
+        1595,
+        1588,
+        1562,
+        1500,
+        1492,
+        1475,
+        1467,
+        1385
+      ]
+    },
+    "P200896": {
+      "points4w": 3,
+      "points12w": 164,
+      "rank4w": 0,
+      "rank12w": 6,
+      "seasonBestRank": 44,
+      "seasonPeakPoints": 1394,
+      "spark": [
+        1235,
+        1216,
+        1195,
+        1193,
+        1257,
+        1256,
+        1378,
+        1378,
+        1377,
+        1394,
+        1393,
+        1381
+      ]
+    },
+    "P200131": {
+      "points4w": 12,
+      "points12w": -5,
+      "rank4w": 1,
+      "rank12w": 1,
+      "seasonBestRank": 44,
+      "seasonPeakPoints": 1396,
+      "spark": [
+        1385,
+        1342,
+        1374,
+        1315,
+        1332,
+        1329,
+        1326,
+        1363,
+        1359,
+        1396,
+        1393,
+        1375
+      ]
+    },
+    "P200110": {
+      "points4w": -25,
+      "points12w": 14,
+      "rank4w": -1,
+      "rank12w": 1,
+      "seasonBestRank": 42,
+      "seasonPeakPoints": 1430,
+      "spark": [
+        1357,
+        1356,
+        1355,
+        1298,
+        1327,
+        1326,
+        1325,
+        1376,
+        1375,
+        1430,
+        1430,
+        1351
+      ]
+    },
+    "P000473": {
+      "points4w": -26,
+      "points12w": -99,
+      "rank4w": 1,
+      "rank12w": -4,
+      "seasonBestRank": 39,
+      "seasonPeakPoints": 1527,
+      "spark": [
+        1470,
+        1464,
+        1429,
+        1368,
+        1424,
+        1418,
+        1393,
+        1334,
+        1328,
+        1321,
+        1315,
+        1308
+      ]
+    },
+    "P200899": {
+      "points4w": 15,
+      "points12w": -135,
+      "rank4w": 3,
+      "rank12w": -6,
+      "seasonBestRank": 40,
+      "seasonPeakPoints": 1540,
+      "spark": [
+        1429,
+        1428,
+        1404,
+        1347,
+        1346,
+        1345,
+        1304,
+        1279,
+        1301,
+        1310,
+        1251,
+        1294
+      ]
+    },
+    "P200044": {
+      "points4w": -113,
+      "points12w": 59,
+      "rank4w": -2,
+      "rank12w": 3,
+      "seasonBestRank": 45,
+      "seasonPeakPoints": 1358,
+      "spark": [
+        1259,
+        1309,
+        1278,
+        1329,
+        1344,
+        1341,
+        1343,
+        1358,
+        1354,
+        1296,
+        1293,
+        1245
+      ]
+    },
+    "P200059": {
+      "points4w": 52,
+      "points12w": 146,
+      "rank4w": 5,
+      "rank12w": 6,
+      "seasonBestRank": 50,
+      "seasonPeakPoints": 1242,
+      "spark": [
+        1114,
+        1031,
+        1023,
+        1109,
+        1124,
+        1124,
+        1193,
+        1190,
+        1197,
+        1221,
+        1218,
+        1242
+      ]
+    },
+    "P200038": {
+      "points4w": 103,
+      "points12w": 126,
+      "rank4w": 5,
+      "rank12w": 4,
+      "seasonBestRank": 51,
+      "seasonPeakPoints": 1233,
+      "spark": [
+        1104,
+        1096,
+        1070,
+        1004,
+        1083,
+        1138,
+        1130,
+        1127,
+        1181,
+        1178,
+        1233,
+        1230
+      ]
+    },
+    "P000488": {
+      "points4w": -15,
+      "points12w": 4,
+      "rank4w": 2,
+      "rank12w": -2,
+      "seasonBestRank": 48,
+      "seasonPeakPoints": 1247,
+      "spark": [
+        1226,
+        1218,
+        1177,
+        1175,
+        1206,
+        1223,
+        1247,
+        1245,
+        1244,
+        1243,
+        1242,
+        1230
+      ]
+    },
+    "P000478": {
+      "points4w": -70,
+      "points12w": -16,
+      "rank4w": -4,
+      "rank12w": -6,
+      "seasonBestRank": 48,
+      "seasonPeakPoints": 1307,
+      "spark": [
+        1247,
+        1246,
+        1245,
+        1243,
+        1307,
+        1306,
+        1303,
+        1281,
+        1225,
+        1179,
+        1178,
+        1211
+      ]
+    },
+    "P200042": {
+      "points4w": -78,
+      "points12w": -7,
+      "rank4w": -6,
+      "rank12w": -5,
+      "seasonBestRank": 46,
+      "seasonPeakPoints": 1315,
+      "spark": [
+        1217,
+        1209,
+        1191,
+        1242,
+        1267,
+        1279,
+        1281,
+        1288,
+        1284,
+        1216,
+        1213,
+        1210
+      ]
+    },
+    "P200185": {
+      "points4w": 203,
+      "points12w": 120,
+      "rank4w": 4,
+      "rank12w": 3,
+      "seasonBestRank": 56,
+      "seasonPeakPoints": 1141,
+      "spark": [
+        1021,
+        1058,
+        986,
+        916,
+        926,
+        926,
+        938,
+        938,
+        943,
+        1115,
+        1141,
+        1141
+      ]
+    },
+    "P200075": {
+      "points4w": -120,
+      "points12w": -274,
+      "rank4w": -3,
+      "rank12w": -12,
+      "seasonBestRank": 40,
+      "seasonPeakPoints": 1539,
+      "spark": [
+        1390,
+        1370,
+        1349,
+        1287,
+        1279,
+        1272,
+        1257,
+        1236,
+        1228,
+        1186,
+        1178,
+        1116
+      ]
+    },
+    "P000432": {
+      "points4w": 139,
+      "points12w": 344,
+      "rank4w": 0,
+      "rank12w": 14,
+      "seasonBestRank": 58,
+      "seasonPeakPoints": 1108,
+      "spark": [
+        817,
+        837,
+        835,
+        834,
+        932,
+        970,
+        968,
+        967,
+        1037,
+        1044,
+        1108,
+        1106
+      ]
+    },
+    "P200036": {
+      "points4w": 195,
+      "points12w": 243,
+      "rank4w": 4,
+      "rank12w": 8,
+      "seasonBestRank": 59,
+      "seasonPeakPoints": 1081,
+      "spark": [
+        832,
+        831,
+        804,
+        802,
+        887,
+        886,
+        885,
+        884,
+        883,
+        1057,
+        1081,
+        1079
+      ]
+    },
+    "P200028": {
+      "points4w": -191,
+      "points12w": -333,
+      "rank4w": -8,
+      "rank12w": -16,
+      "seasonBestRank": 39,
+      "seasonPeakPoints": 1590,
+      "spark": [
+        1415,
+        1412,
+        1334,
+        1275,
+        1272,
+        1269,
+        1281,
+        1253,
+        1249,
+        1071,
+        1088,
+        1062
+      ]
+    },
+    "P202063": {
+      "points4w": 65,
+      "points12w": 324,
+      "rank4w": 1,
+      "rank12w": 18,
+      "seasonBestRank": 61,
+      "seasonPeakPoints": 991,
+      "spark": [
+        673,
+        673,
+        705,
+        871,
+        849,
+        860,
+        926,
+        926,
+        937,
+        960,
+        960,
+        991
+      ]
+    },
+    "P000489": {
+      "points4w": -30,
+      "points12w": -71,
+      "rank4w": -3,
+      "rank12w": -2,
+      "seasonBestRank": 54,
+      "seasonPeakPoints": 1158,
+      "spark": [
+        977,
+        949,
+        906,
+        847,
+        944,
+        941,
+        924,
+        961,
+        957,
+        927,
+        924,
+        931
+      ]
+    },
+    "P200356": {
+      "points4w": 22,
+      "points12w": 13,
+      "rank4w": 4,
+      "rank12w": 3,
+      "seasonBestRank": 60,
+      "seasonPeakPoints": 873,
+      "spark": [
+        838,
+        836,
+        834,
+        873,
+        871,
+        843,
+        830,
+        829,
+        816,
+        814,
+        812,
+        851
+      ]
+    },
+    "P000471": {
+      "points4w": -2,
+      "points12w": -92,
+      "rank4w": 1,
+      "rank12w": -2,
+      "seasonBestRank": 60,
+      "seasonPeakPoints": 996,
+      "spark": [
+        943,
+        966,
+        932,
+        842,
+        839,
+        847,
+        845,
+        853,
+        849,
+        857,
+        854,
+        851
+      ]
+    },
+    "P002025": {
+      "points4w": -36,
+      "points12w": -44,
+      "rank4w": 1,
+      "rank12w": -1,
+      "seasonBestRank": 62,
+      "seasonPeakPoints": 880,
+      "spark": [
+        880,
+        868,
+        861,
+        857,
+        858,
+        862,
+        850,
+        835,
+        831,
+        788,
+        795,
+        799
+      ]
+    },
+    "P200176": {
+      "points4w": -7,
+      "points12w": 17,
+      "rank4w": 3,
+      "rank12w": 5,
+      "seasonBestRank": 66,
+      "seasonPeakPoints": 820,
+      "spark": [
+        770,
+        770,
+        770,
+        734,
+        820,
+        794,
+        783,
+        794,
+        783,
+        783,
+        783,
+        787
+      ]
+    },
+    "P200081": {
+      "points4w": 22,
+      "points12w": 1,
+      "rank4w": 6,
+      "rank12w": 2,
+      "seasonBestRank": 64,
+      "seasonPeakPoints": 861,
+      "spark": [
+        757,
+        757,
+        746,
+        746,
+        750,
+        761,
+        761,
+        762,
+        731,
+        731,
+        757,
+        784
+      ]
+    },
+    "P000462": {
+      "points4w": -74,
+      "points12w": 109,
+      "rank4w": -3,
+      "rank12w": 10,
+      "seasonBestRank": 64,
+      "seasonPeakPoints": 871,
+      "spark": [
+        724,
+        732,
+        732,
+        837,
+        854,
+        854,
+        871,
+        852,
+        835,
+        804,
+        804,
+        778
+      ]
+    },
+    "P200019": {
+      "points4w": -153,
+      "points12w": -257,
+      "rank4w": -7,
+      "rank12w": -10,
+      "seasonBestRank": 56,
+      "seasonPeakPoints": 1066,
+      "spark": [
+        1013,
+        1011,
+        991,
+        960,
+        958,
+        956,
+        932,
+        931,
+        929,
+        837,
+        835,
+        778
+      ]
+    },
+    "P200559": {
+      "points4w": -20,
+      "points12w": -32,
+      "rank4w": 0,
+      "rank12w": -2,
+      "seasonBestRank": 67,
+      "seasonPeakPoints": 805,
+      "spark": [
+        805,
+        803,
+        801,
+        800,
+        798,
+        796,
+        794,
+        793,
+        791,
+        793,
+        760,
+        773
+      ]
+    },
+    "P201785": {
+      "points4w": -15,
+      "points12w": 63,
+      "rank4w": 0,
+      "rank12w": 5,
+      "seasonBestRank": 68,
+      "seasonPeakPoints": 783,
+      "spark": [
+        705,
+        705,
+        705,
+        760,
+        760,
+        771,
+        770,
+        783,
+        752,
+        727,
+        758,
+        768
+      ]
+    },
+    "P200162": {
+      "points4w": 44,
+      "points12w": 133,
+      "rank4w": 3,
+      "rank12w": 8,
+      "seasonBestRank": 72,
+      "seasonPeakPoints": 765,
+      "spark": [
+        636,
+        661,
+        652,
+        705,
+        715,
+        714,
+        723,
+        721,
+        720,
+        715,
+        740,
+        765
+      ]
+    },
+    "P002031": {
+      "points4w": 76,
+      "points12w": 42,
+      "rank4w": 4,
+      "rank12w": 2,
+      "seasonBestRank": 72,
+      "seasonPeakPoints": 752,
+      "spark": [
+        687,
+        687,
+        676,
+        692,
+        692,
+        674,
+        663,
+        676,
+        734,
+        752,
+        752,
+        752
+      ]
+    },
+    "P200111": {
+      "points4w": 6,
+      "points12w": -31,
+      "rank4w": 0,
+      "rank12w": -4,
+      "seasonBestRank": 69,
+      "seasonPeakPoints": 782,
+      "spark": [
+        742,
+        730,
+        740,
+        701,
+        737,
+        747,
+        746,
+        745,
+        754,
+        753,
+        752,
+        751
+      ]
+    },
+    "P200359": {
+      "points4w": 73,
+      "points12w": 183,
+      "rank4w": 5,
+      "rank12w": 10,
+      "seasonBestRank": 75,
+      "seasonPeakPoints": 732,
+      "spark": [
+        566,
+        575,
+        555,
+        571,
+        613,
+        627,
+        659,
+        659,
+        659,
+        691,
+        691,
+        732
+      ]
+    },
+    "P200255": {
+      "points4w": 90,
+      "points12w": 102,
+      "rank4w": 7,
+      "rank12w": 5,
+      "seasonBestRank": 76,
+      "seasonPeakPoints": 725,
+      "spark": [
+        623,
+        596,
+        595,
+        614,
+        621,
+        620,
+        644,
+        635,
+        699,
+        724,
+        723,
+        725
+      ]
+    },
+    "P002024": {
+      "points4w": 144,
+      "points12w": 231,
+      "rank4w": 13,
+      "rank12w": 17,
+      "seasonBestRank": 77,
+      "seasonPeakPoints": 720,
+      "spark": [
+        555,
+        515,
+        515,
+        545,
+        562,
+        562,
+        562,
+        576,
+        593,
+        634,
+        634,
+        720
+      ]
+    },
+    "P200560": {
+      "points4w": 73,
+      "points12w": 177,
+      "rank4w": 9,
+      "rank12w": 13,
+      "seasonBestRank": 78,
+      "seasonPeakPoints": 701,
+      "spark": [
+        538,
+        544,
+        524,
+        540,
+        582,
+        596,
+        628,
+        628,
+        628,
+        660,
+        660,
+        701
+      ]
+    },
+    "P000534": {
+      "points4w": -23,
+      "points12w": -58,
+      "rank4w": -3,
+      "rank12w": -5,
+      "seasonBestRank": 72,
+      "seasonPeakPoints": 749,
+      "spark": [
+        749,
+        748,
+        743,
+        720,
+        719,
+        718,
+        717,
+        714,
+        702,
+        701,
+        689,
+        691
+      ]
+    },
+    "P200027": {
+      "points4w": -135,
+      "points12w": -227,
+      "rank4w": -11,
+      "rank12w": -16,
+      "seasonBestRank": 60,
+      "seasonPeakPoints": 985,
+      "spark": [
+        918,
+        872,
+        795,
+        793,
+        892,
+        891,
+        845,
+        826,
+        825,
+        742,
+        730,
+        691
+      ]
+    },
+    "P200109": {
+      "points4w": -85,
+      "points12w": -157,
+      "rank4w": -9,
+      "rank12w": -16,
+      "seasonBestRank": 59,
+      "seasonPeakPoints": 1013,
+      "spark": [
+        839,
+        825,
+        825,
+        795,
+        795,
+        781,
+        767,
+        767,
+        767,
+        767,
+        722,
+        682
+      ]
+    },
+    "P000453": {
+      "points4w": 35,
+      "points12w": 88,
+      "rank4w": 4,
+      "rank12w": 2,
+      "seasonBestRank": 77,
+      "seasonPeakPoints": 674,
+      "spark": [
+        585,
+        585,
+        588,
+        618,
+        618,
+        618,
+        617,
+        630,
+        630,
+        657,
+        665,
+        665
+      ]
+    },
+    "P000479": {
+      "points4w": -12,
+      "points12w": 81,
+      "rank4w": -2,
+      "rank12w": 4,
+      "seasonBestRank": 78,
+      "seasonPeakPoints": 671,
+      "spark": [
+        553,
+        541,
+        554,
+        643,
+        642,
+        641,
+        671,
+        638,
+        637,
+        625,
+        624,
+        626
+      ]
+    },
+    "P200098": {
+      "points4w": 14,
+      "points12w": -130,
+      "rank4w": 4,
+      "rank12w": -11,
+      "seasonBestRank": 72,
+      "seasonPeakPoints": 756,
+      "spark": [
+        750,
+        756,
+        688,
+        596,
+        605,
+        603,
+        608,
+        606,
+        604,
+        598,
+        596,
+        620
+      ]
+    },
+    "P200925": {
+      "points4w": -43,
+      "points12w": -71,
+      "rank4w": -5,
+      "rank12w": -7,
+      "seasonBestRank": 72,
+      "seasonPeakPoints": 733,
+      "spark": [
+        717,
+        725,
+        725,
+        725,
+        733,
+        718,
+        652,
+        663,
+        632,
+        632,
+        640,
+        620
+      ]
+    },
+    "P201863": {
+      "points4w": 25,
+      "points12w": null,
+      "rank4w": 3,
+      "rank12w": null,
+      "seasonBestRank": 86,
+      "seasonPeakPoints": 613,
+      "spark": [
+        458,
+        508,
+        522,
+        536,
+        561,
+        588,
+        588,
+        588,
+        588,
+        613
+      ]
+    },
+    "P200153": {
+      "points4w": -20,
+      "points12w": 140,
+      "rank4w": -2,
+      "rank12w": 10,
+      "seasonBestRank": 81,
+      "seasonPeakPoints": 636,
+      "spark": [
+        486,
+        486,
+        486,
+        526,
+        606,
+        631,
+        631,
+        631,
+        636,
+        611,
+        611,
+        611
+      ]
+    },
+    "P201526": {
+      "points4w": -31,
+      "points12w": 6,
+      "rank4w": -7,
+      "rank12w": -5,
+      "seasonBestRank": 79,
+      "seasonPeakPoints": 638,
+      "spark": [
+        601,
+        606,
+        595,
+        600,
+        604,
+        615,
+        628,
+        638,
+        607,
+        607,
+        607,
+        607
+      ]
+    },
+    "P202287": {
+      "points4w": -40,
+      "points12w": null,
+      "rank4w": -6,
+      "rank12w": null,
+      "seasonBestRank": 83,
+      "seasonPeakPoints": 635,
+      "spark": [
+        452,
+        452,
+        452,
+        492,
+        572,
+        597,
+        603,
+        635,
+        635,
+        595,
+        595,
+        595
+      ]
+    },
+    "P200308": {
+      "points4w": 32,
+      "points12w": null,
+      "rank4w": 1,
+      "rank12w": null,
+      "seasonBestRank": 90,
+      "seasonPeakPoints": 564,
+      "spark": [
+        504,
+        504,
+        521,
+        526,
+        543,
+        543,
+        549,
+        532,
+        526,
+        526,
+        558,
+        564
+      ]
+    },
+    "P200102": {
+      "points4w": 16,
+      "points12w": -6,
+      "rank4w": 5,
+      "rank12w": 1,
+      "seasonBestRank": 83,
+      "seasonPeakPoints": 561,
+      "spark": [
+        468,
+        455,
+        488,
+        501,
+        505,
+        508,
+        507,
+        517
+      ]
+    },
+    "P200079": {
+      "points4w": 36,
+      "points12w": null,
+      "rank4w": 7,
+      "rank12w": null,
+      "seasonBestRank": 92,
+      "seasonPeakPoints": 506,
+      "spark": [
+        484,
+        476,
+        477,
+        470,
+        470,
+        496,
+        496,
+        506
+      ]
+    },
+    "P000490": {
+      "points4w": -13,
+      "points12w": -35,
+      "rank4w": 1,
+      "rank12w": -4,
+      "seasonBestRank": 62,
+      "seasonPeakPoints": 929,
+      "spark": [
+        541,
+        538,
+        535,
+        531,
+        528,
+        525,
+        522,
+        519,
+        515,
+        512,
+        509,
+        506
+      ]
+    },
+    "P000467": {
+      "points4w": null,
+      "points12w": null,
+      "rank4w": null,
+      "rank12w": null,
+      "seasonBestRank": 94,
+      "seasonPeakPoints": 505,
+      "spark": [
+        497,
+        505
+      ]
+    },
+    "P000536": {
+      "points4w": null,
+      "points12w": null,
+      "rank4w": null,
+      "rank12w": null,
+      "seasonBestRank": 95,
+      "seasonPeakPoints": 503,
+      "spark": [
+        476,
+        481,
+        481,
+        503
+      ]
+    },
+    "P200049": {
+      "points4w": -2,
+      "points12w": null,
+      "rank4w": -1,
+      "rank12w": null,
+      "seasonBestRank": 93,
+      "seasonPeakPoints": 522,
+      "spark": [
+        522,
+        521,
+        520,
+        479,
+        504,
+        477,
+        476,
+        489,
+        502
+      ]
+    },
+    "P200728": {
+      "points4w": null,
+      "points12w": null,
+      "rank4w": null,
+      "rank12w": null,
+      "seasonBestRank": 96,
+      "seasonPeakPoints": 493,
+      "spark": [
+        482,
+        493,
+        493
+      ]
+    },
+    "P000483": {
+      "points4w": -183,
+      "points12w": -442,
+      "rank4w": -20,
+      "rank12w": -35,
+      "seasonBestRank": 46,
+      "seasonPeakPoints": 1315,
+      "spark": [
+        935,
+        887,
+        794,
+        755,
+        752,
+        749,
+        701,
+        676,
+        672,
+        569,
+        541,
+        493
+      ]
+    },
+    "P202472": {
+      "points4w": null,
+      "points12w": null,
+      "rank4w": null,
+      "rank12w": null,
+      "seasonBestRank": 99,
+      "seasonPeakPoints": 484,
+      "spark": [
+        484
+      ]
+    },
+    "P200129": {
+      "points4w": -11,
+      "points12w": -42,
+      "rank4w": -3,
+      "rank12w": -11,
+      "seasonBestRank": 87,
+      "seasonPeakPoints": 533,
+      "spark": [
+        503,
+        503,
+        506,
+        506,
+        480,
+        494,
+        494,
+        494,
+        477,
+        477,
+        477,
+        483
+      ]
+    },
+    "P201837": {
+      "points4w": null,
+      "points12w": -34,
+      "rank4w": null,
+      "rank12w": -8,
+      "seasonBestRank": 89,
+      "seasonPeakPoints": 514,
+      "spark": [
+        500,
+        455,
+        483,
+        494
+      ]
+    },
+    "P200190": {
+      "points4w": -37,
+      "points12w": -73,
+      "rank4w": -8,
+      "rank12w": -16,
+      "seasonBestRank": 84,
+      "seasonPeakPoints": 556,
+      "spark": [
+        548,
+        548,
+        548,
+        548,
+        548,
+        548,
+        529,
+        512,
+        475,
+        475
+      ]
+    },
+    "P200232": {
+      "points4w": -6,
+      "points12w": 20,
+      "rank4w": -5,
+      "rank12w": -5,
+      "seasonBestRank": 95,
+      "seasonPeakPoints": 477,
+      "spark": [
+        451,
+        451,
+        463,
+        477,
+        477,
+        477
+      ]
+    },
+    "P202112": {
+      "points4w": -66,
+      "points12w": -60,
+      "rank4w": -13,
+      "rank12w": -16,
+      "seasonBestRank": 88,
+      "seasonPeakPoints": 539,
+      "spark": [
+        525,
+        531,
+        531,
+        539,
+        539,
+        539,
+        539,
+        531,
+        531
+      ]
+    },
+    "P200087": {
+      "points4w": -3,
+      "points12w": 21,
+      "rank4w": -5,
+      "rank12w": -5,
+      "seasonBestRank": 96,
+      "seasonPeakPoints": 485,
+      "spark": [
+        453,
+        462,
+        462,
+        459,
+        479,
+        485,
+        468,
+        468
+      ]
+    },
+    "P000486": {
+      "points4w": null,
+      "points12w": -15,
+      "rank4w": null,
+      "rank12w": -9,
+      "seasonBestRank": 97,
+      "seasonPeakPoints": 466,
+      "spark": [
+        466,
+        466
+      ]
+    },
+    "P200674": {
+      "points4w": null,
+      "points12w": -73,
+      "rank4w": null,
+      "rank12w": -15,
+      "seasonBestRank": 91,
+      "seasonPeakPoints": 497,
+      "spark": [
+        491,
+        497,
+        494,
+        494,
+        488,
+        476
+      ]
+    },
+    "P200236": {
+      "points4w": null,
+      "points12w": null,
+      "rank4w": null,
+      "rank12w": null,
+      "seasonBestRank": 93,
+      "seasonPeakPoints": 466,
+      "spark": []
+    },
+    "P200166": {
+      "points4w": null,
+      "points12w": -100,
+      "rank4w": null,
+      "rank12w": -18,
+      "seasonBestRank": 95,
+      "seasonPeakPoints": 484,
+      "spark": [
+        467,
+        467,
+        459
+      ]
+    },
+    "P000464": {
+      "points4w": null,
+      "points12w": null,
+      "rank4w": null,
+      "rank12w": null,
+      "seasonBestRank": 99,
+      "seasonPeakPoints": 443,
+      "spark": []
+    },
+    "P200230": {
+      "points4w": null,
+      "points12w": null,
+      "rank4w": null,
+      "rank12w": null,
+      "seasonBestRank": 91,
+      "seasonPeakPoints": 474,
+      "spark": []
+    },
+    "P200671": {
+      "points4w": null,
+      "points12w": null,
+      "rank4w": null,
+      "rank12w": null,
+      "seasonBestRank": 94,
+      "seasonPeakPoints": 440,
+      "spark": []
+    }
+  },
+  "insights": [
+    {
+      "icon": "👑",
+      "title": "Nº1 femenino",
+      "value": "Gemma Triay Pons",
+      "detail": "18.114 pts, con 3697 de ventaja sobre el #3.",
+      "tag": "Liderato"
+    },
+    {
+      "icon": "🤝",
+      "title": "Pareja dominante",
+      "value": "Brea Senesi / Triay Pons",
+      "detail": "18.114 pts compartidos · 1 título registrado.",
+      "tag": "Parejas"
+    },
+    {
+      "icon": "🚀",
+      "title": "Mayor escalada semanal",
+      "value": "Marisol Fernandez Garcia",
+      "detail": "Sube 23 puestos hasta el #182.",
+      "tag": "Movimiento"
+    },
+    {
+      "icon": "📈",
+      "title": "Progresión trimestral",
+      "value": "Giulia Dal Pozzo",
+      "detail": "Gana 26 posiciones en 12 semanas, hasta el #31.",
+      "tag": "Tendencia"
+    },
+    {
+      "icon": "🌍",
+      "title": "País dominante",
+      "value": "España",
+      "detail": "106 jugadores y el 72% de los puntos del top 200.",
+      "tag": "Países"
+    },
+    {
+      "icon": "🏆",
+      "title": "Último título",
+      "value": "Triay Pons / Brea Senesi",
+      "detail": "Pretoria P1 (Pretoria) · 6-2/6-7/7-6.",
+      "tag": "Circuito"
+    }
+  ],
+  "summary": {
+    "players": 200,
+    "countries": 20,
+    "pairs": 34,
+    "totalPoints": 277285,
+    "avgPoints": 1386,
+    "leaderName": "Gemma Triay Pons",
+    "leaderPoints": 18114,
+    "topCountry": "España",
+    "topCountryShare": 72,
+    "recentEvents": 9,
+    "weeklyMovers": 138
+  },
+  "partners": {
+    "P200005": {
+      "playerId": "P200002",
+      "name": "Gemma Triay Pons",
+      "source": "official"
+    },
+    "P200006": {
+      "playerId": "P200032",
+      "name": "Claudia Jensen",
+      "source": "official"
+    },
+    "P200014": {
+      "playerId": "P000526",
+      "name": "Sofia Araujo",
+      "source": "official"
+    },
+    "P200012": {
+      "playerId": "P000477",
+      "name": "Lorena Rufo Ortiz",
+      "source": "official"
+    },
+    "P200002": {
+      "playerId": "P200005",
+      "name": "Delfina Brea Senesi",
+      "source": "ranking"
+    },
+    "P200029": {
+      "playerId": "P200030",
+      "name": "Carmen Goenaga Garcia",
+      "source": "ranking"
+    },
+    "P200030": {
+      "playerId": "P200029",
+      "name": "Beatriz Caldera Sanchez",
+      "source": "ranking"
+    },
+    "P002020": {
+      "playerId": "P000477",
+      "name": "Lorena Rufo Ortiz",
+      "source": "ranking"
+    },
+    "P000477": {
+      "playerId": "P002020",
+      "name": "Jessica Castello Lopez",
+      "source": "ranking"
+    },
+    "P200148": {
+      "playerId": "P200040",
+      "name": "Noa Canovas Paredes",
+      "source": "ranking"
+    },
+    "P200040": {
+      "playerId": "P200148",
+      "name": "Maria Eulalia Rodriguez Abajo",
+      "source": "ranking"
+    },
+    "P200038": {
+      "playerId": "P000488",
+      "name": "Julia Polo Bautista",
+      "source": "ranking"
+    },
+    "P000488": {
+      "playerId": "P200038",
+      "name": "Lea Godallier",
+      "source": "ranking"
+    },
+    "P200356": {
+      "playerId": "P000471",
+      "name": "Sandra Bellver Fructuoso",
+      "source": "ranking"
+    },
+    "P000471": {
+      "playerId": "P200356",
+      "name": "Aida Martinez Sanjuan",
+      "source": "ranking"
+    },
+    "P000462": {
+      "playerId": "P200019",
+      "name": "Carolina Navarro Björk",
+      "source": "ranking"
+    },
+    "P200019": {
+      "playerId": "P000462",
+      "name": "Raquel Piltcher",
+      "source": "ranking"
+    },
+    "P000534": {
+      "playerId": "P200027",
+      "name": "Carla Mesa Salazar",
+      "source": "ranking"
+    },
+    "P200027": {
+      "playerId": "P000534",
+      "name": "Carlotta Casali",
+      "source": "ranking"
+    },
+    "P200098": {
+      "playerId": "P200925",
+      "name": "Anna Ortiz Gasco",
+      "source": "ranking"
+    },
+    "P200925": {
+      "playerId": "P200098",
+      "name": "Rebeca Lopez Lopez",
+      "source": "ranking"
+    },
+    "P200079": {
+      "playerId": "P000490",
+      "name": "Esther Carnicero Martin",
+      "source": "ranking"
+    },
+    "P000490": {
+      "playerId": "P200079",
+      "name": "Lucia Perez Parra",
+      "source": "ranking"
+    },
+    "P200728": {
+      "playerId": "P000483",
+      "name": "Sara Ruiz Soto",
+      "source": "ranking"
+    },
+    "P000483": {
+      "playerId": "P200728",
+      "name": "Catherine Rose",
+      "source": "ranking"
+    },
+    "P202112": {
+      "playerId": "P200087",
+      "name": "Eugenia Guimet Bigas",
+      "source": "ranking"
+    },
+    "P200087": {
+      "playerId": "P202112",
+      "name": "Bo Luttikhuis",
+      "source": "ranking"
+    },
+    "P205747": {
+      "playerId": "P200090",
+      "name": "Patricia Maria Ribeiro",
+      "source": "ranking"
+    },
+    "P200090": {
+      "playerId": "P205747",
+      "name": "Daria Kucheriavaia",
+      "source": "ranking"
+    },
+    "P000493": {
+      "playerId": "P202212",
+      "name": "Dora Andrejszki",
+      "source": "ranking"
+    },
+    "P202212": {
+      "playerId": "P000493",
+      "name": "Marianela Montesi",
+      "source": "ranking"
+    },
+    "P203522": {
+      "playerId": "P203078",
+      "name": "Susana Martin Marin",
+      "source": "ranking"
+    },
+    "P203078": {
+      "playerId": "P203522",
+      "name": "Maria Arteaga Vilches",
+      "source": "ranking"
+    },
+    "P002036": {
+      "playerId": "P000487",
+      "name": "Cristina Carrascosa Cazorla",
+      "source": "ranking"
+    },
+    "P000487": {
+      "playerId": "P002036",
+      "name": "Maaike Betz",
+      "source": "ranking"
+    },
+    "P201961": {
+      "playerId": "P200678",
+      "name": "Liza Groenveld",
+      "source": "ranking"
+    },
+    "P200678": {
+      "playerId": "P201961",
+      "name": "Cayetana Sanchez Vera",
+      "source": "ranking"
+    },
+    "P202289": {
+      "playerId": "P202070",
+      "name": "Claudia Gaspar",
+      "source": "ranking"
+    },
+    "P202070": {
+      "playerId": "P202289",
+      "name": "Coral Alvarez Castro",
+      "source": "ranking"
+    },
+    "P200091": {
+      "playerId": "P201985",
+      "name": "Marie Amelie Dardaine",
+      "source": "ranking"
+    },
+    "P201985": {
+      "playerId": "P200091",
+      "name": "Ana Maria Cabrejas Ruiz",
+      "source": "ranking"
+    },
+    "P205209": {
+      "playerId": "P204852",
+      "name": "Alena Vasileva",
+      "source": "ranking"
+    },
+    "P204852": {
+      "playerId": "P205209",
+      "name": "Kimy Barla",
+      "source": "ranking"
+    },
+    "P205404": {
+      "playerId": "P203867",
+      "name": "Marisol Fernandez Garcia",
+      "source": "ranking"
+    },
+    "P203867": {
+      "playerId": "P205404",
+      "name": "Nerea Gomez Blasquez",
+      "source": "ranking"
+    },
+    "P200668": {
+      "playerId": "P201987",
+      "name": "Leire Uriarte Medina",
+      "source": "ranking"
+    },
+    "P201987": {
+      "playerId": "P200668",
+      "name": "Renata Martinez Becerra",
+      "source": "ranking"
+    },
+    "P202123": {
+      "playerId": "P203888",
+      "name": "Vega Cano Ortin",
+      "source": "ranking"
+    },
+    "P203888": {
+      "playerId": "P202123",
+      "name": "Chifumi Sato",
+      "source": "ranking"
+    },
+    "P204701": {
+      "playerId": "P204702",
+      "name": "Jessica Para",
+      "source": "ranking"
+    },
+    "P204702": {
+      "playerId": "P204701",
+      "name": "Micaela Para",
+      "source": "ranking"
+    },
+    "P000467": {
+      "playerId": "P200308",
+      "name": "Clarissa Margherita Aima",
+      "source": "circuit"
+    },
+    "P200308": {
+      "playerId": "P000467",
+      "name": "Emily Stellato",
+      "source": "circuit"
+    },
+    "P002031": {
+      "playerId": "P200925",
+      "name": "Anna Ortiz Gasco",
+      "source": "circuit"
+    },
+    "P200036": {
+      "playerId": "P200185",
+      "name": "Amanda Lopez Moral",
+      "source": "circuit"
+    },
+    "P200185": {
+      "playerId": "P200036",
+      "name": "Ariadna Cañellas Rodero",
+      "source": "circuit"
+    },
+    "P000453": {
+      "playerId": "P000475",
+      "name": "Carmen Castillon Gamez",
+      "source": "circuit"
+    },
+    "P000475": {
+      "playerId": "P000453",
+      "name": "Lorena Vano",
+      "source": "circuit"
+    },
+    "P200081": {
+      "playerId": "P200162",
+      "name": "Lucia Peralta Exposito",
+      "source": "circuit"
+    },
+    "P200162": {
+      "playerId": "P200081",
+      "name": "Monica Gomez Rivas",
+      "source": "circuit"
+    },
+    "P200691": {
+      "playerId": "P200706",
+      "name": "Elyne Boeykens",
+      "source": "circuit"
+    },
+    "P200706": {
+      "playerId": "P200691",
+      "name": "Justine Pysson",
+      "source": "circuit"
+    },
+    "P000432": {
+      "playerId": "P200038",
+      "name": "Lea Godallier",
+      "source": "circuit"
+    },
+    "P200028": {
+      "playerId": "P201785",
+      "name": "Camila Fassio Goyeneche",
+      "source": "circuit"
+    },
+    "P201785": {
+      "playerId": "P200028",
+      "name": "Ana Catarina Nogueira",
+      "source": "circuit"
+    },
+    "P200163": {
+      "playerId": "P203867",
+      "name": "Marisol Fernandez Garcia",
+      "source": "circuit"
+    },
+    "P000480": {
+      "playerId": "P200492",
+      "name": "Angelina Neizvestnaya",
+      "source": "circuit"
+    },
+    "P200492": {
+      "playerId": "P000480",
+      "name": "Elsa Terranova",
+      "source": "circuit"
+    },
+    "P202472": {
+      "playerId": "P200098",
+      "name": "Rebeca Lopez Lopez",
+      "source": "circuit"
+    },
+    "P000536": {
+      "playerId": "P000467",
+      "name": "Emily Stellato",
+      "source": "circuit"
+    },
+    "P000478": {
+      "playerId": "P200007",
+      "name": "Virginia Riera",
+      "source": "circuit"
+    },
+    "P200007": {
+      "playerId": "P000478",
+      "name": "Teresa Navarro lopez-Barajas",
+      "source": "circuit"
+    },
+    "P000452": {
+      "playerId": "P200008",
+      "name": "Patricia Llaguno Zielinski",
+      "source": "circuit"
+    },
+    "P200008": {
+      "playerId": "P000452",
+      "name": "Carolina Orsi",
+      "source": "circuit"
+    },
+    "P000532": {
+      "playerId": "P203086",
+      "name": "Martina Calvo Santamaria",
+      "source": "circuit"
+    },
+    "P203086": {
+      "playerId": "P000532",
+      "name": "Claudia Fernandez Sanchez",
+      "source": "circuit"
+    }
+  },
+  "seasonTitles": {
+    "P200002": 1,
+    "P200005": 1,
+    "P000001": 1,
+    "P000007": 1,
+    "P200040": 1,
+    "P200148": 1,
+    "P000061": 1,
+    "P000149": 1,
+    "P000478": 1,
+    "P200007": 1,
+    "P000126": 2,
+    "P205766": 2,
+    "P200098": 1,
+    "P202472": 1,
+    "P100343": 1,
+    "P201217": 1,
+    "P200163": 1,
+    "P203867": 1,
+    "P101140": 1,
+    "P101142": 1,
+    "P101167": 2,
+    "P208761": 2,
+    "P000432": 1,
+    "P200038": 1,
+    "P100055": 1,
+    "P201600": 1,
+    "P200081": 1,
+    "P200162": 1,
+    "P200036": 1,
+    "P200185": 1,
+    "P000171": 1,
+    "P100056": 1,
+    "P000467": 1,
+    "P200308": 1,
+    "P101649": 1,
+    "P201642": 1
+  },
+  "seasonFinals": {
+    "P200002": 1,
+    "P200005": 1,
+    "P000532": 1,
+    "P203086": 1,
+    "P000001": 1,
+    "P000007": 1,
+    "P000019": 1,
+    "P000138": 1,
+    "P200040": 1,
+    "P200148": 1,
+    "P000452": 1,
+    "P200008": 1,
+    "P000061": 1,
+    "P000149": 1,
+    "P101633": 1,
+    "P203103": 1,
+    "P000478": 1,
+    "P200007": 1,
+    "P200081": 2,
+    "P200162": 2,
+    "P000126": 2,
+    "P205766": 2,
+    "P101297": 1,
+    "P203495": 1,
+    "P200098": 1,
+    "P202472": 1,
+    "P000467": 2,
+    "P000536": 1,
+    "P100343": 1,
+    "P201217": 1,
+    "P001131": 1,
+    "P100532": 1,
+    "P200163": 1,
+    "P203867": 1,
+    "P000480": 1,
+    "P200492": 1,
+    "P101140": 1,
+    "P101142": 1,
+    "P201369": 1,
+    "P202178": 1,
+    "P101167": 2,
+    "P208761": 2,
+    "P100602": 1,
+    "P203110": 1,
+    "P000432": 1,
+    "P200038": 1,
+    "P200028": 1,
+    "P201785": 1,
+    "P100055": 1,
+    "P201600": 1,
+    "P000157": 1,
+    "P000185": 1,
+    "P100655": 1,
+    "P100686": 1,
+    "P200691": 1,
+    "P200706": 1,
+    "P100954": 1,
+    "P201343": 1,
+    "P200036": 1,
+    "P200185": 1,
+    "P000453": 1,
+    "P000475": 1,
+    "P000171": 1,
+    "P100056": 1,
+    "P203126": 1,
+    "P203900": 1,
+    "P200308": 1,
+    "P002031": 1,
+    "P200925": 1,
+    "P101649": 1,
+    "P201642": 1,
+    "P000031": 1,
+    "P000679": 1
+  }
+}

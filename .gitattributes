@@ -1,0 +1,7 @@
+# Normaliza los finales de línea para que los diffs no cambien entre Windows,
+# macOS y los runners de GitHub Actions.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.svg text eol=lf

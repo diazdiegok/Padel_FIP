@@ -1,0 +1,25 @@
+{
+  "name": "fip-rankings-dashboard",
+  "version": "2.0.0",
+  "description": "Dashboard analítico del ranking oficial de la Federación Internacional de Pádel, alimentado en vivo desde la API pública de padelfip.com",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "update": "node scripts/update-data.mjs",
+    "update:full": "node scripts/update-data.mjs --full",
+    "check": "node scripts/check-data.mjs",
+    "dev": "npx --yes serve . -l 3000",
+    "start": "npm run dev"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "padel",
+    "fip",
+    "premier-padel",
+    "ranking",
+    "dashboard"
+  ],
+  "license": "MIT"
+}

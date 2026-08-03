@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Fotos semanales crudas: se regeneran solas y abultan el repositorio.
+# El ETL reconstruye el histórico desde data/history-*.json si no están.
+data/.cache/
+
+# Capturas de revisión visual.
+.shots/

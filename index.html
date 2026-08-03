@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FIP Analytics — Ranking oficial de pádel en vivo</title>
+<meta name="description" content="Dashboard analítico del ranking oficial de la Federación Internacional de Pádel: 200 jugadores por categoría, evolución semanal, parejas, países, circuito y comparador. Datos en vivo desde padelfip.com.">
+<meta name="color-scheme" content="dark light">
+<link rel="icon" href="logos/padel-fip.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://www.padelfip.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
+</head>
+<body>
+
+<a class="skip-link" href="#view">Saltar al contenido</a>
+
+<header class="topbar">
+  <div class="topbar__brand">
+    <button class="brand" type="button" data-action="home" aria-label="Volver al inicio">
+      <img src="logos/padel-fip.svg" alt="" width="30" height="30" aria-hidden="true">
+      <span class="brand__text">
+        <span class="brand__name">FIP <b>Analytics</b></span>
+        <span class="brand__sub">Ranking oficial · Premier Padel</span>
+      </span>
+    </button>
+  </div>
+
+  <nav class="tabs" id="tabs" aria-label="Secciones del panel"></nav>
+
+  <div class="topbar__meta">
+    <div class="freshness" id="freshness" title="Origen y fecha de los datos">
+      <span class="freshness__dot" aria-hidden="true"></span>
+      <span class="freshness__text">Cargando…</span>
+    </div>
+    <button class="icon-btn" type="button" id="themeToggle" aria-label="Cambiar tema" title="Cambiar tema">
+      <span aria-hidden="true">◐</span>
+    </button>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar" id="sidebar" aria-label="Filtros">
+    <div class="sidebar__section">
+      <span class="sidebar__title">Categoría</span>
+      <div class="segmented" role="group" aria-label="Categoría">
+        <button type="button" class="segmented__btn" data-gender="male">Masculino</button>
+        <button type="button" class="segmented__btn" data-gender="female">Femenino</button>
+      </div>
+    </div>
+
+    <div class="sidebar__section">
+      <label class="sidebar__title" for="filterSearch">Buscar jugador</label>
+      <input type="search" id="filterSearch" class="input" placeholder="Nombre o país…" autocomplete="off">
+    </div>
+
+    <div class="sidebar__section">
+      <label class="sidebar__title" for="filterCountry">País</label>
+      <select id="filterCountry" class="input"></select>
+    </div>
+
+    <div class="sidebar__section">
+      <label class="sidebar__title" for="filterDepth">Profundidad</label>
+      <select id="filterDepth" class="input">
+        <option value="10">Top 10</option>
+        <option value="25">Top 25</option>
+        <option value="50" selected>Top 50</option>
+        <option value="100">Top 100</option>
+        <option value="200">Top 200</option>
+      </select>
+    </div>
+
+    <button type="button" class="btn btn--ghost btn--block" data-action="reset">Restablecer filtros</button>
+
+    <div class="sidebar__foot">
+      <span id="sidebarCount">—</span>
+      <a href="https://www.padelfip.com/fip-rankings/" target="_blank" rel="noopener">Fuente oficial ↗</a>
+    </div>
+  </aside>
+
+  <main class="main" id="view" tabindex="-1">
+    <div class="skeleton-grid" aria-busy="true" aria-label="Cargando datos">
+      <div class="skeleton skeleton--hero"></div>
+      <div class="skeleton skeleton--row"></div>
+      <div class="skeleton skeleton--row"></div>
+      <div class="skeleton skeleton--block"></div>
+    </div>
+  </main>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script type="module" src="assets/js/main.js"></script>
+</body>
+</html>
