@@ -2,7 +2,7 @@
   "gender": "female",
   "year": 2026,
   "week": 32,
-  "generatedAt": "2026-08-05T08:16:00.900Z",
+  "generatedAt": "2026-08-06T08:14:31.560Z",
   "players": [
     {
       "playerId": "P200002",
@@ -1002,7 +1002,7 @@
       "move": 6,
       "country": "ITA",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
-      "photo": null,
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Baldi-c-150x150.png",
       "url": "https://www.padelfip.com/player/caterina-maria-baldi/"
     },
     {
