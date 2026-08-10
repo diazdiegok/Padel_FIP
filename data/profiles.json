@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-09T06:37:36.108Z",
+  "generatedAt": "2026-08-10T07:09:45.076Z",
   "players": {
     "P000010": {
       "career": {
         "bestRank": 1,
-        "wins": 230,
-        "losses": 75,
-        "winRate": 75.4,
+        "wins": 276,
+        "losses": 29,
+        "winRate": 90.5,
         "titles": 39,
         "consecutiveWins": 47
       },
@@ -21,14 +21,14 @@
         "url": "https://www.padelfip.com/player/agustin-tapia/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Coello-p.png",
-      "fetchedAt": "2026-08-03T12:46:02.619Z"
+      "fetchedAt": "2026-08-10T07:09:48.992Z"
     },
     "P000285": {
       "career": {
         "bestRank": 1,
-        "wins": 216,
-        "losses": 71,
-        "winRate": 75.3,
+        "wins": 262,
+        "losses": 25,
+        "winRate": 91.3,
         "titles": 38,
         "consecutiveWins": 47
       },
@@ -43,14 +43,14 @@
         "url": "https://www.padelfip.com/player/arturo-coello/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/TAPIA-1.png",
-      "fetchedAt": "2026-08-03T12:46:02.377Z"
+      "fetchedAt": "2026-08-10T07:09:48.994Z"
     },
     "P000001": {
       "career": {
         "bestRank": 1,
-        "wins": 215,
-        "losses": 90,
-        "winRate": 70.5,
+        "wins": 258,
+        "losses": 47,
+        "winRate": 84.6,
         "titles": 24,
         "consecutiveWins": 17
       },
@@ -65,14 +65,14 @@
         "url": "https://www.padelfip.com/player/federico-chingotto/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/GALAN-6.png",
-      "fetchedAt": "2026-08-03T12:46:02.627Z"
+      "fetchedAt": "2026-08-10T07:09:48.981Z"
     },
     "P000007": {
       "career": {
         "bestRank": 3,
-        "wins": 200,
-        "losses": 95,
-        "winRate": 67.8,
+        "wins": 243,
+        "losses": 52,
+        "winRate": 82.4,
         "titles": 18,
         "consecutiveWins": 14
       },
@@ -87,14 +87,14 @@
         "url": "https://www.padelfip.com/player/alejandro-galan/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/CHINGOTTO-2.png",
-      "fetchedAt": "2026-08-03T12:46:02.854Z"
+      "fetchedAt": "2026-08-10T07:09:49.162Z"
     },
     "P000002": {
       "career": {
         "bestRank": 1,
-        "wins": 171,
-        "losses": 80,
-        "winRate": 68.1,
+        "wins": 191,
+        "losses": 60,
+        "winRate": 76.1,
         "titles": 9,
         "consecutiveWins": 17
       },
@@ -109,14 +109,14 @@
         "url": "https://www.padelfip.com/player/leandro-augsburger/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/LEBRON-5.png",
-      "fetchedAt": "2026-08-03T12:46:02.902Z"
+      "fetchedAt": "2026-08-10T07:09:49.179Z"
     },
     "P101159": {
       "career": {
         "bestRank": 6,
-        "wins": 90,
-        "losses": 76,
-        "winRate": 54.2,
+        "wins": 110,
+        "losses": 56,
+        "winRate": 66.3,
         "titles": 2,
         "consecutiveWins": 6
       },
@@ -131,14 +131,14 @@
         "url": "https://www.padelfip.com/player/juan-lebron/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/LEO-AUGSBURGER-1.png",
-      "fetchedAt": "2026-08-03T12:46:02.906Z"
+      "fetchedAt": "2026-08-10T07:09:49.186Z"
     },
     "P000005": {
       "career": {
         "bestRank": 5,
-        "wins": 170,
-        "losses": 75,
-        "winRate": 69.4,
+        "wins": 183,
+        "losses": 62,
+        "winRate": 74.7,
         "titles": 5,
         "consecutiveWins": 11
       },
@@ -153,14 +153,14 @@
         "url": "https://www.padelfip.com/player/miguel-yanguas/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2026/02/full_franco_stupaczuk.png",
-      "fetchedAt": "2026-08-03T12:46:03.133Z"
+      "fetchedAt": "2026-08-10T07:09:49.343Z"
     },
     "P000018": {
       "career": {
         "bestRank": 6,
-        "wins": 131,
-        "losses": 80,
-        "winRate": 62.1,
+        "wins": 144,
+        "losses": 67,
+        "winRate": 68.2,
         "titles": 1,
         "consecutiveWins": 5
       },
@@ -175,14 +175,14 @@
         "url": "https://www.padelfip.com/player/franco-stupaczuk/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/YANGUAS-1.png",
-      "fetchedAt": "2026-08-03T12:46:03.173Z"
+      "fetchedAt": "2026-08-10T07:09:49.369Z"
     },
     "P000003": {
       "career": {
         "bestRank": 3,
-        "wins": 141,
-        "losses": 79,
-        "winRate": 64.1,
+        "wins": 151,
+        "losses": 69,
+        "winRate": 68.6,
         "titles": 1,
         "consecutiveWins": 9
       },
@@ -197,14 +197,14 @@
         "url": "https://www.padelfip.com/player/martin-di-nenno/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/PAQUITO-NAVARRO-2.png",
-      "fetchedAt": "2026-08-03T12:46:03.177Z"
+      "fetchedAt": "2026-08-10T07:09:49.373Z"
     },
     "P000017": {
       "career": {
         "bestRank": 7,
-        "wins": 125,
-        "losses": 75,
-        "winRate": 62.5,
+        "wins": 133,
+        "losses": 67,
+        "winRate": 66.5,
         "titles": 2,
         "consecutiveWins": 5
       },
@@ -219,14 +219,14 @@
         "url": "https://www.padelfip.com/player/jon-sanz/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2026/02/full_jorge_nieto.png",
-      "fetchedAt": "2026-08-03T12:46:03.683Z"
+      "fetchedAt": "2026-08-10T07:09:49.524Z"
     },
     "P000004": {
       "career": {
         "bestRank": 3,
-        "wins": 159,
-        "losses": 72,
-        "winRate": 68.8,
+        "wins": 166,
+        "losses": 65,
+        "winRate": 71.9,
         "titles": 4,
         "consecutiveWins": 9
       },
@@ -241,14 +241,14 @@
         "url": "https://www.padelfip.com/player/francisco-navarro/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/DI-NENNO-2.png",
-      "fetchedAt": "2026-08-03T12:46:03.932Z"
+      "fetchedAt": "2026-08-10T07:09:49.556Z"
     },
     "P000038": {
       "career": {
         "bestRank": 9,
-        "wins": 123,
-        "losses": 75,
-        "winRate": 62.1,
+        "wins": 130,
+        "losses": 68,
+        "winRate": 65.7,
         "titles": 2,
         "consecutiveWins": 5
       },
@@ -263,14 +263,14 @@
         "url": "https://www.padelfip.com/player/jorge-nieto/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/JON-SANZ-1.png",
-      "fetchedAt": "2026-08-03T12:46:03.935Z"
+      "fetchedAt": "2026-08-10T07:09:49.566Z"
     },
     "P000138": {
       "career": {
         "bestRank": 11,
-        "wins": 82,
-        "losses": 72,
-        "winRate": 53.2,
+        "wins": 91,
+        "losses": 63,
+        "winRate": 59.1,
         "titles": null,
         "consecutiveWins": 4
       },
@@ -285,14 +285,14 @@
         "url": "https://www.padelfip.com/player/javier-leal/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/FRA-GUERRERO.png",
-      "fetchedAt": "2026-08-03T12:46:04.161Z"
+      "fetchedAt": "2026-08-10T07:09:49.703Z"
     },
     "P000011": {
       "career": {
         "bestRank": 11,
-        "wins": 120,
-        "losses": 77,
-        "winRate": 60.9,
+        "wins": 125,
+        "losses": 72,
+        "winRate": 63.5,
         "titles": null,
         "consecutiveWins": 4
       },
@@ -307,14 +307,14 @@
         "url": "https://www.padelfip.com/player/lucas-campagnolo/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/MOMO-GONZALEZ-1.png",
-      "fetchedAt": "2026-08-03T12:46:04.232Z"
+      "fetchedAt": "2026-08-10T07:09:49.742Z"
     },
     "P000019": {
       "career": {
         "bestRank": 15,
-        "wins": 75,
-        "losses": 62,
-        "winRate": 54.7,
+        "wins": 74,
+        "losses": 63,
+        "winRate": 54,
         "titles": null,
         "consecutiveWins": 4
       },
@@ -329,14 +329,14 @@
         "url": "https://www.padelfip.com/player/francisco-guerrero/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/JAVI-LEAL-1.png",
-      "fetchedAt": "2026-08-03T12:46:04.402Z"
+      "fetchedAt": "2026-08-10T07:09:49.756Z"
     },
     "P000036": {
       "career": {
         "bestRank": 11,
-        "wins": 105,
-        "losses": 71,
-        "winRate": 59.7,
+        "wins": 108,
+        "losses": 68,
+        "winRate": 61.4,
         "titles": null,
         "consecutiveWins": 6
       },
@@ -351,14 +351,14 @@
         "url": "https://www.padelfip.com/player/javier-garrido/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/LUCAS-BERGAMINI-1.png",
-      "fetchedAt": "2026-08-03T12:46:04.480Z"
+      "fetchedAt": "2026-08-10T07:09:49.885Z"
     },
     "P000043": {
       "career": {
         "bestRank": 13,
-        "wins": 83,
-        "losses": 74,
-        "winRate": 52.9,
+        "wins": 88,
+        "losses": 69,
+        "winRate": 56.1,
         "titles": null,
         "consecutiveWins": 3
       },
@@ -373,14 +373,14 @@
         "url": "https://www.padelfip.com/player/aimar-goni-lacabe/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/ALONSO.png",
-      "fetchedAt": "2026-08-03T12:46:04.533Z"
+      "fetchedAt": "2026-08-10T07:09:49.927Z"
     },
     "P000008": {
       "career": {
         "bestRank": 7,
-        "wins": 93,
-        "losses": 74,
-        "winRate": 55.7,
+        "wins": 99,
+        "losses": 68,
+        "winRate": 59.3,
         "titles": null,
         "consecutiveWins": 4
       },
@@ -392,14 +392,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/TELLO-2.png",
-      "fetchedAt": "2026-08-03T12:46:04.679Z"
+      "fetchedAt": "2026-08-10T07:09:49.946Z"
     },
     "P000016": {
       "career": {
         "bestRank": 10,
-        "wins": 91,
-        "losses": 64,
-        "winRate": 58.7,
+        "wins": 94,
+        "losses": 61,
+        "winRate": 60.6,
         "titles": null,
         "consecutiveWins": 5
       },
@@ -414,14 +414,14 @@
         "url": "https://www.padelfip.com/player/lucas-bergamini/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Javier-Garrido-1.png",
-      "fetchedAt": "2026-08-03T12:46:04.768Z"
+      "fetchedAt": "2026-08-10T07:09:50.067Z"
     },
     "P000015": {
       "career": {
         "bestRank": 18,
-        "wins": 70,
-        "losses": 69,
-        "winRate": 50.4,
+        "wins": 78,
+        "losses": 61,
+        "winRate": 56.1,
         "titles": null,
         "consecutiveWins": 4
       },
@@ -436,14 +436,14 @@
         "url": "https://www.padelfip.com/player/jeronimo-gonzalez/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/CAMPAGNOLO-1.png",
-      "fetchedAt": "2026-08-03T12:46:04.822Z"
+      "fetchedAt": "2026-08-10T07:09:50.111Z"
     },
     "P200002": {
       "career": {
         "bestRank": 1,
-        "wins": 158,
-        "losses": 74,
-        "winRate": 68.1,
+        "wins": 193,
+        "losses": 39,
+        "winRate": 83.2,
         "titles": 21,
         "consecutiveWins": 22
       },
@@ -455,14 +455,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Gemma-Triay-4.png",
-      "fetchedAt": "2026-08-03T12:46:06.242Z"
+      "fetchedAt": "2026-08-10T07:09:53.899Z"
     },
     "P200005": {
       "career": {
         "bestRank": 1,
-        "wins": 150,
-        "losses": 71,
-        "winRate": 67.9,
+        "wins": 185,
+        "losses": 36,
+        "winRate": 83.7,
         "titles": 21,
         "consecutiveWins": 22
       },
@@ -477,14 +477,14 @@
         "url": "https://www.padelfip.com/player/gemma-triay-pons/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Delfi-p.png",
-      "fetchedAt": "2026-08-03T12:46:06.483Z"
+      "fetchedAt": "2026-08-10T07:09:53.900Z"
     },
     "P200011": {
       "career": {
         "bestRank": 3,
-        "wins": 125,
-        "losses": 66,
-        "winRate": 65.4,
+        "wins": 157,
+        "losses": 34,
+        "winRate": 82.2,
         "titles": 19,
         "consecutiveWins": 22
       },
@@ -496,14 +496,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/full_beatriz_gonzalez-1.webp",
-      "fetchedAt": "2026-08-03T12:46:06.484Z"
+      "fetchedAt": "2026-08-10T07:09:53.891Z"
     },
     "P200004": {
       "career": {
         "bestRank": 1,
-        "wins": 156,
-        "losses": 69,
-        "winRate": 69.3,
+        "wins": 188,
+        "losses": 37,
+        "winRate": 83.6,
         "titles": 23,
         "consecutiveWins": 22
       },
@@ -515,14 +515,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Paula-Josemaria-Prof-2.png",
-      "fetchedAt": "2026-08-03T12:46:06.723Z"
+      "fetchedAt": "2026-08-10T07:09:54.082Z"
     },
     "P200003": {
       "career": {
         "bestRank": 1,
-        "wins": 158,
-        "losses": 57,
-        "winRate": 73.5,
+        "wins": 176,
+        "losses": 39,
+        "winRate": 81.9,
         "titles": 19,
         "consecutiveWins": 11
       },
@@ -534,14 +534,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Ariana-Sanchezu.png",
-      "fetchedAt": "2026-08-03T12:46:06.756Z"
+      "fetchedAt": "2026-08-10T07:09:54.084Z"
     },
     "P000532": {
       "career": {
         "bestRank": 3,
-        "wins": 140,
-        "losses": 57,
-        "winRate": 71.1,
+        "wins": 148,
+        "losses": 49,
+        "winRate": 75.1,
         "titles": 12,
         "consecutiveWins": 12
       },
@@ -553,14 +553,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/full_claudia_frenandez-1.webp",
-      "fetchedAt": "2026-08-03T12:46:06.960Z"
+      "fetchedAt": "2026-08-10T07:09:54.089Z"
     },
     "P200224": {
       "career": {
         "bestRank": 7,
-        "wins": 85,
-        "losses": 75,
-        "winRate": 53.1,
+        "wins": 103,
+        "losses": 57,
+        "winRate": 64.4,
         "titles": 3,
         "consecutiveWins": 7
       },
@@ -572,14 +572,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Andrea-Ustero-1.png",
-      "fetchedAt": "2026-08-03T12:46:07.000Z"
+      "fetchedAt": "2026-08-10T07:09:54.262Z"
     },
     "P000526": {
       "career": {
         "bestRank": 6,
-        "wins": 114,
-        "losses": 69,
-        "winRate": 62.3,
+        "wins": 120,
+        "losses": 63,
+        "winRate": 65.6,
         "titles": 3,
         "consecutiveWins": 4
       },
@@ -591,14 +591,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/Sofia-Araujo.png",
-      "fetchedAt": "2026-08-03T12:46:07.030Z"
+      "fetchedAt": "2026-08-10T07:09:54.271Z"
     },
     "P200006": {
       "career": {
         "bestRank": 8,
-        "wins": 85,
-        "losses": 66,
-        "winRate": 56.3,
+        "wins": 98,
+        "losses": 53,
+        "winRate": 64.9,
         "titles": 1,
         "consecutiveWins": 6
       },
@@ -613,14 +613,14 @@
         "url": "https://www.padelfip.com/player/claudia-jensen/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/Tamara-Icardo.png",
-      "fetchedAt": "2026-08-03T12:46:07.244Z"
+      "fetchedAt": "2026-08-10T07:09:54.274Z"
     },
     "P200014": {
       "career": {
         "bestRank": 4,
-        "wins": 117,
-        "losses": 70,
-        "winRate": 62.6,
+        "wins": 125,
+        "losses": 62,
+        "winRate": 66.8,
         "titles": 3,
         "consecutiveWins": 8
       },
@@ -635,14 +635,14 @@
         "url": "https://www.padelfip.com/player/sofia-araujo/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/full_marta_ortega-1.webp",
-      "fetchedAt": "2026-08-03T12:46:07.289Z"
+      "fetchedAt": "2026-08-10T07:09:54.443Z"
     },
     "P200032": {
       "career": {
         "bestRank": 10,
-        "wins": 101,
-        "losses": 75,
-        "winRate": 57.4,
+        "wins": 114,
+        "losses": 62,
+        "winRate": 64.8,
         "titles": 2,
         "consecutiveWins": 8
       },
@@ -654,14 +654,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/CLAUDIA-JENSEN-6.png",
-      "fetchedAt": "2026-08-03T12:46:07.314Z"
+      "fetchedAt": "2026-08-10T07:09:54.453Z"
     },
     "P203086": {
       "career": {
         "bestRank": 12,
-        "wins": 72,
-        "losses": 55,
-        "winRate": 56.7,
+        "wins": 82,
+        "losses": 45,
+        "winRate": 64.6,
         "titles": null,
         "consecutiveWins": 4
       },
@@ -673,7 +673,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2024/03/Martina-Calvo-Santamaria-1.png",
-      "fetchedAt": "2026-08-03T12:46:07.539Z"
+      "fetchedAt": "2026-08-10T07:09:54.460Z"
     },
     "P200001": {
       "career": {
@@ -692,14 +692,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Alejandra-Salazar-Bengoechea-2.png",
-      "fetchedAt": "2026-08-03T12:46:07.588Z"
+      "fetchedAt": "2026-08-10T07:09:54.622Z"
     },
     "P200124": {
       "career": {
         "bestRank": 11,
-        "wins": 84,
-        "losses": 61,
-        "winRate": 57.9,
+        "wins": 86,
+        "losses": 59,
+        "winRate": 59.3,
         "titles": null,
         "consecutiveWins": 4
       },
@@ -711,14 +711,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/ALEJANDRA-ALONSO-1.png",
-      "fetchedAt": "2026-08-03T12:46:07.625Z"
+      "fetchedAt": "2026-08-10T07:09:54.636Z"
     },
     "P000466": {
       "career": {
         "bestRank": 9,
-        "wins": 92,
-        "losses": 63,
-        "winRate": 59.4,
+        "wins": 90,
+        "losses": 65,
+        "winRate": 58.1,
         "titles": null,
         "consecutiveWins": 3
       },
@@ -730,14 +730,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/Veronica-Virseda.png",
-      "fetchedAt": "2026-08-03T12:46:07.845Z"
+      "fetchedAt": "2026-08-10T07:09:54.645Z"
     },
     "P000472": {
       "career": {
         "bestRank": 15,
-        "wins": 60,
-        "losses": 63,
-        "winRate": 48.8,
+        "wins": 63,
+        "losses": 60,
+        "winRate": 51.2,
         "titles": null,
         "consecutiveWins": 3
       },
@@ -749,14 +749,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Marina-Guinart-1.png",
-      "fetchedAt": "2026-08-03T12:46:07.891Z"
+      "fetchedAt": "2026-08-10T07:09:54.802Z"
     },
     "P200013": {
       "career": {
         "bestRank": 8,
-        "wins": 81,
-        "losses": 59,
-        "winRate": 57.9,
+        "wins": 80,
+        "losses": 60,
+        "winRate": 57.1,
         "titles": null,
         "consecutiveWins": 3
       },
@@ -768,14 +768,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/ARANZAZU-OSORO-2.png",
-      "fetchedAt": "2026-08-03T12:46:07.923Z"
+      "fetchedAt": "2026-08-10T07:09:54.819Z"
     },
     "P200029": {
       "career": {
         "bestRank": 16,
-        "wins": 63,
-        "losses": 64,
-        "winRate": 49.6,
+        "wins": 65,
+        "losses": 62,
+        "winRate": 51.2,
         "titles": null,
         "consecutiveWins": 4
       },
@@ -787,14 +787,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Beatriz-Caldera-1.png",
-      "fetchedAt": "2026-08-03T12:46:08.157Z"
+      "fetchedAt": "2026-08-10T07:09:54.830Z"
     },
     "P200030": {
       "career": {
         "bestRank": 17,
-        "wins": 66,
-        "losses": 61,
-        "winRate": 52,
+        "wins": 68,
+        "losses": 59,
+        "winRate": 53.5,
         "titles": null,
         "consecutiveWins": 4
       },
@@ -806,14 +806,14 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Carmen-Goenaga-2.png",
-      "fetchedAt": "2026-08-03T12:46:08.195Z"
+      "fetchedAt": "2026-08-10T07:09:54.983Z"
     },
     "P200012": {
       "career": {
         "bestRank": 10,
-        "wins": 49,
-        "losses": 53,
-        "winRate": 48,
+        "wins": 47,
+        "losses": 55,
+        "winRate": 46.1,
         "titles": null,
         "consecutiveWins": 3
       },
@@ -828,7 +828,7 @@
         "url": "https://www.padelfip.com/player/lorena-rufo-ortiz/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/VICTORIA-IGLESIAS.png",
-      "fetchedAt": "2026-08-03T12:46:08.226Z"
+      "fetchedAt": "2026-08-10T07:09:55.001Z"
     }
   }
 }
