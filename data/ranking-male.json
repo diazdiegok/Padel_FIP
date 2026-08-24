@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 34,
-  "generatedAt": "2026-08-23T06:22:45.457Z",
+  "generatedAt": "2026-08-24T06:36:01.031Z",
   "players": [
     {
       "playerId": "P000010",
@@ -2712,10 +2712,10 @@
       "pairRank": 3
     },
     {
-      "id": "P000005+P000018",
+      "id": "P000005+P000038",
       "rank": 7,
-      "avgPoints": 6463,
-      "combinedPoints": 12926,
+      "avgPoints": 5832,
+      "combinedPoints": 11663,
       "sharedPoints": null,
       "players": [
         {
@@ -2728,13 +2728,13 @@
           "points": 6570
         },
         {
-          "playerId": "P000018",
-          "name": "Miguel Yanguas",
-          "shortName": "Yanguas",
+          "playerId": "P000038",
+          "name": "Jon Sanz",
+          "shortName": "Sanz",
           "country": "ESP",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/YANGUAS-150x150.png",
-          "rank": 8,
-          "points": 6356
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JON-SANZ-150x150.png",
+          "rank": 12,
+          "points": 5093
         }
       ],
       "countries": [
@@ -2745,6 +2745,40 @@
       "combinedMove": 0,
       "source": "official",
       "pairRank": 4
+    },
+    {
+      "id": "P000017+P000018",
+      "rank": 8,
+      "avgPoints": 5824,
+      "combinedPoints": 11647,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P000018",
+          "name": "Miguel Yanguas",
+          "shortName": "Yanguas",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/YANGUAS-150x150.png",
+          "rank": 8,
+          "points": 6356
+        },
+        {
+          "playerId": "P000017",
+          "name": "Jorge Nieto",
+          "shortName": "Nieto",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/NIETO-150x150.png",
+          "rank": 10,
+          "points": 5291
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": 0,
+      "source": "official",
+      "pairRank": 5
     },
     {
       "id": "P000003+P000004",
@@ -2775,40 +2809,6 @@
       "countries": [
         "ESP",
         "ARG"
-      ],
-      "titles": 0,
-      "combinedMove": 0,
-      "source": "official",
-      "pairRank": 5
-    },
-    {
-      "id": "P000017+P000038",
-      "rank": 10,
-      "avgPoints": 5192,
-      "combinedPoints": 10384,
-      "sharedPoints": null,
-      "players": [
-        {
-          "playerId": "P000017",
-          "name": "Jorge Nieto",
-          "shortName": "Nieto",
-          "country": "ESP",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/NIETO-150x150.png",
-          "rank": 10,
-          "points": 5291
-        },
-        {
-          "playerId": "P000038",
-          "name": "Jon Sanz",
-          "shortName": "Sanz",
-          "country": "ESP",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JON-SANZ-150x150.png",
-          "rank": 12,
-          "points": 5093
-        }
-      ],
-      "countries": [
-        "ESP"
       ],
       "titles": 0,
       "combinedMove": 0,
@@ -6445,13 +6445,13 @@
       "source": "official"
     },
     "P000005": {
-      "playerId": "P000018",
-      "name": "Miguel Yanguas",
+      "playerId": "P000038",
+      "name": "Jon Sanz",
       "source": "official"
     },
     "P000018": {
-      "playerId": "P000005",
-      "name": "Franco Stupaczuk",
+      "playerId": "P000017",
+      "name": "Jorge Nieto",
       "source": "official"
     },
     "P000003": {
@@ -6460,8 +6460,8 @@
       "source": "official"
     },
     "P000017": {
-      "playerId": "P000038",
-      "name": "Jon Sanz",
+      "playerId": "P000018",
+      "name": "Miguel Yanguas",
       "source": "official"
     },
     "P000004": {
@@ -6470,8 +6470,8 @@
       "source": "official"
     },
     "P000038": {
-      "playerId": "P000017",
-      "name": "Jorge Nieto",
+      "playerId": "P000005",
+      "name": "Franco Stupaczuk",
       "source": "official"
     },
     "P000138": {
