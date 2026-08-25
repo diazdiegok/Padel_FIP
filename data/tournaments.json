@@ -1,6 +1,293 @@
 {
-  "generatedAt": "2026-08-24T06:36:01.031Z",
+  "generatedAt": "2026-08-25T06:27:57.767Z",
   "events": [
+    {
+      "id": 1784,
+      "year": 2026,
+      "category": "Silver",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP Silver Esc Padel II",
+      "city": "Espoo",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Finland_Fip.jpg",
+      "date": "23/08/2026",
+      "sortDate": "2026-08-23T00:00:00.000000Z",
+      "score": "6-2/6-0",
+      "winners": [
+        {
+          "name": "Lea Godallier",
+          "playerId": "P200038",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LEA-GODALIER-150x150.png",
+          "country": "FRA"
+        },
+        {
+          "name": "Daiara Agustina Valenzuela",
+          "playerId": "P000432",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/DAIARA-VALENZUELA-150x150.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Sandra Bellver Fructuoso",
+          "playerId": "P000471",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/SANDRA-BELLVER-2-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Alba Gallardo Salvado",
+          "playerId": "P200235",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/03/Alba-Gallardo-Salvado-150x150.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 1785,
+      "year": 2026,
+      "category": "Silver",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP Silver Esc Padel II",
+      "city": "Espoo",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Finland_Fip.jpg",
+      "date": "23/08/2026",
+      "sortDate": "2026-08-23T00:00:00.000000Z",
+      "score": "6-2/6-3",
+      "winners": [
+        {
+          "name": "Marc Sintes Villalonga",
+          "playerId": "P100003",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/MARC-SINTES-1-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Juan Zamora Perez",
+          "playerId": "P201600",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Matteo Sargolini",
+          "playerId": "P201582",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ITA"
+        },
+        {
+          "name": "Bentahor Espino Mustafa",
+          "playerId": "P205251",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 1786,
+      "year": 2026,
+      "category": "Silver",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP Siver Porto St. Elpidio",
+      "city": "Porto St. Elpidio",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "date": "23/08/2026",
+      "sortDate": "2026-08-23T00:00:00.000000Z",
+      "score": "3-6/6-3/6-2",
+      "winners": [
+        {
+          "name": "Lorena Vano",
+          "playerId": "P000453",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/LORENA-VANO-150x150.png",
+          "country": "ITA"
+        },
+        {
+          "name": "Alba Perez Momha",
+          "playerId": "P200111",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/ALBA-PEREZ-150x150.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Maria Laura Ferreyra",
+          "playerId": "P201863",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ARG"
+        },
+        {
+          "name": "Camila Fassio Goyeneche",
+          "playerId": "P201785",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 1787,
+      "year": 2026,
+      "category": "Silver",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP Siver Porto St. Elpidio",
+      "city": "Porto St. Elpidio",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "date": "23/08/2026",
+      "sortDate": "2026-08-23T00:00:00.000000Z",
+      "score": "7-5/6-0",
+      "winners": [
+        {
+          "name": "Valentino Gabriel Libaak",
+          "playerId": "P101158",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/VALENTINO-LIBAAK-1-150x150.png",
+          "country": "ARG"
+        },
+        {
+          "name": "Gonzalo Alfonso",
+          "playerId": "P201729",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/GONZALO-ALFONSO-1-150x150.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Alvaro Cepero",
+          "playerId": "P000060",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ALVARO-CEPERO-2-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Pepe Aliaga",
+          "playerId": "P000137",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 1788,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP Bronze Castro",
+      "city": "Castro",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Chile_Fip.jpg",
+      "date": "23/08/2026",
+      "sortDate": "2026-08-23T00:00:00.000000Z",
+      "score": "6-2/6-3",
+      "winners": [
+        {
+          "name": "Santino Contreras",
+          "playerId": "P208761",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ARG"
+        },
+        {
+          "name": "Francisco Maier",
+          "playerId": "P100599",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Juan Manuel Lasgoity",
+          "playerId": "P203615",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ITA"
+        },
+        {
+          "name": "Relis Ferreyra",
+          "playerId": "P000410",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "id": 1782,
+      "year": 2026,
+      "category": "Gold",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP Gold San Luis",
+      "city": "San Luis",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
+      "date": "22/08/2026",
+      "sortDate": "2026-08-22T00:00:00.000000Z",
+      "score": "1-6/6-0/6-1",
+      "winners": [
+        {
+          "name": "Lucia Peralta Exposito",
+          "playerId": "P200162",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/LUCIA-PERALTA-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Lucia Martinez Gomez",
+          "playerId": "330614",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LUCIA-MARTINEZ-GOMEZ-2-150x150.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Camila Ramme Coellar",
+          "playerId": "P200153",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "MEX"
+        },
+        {
+          "name": "Brittany Dubins",
+          "playerId": "P202287",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Dubins-c-150x150.png",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "id": 1783,
+      "year": 2026,
+      "category": "Gold",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP Gold San Luis",
+      "city": "San Luis",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
+      "date": "22/08/2026",
+      "sortDate": "2026-08-22T00:00:00.000000Z",
+      "score": "6-2/6/7/7-6",
+      "winners": [
+        {
+          "name": "Juan Ignacio Rubini",
+          "playerId": "P001511",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/IGNACIO-RUBINI-150x150.png",
+          "country": "ARG"
+        },
+        {
+          "name": "Alex Chozas",
+          "playerId": "P101157",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/CHOZAS-150x150.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Alejandro Ruiz",
+          "playerId": "P000012",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ALEJANDRO-RUIZ-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Franco Renato Dal Bianco",
+          "playerId": "P203885",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ARG"
+        }
+      ]
+    },
     {
       "id": 1777,
       "year": 2026,
