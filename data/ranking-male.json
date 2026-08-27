@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 35,
-  "generatedAt": "2026-08-26T06:29:31.902Z",
+  "generatedAt": "2026-08-27T17:03:54.797Z",
   "players": [
     {
       "playerId": "P000010",
@@ -1483,7 +1483,7 @@
       "move": -1,
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
-      "photo": null,
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Ferran-Insa-c-150x150.png",
       "url": "https://www.padelfip.com/player/ferran-insa-sotillo/"
     },
     {
