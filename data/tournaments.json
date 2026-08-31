@@ -1,6 +1,333 @@
 {
-  "generatedAt": "2026-08-30T10:53:44.835Z",
+  "generatedAt": "2026-08-31T12:07:17.191Z",
   "events": [
+    {
+      "id": 1789,
+      "year": 2026,
+      "category": "Gold",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "Fip Gold Belgrade",
+      "city": "Belgrade",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2025/12/srb.png",
+      "date": "30/08/2026",
+      "sortDate": "2026-08-30T00:00:00.000000Z",
+      "score": "4-6/6-1/6-3",
+      "winners": [
+        {
+          "name": "Lorena Rufo Ortiz",
+          "playerId": "P000477",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LORENA-RUFO-2-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Victoria Iglesias Segador",
+          "playerId": "P200012",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/VICTORIA-IGLESIAS-150x150.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Alejandra Salazar Bengoechea",
+          "playerId": "P200001",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ALEJANDRA-SALAZAR-2-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Aranzazu Osoro Ulrich",
+          "playerId": "P200013",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ARANCIA-OSORO-150x150.png",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "id": 1790,
+      "year": 2026,
+      "category": "Gold",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "Fip Gold Belgrade",
+      "city": "Belgrade",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2025/12/srb.png",
+      "date": "30/08/2026",
+      "sortDate": "2026-08-30T00:00:00.000000Z",
+      "score": "6-3/7-5",
+      "winners": [
+        {
+          "name": "Franco Stupaczuk",
+          "playerId": "P000005",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/STUPACZUK-3-150x150.png",
+          "country": "ARG"
+        },
+        {
+          "name": "Jon Sanz",
+          "playerId": "P000038",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JON-SANZ-150x150.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Jorge Nieto",
+          "playerId": "P000017",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/NIETO-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Miguel Yanguas",
+          "playerId": "P000018",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/YANGUAS-150x150.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 1793,
+      "year": 2026,
+      "category": "Silver",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "Fip Silver Westerbork",
+      "city": "Westerbork",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "date": "30/08/2026",
+      "sortDate": "2026-08-30T00:00:00.000000Z",
+      "score": "6-4/6-3",
+      "winners": [
+        {
+          "name": "Marta Caparros Maldonado",
+          "playerId": "P200063",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/CAPARROS-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Agueda Perez Ortiz",
+          "playerId": "P200184",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/AGUEDA-PEREZ-2-150x150.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Eugenia Guimet Bigas",
+          "playerId": "P200087",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Aimee Gibson",
+          "playerId": "P201837",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/AIMEE-GIBSON-150x150.png",
+          "country": "GBR"
+        }
+      ]
+    },
+    {
+      "id": 1795,
+      "year": 2026,
+      "category": "Silver",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "Fip Silver Mc Allen Texas",
+      "city": "McAllen",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/USA_Fip.jpg",
+      "date": "30/08/2026",
+      "sortDate": "2026-08-30T00:00:00.000000Z",
+      "score": "6-4/6-3",
+      "winners": [
+        {
+          "name": "Camila Ramme Coellar",
+          "playerId": "P200153",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "MEX"
+        },
+        {
+          "name": "Brittany Dubins",
+          "playerId": "P202287",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Dubins-c-150x150.png",
+          "country": "USA"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Carla Fernandez Gonzalez",
+          "playerId": "P200359",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Carla-Fernandez-c-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Nerea Guerra Santana",
+          "playerId": "P200560",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Nera-Guerra-c-150x150.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 1796,
+      "year": 2026,
+      "category": "Silver",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "Fip Silver Mc Allen Texas",
+      "city": "McAllen",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/USA_Fip.jpg",
+      "date": "30/08/2026",
+      "sortDate": "2026-08-30T00:00:00.000000Z",
+      "score": "3-6/6-3/6-2",
+      "winners": [
+        {
+          "name": "Antonio Fernandez",
+          "playerId": "P000031",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/ANTONIO-FERNANDEZ-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Leonel Daniel Aguirre",
+          "playerId": "P100957",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/AGUIRRE-150x150.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Vinny Nahuel Di Francesco",
+          "playerId": "P100616",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/Vinny-Di-Francesco-150x150.png",
+          "country": "USA"
+        },
+        {
+          "name": "Ivo Andenmatten Gudiño",
+          "playerId": "P001054",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "id": 1794,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "Fip Bronze Westerbork",
+      "city": "Westerbork",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/TheNetherlands_Fip.jpg",
+      "date": "30/08/2026",
+      "sortDate": "2026-08-30T00:00:00.000000Z",
+      "score": "6-3/7-6",
+      "winners": [
+        {
+          "name": "Denis Tomas Perino",
+          "playerId": "P000062",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/PERINO-150x150.png",
+          "country": "ITA"
+        },
+        {
+          "name": "Andres Fernandez Lancha",
+          "playerId": "P101601",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/FERNANDEZ-LANCHA-150x150.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Javier Garcia",
+          "playerId": "P20307",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png"
+        },
+        {
+          "name": "Sergio Arias Aznar",
+          "playerId": "P203126",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 1792,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "Fip Bronze Bamvolea Ciudad Raqueta",
+      "city": "Madrid",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "date": "29/08/2026",
+      "sortDate": "2026-08-29T00:00:00.000000Z",
+      "score": "7-5/6-4",
+      "winners": [
+        {
+          "name": "Javier Collantes Guijo",
+          "playerId": "P101650",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Asier Martinez Lopez",
+          "playerId": "P207623",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Jesus Moya",
+          "playerId": "P000042",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JESUN-MOYA-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Thomas Leygue",
+          "playerId": "P000091",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/Thomas-Leygue-c-150x150.png",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "id": 1791,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "Fip Bronze Bamvolea Ciudad Raqueta",
+      "city": "Madrid",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "date": "29/08/2026",
+      "sortDate": "2026-08-29T00:00:00.000000Z",
+      "score": "6-2/6-0",
+      "winners": [
+        {
+          "name": "Amanda Lopez Moral",
+          "playerId": "P200185",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/AMANDA-LOPEZ-MORAL-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Camila Fassio Goyeneche",
+          "playerId": "P201785",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Ana Dominguez Gracia",
+          "playerId": "P200176",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/03/ANA-DOMINGUEZ-C-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Aida Martinez Sanjuan",
+          "playerId": "P200356",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/AIDA-MARTINEZ-150x150.png",
+          "country": "ESP"
+        }
+      ]
+    },
     {
       "id": 1784,
       "year": 2026,
