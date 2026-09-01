@@ -2,7 +2,7 @@
   "gender": "female",
   "year": 2026,
   "week": 36,
-  "generatedAt": "2026-08-31T12:07:17.191Z",
+  "generatedAt": "2026-09-01T10:44:51.023Z",
   "players": [
     {
       "playerId": "P200002",
@@ -535,7 +535,7 @@
       "country": "ARG",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
       "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JULETTA-BIDAHORRIA-150x150.png",
-      "url": "https://www.padelfip.com/player/julieta-evangelina-bidahorria/"
+      "url": "https://www.padelfip.com/player/julieta-bidahorria/"
     },
     {
       "playerId": "P200063",
@@ -574,7 +574,7 @@
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
       "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LETIZIA-MANQUILLO-2-150x150.png",
-      "url": "https://www.padelfip.com/player/letizia-maria-manquillo-alarza/"
+      "url": "https://www.padelfip.com/player/letizia-manquillo-alarza/"
     },
     {
       "playerId": "P200896",
@@ -1172,7 +1172,7 @@
       "country": "ITA",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
       "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Clarissa-Aima-c-150x150.png",
-      "url": "https://www.padelfip.com/player/clarissa-margherita-aima/"
+      "url": "https://www.padelfip.com/player/clarissa-aima/"
     },
     {
       "playerId": "P201837",
@@ -1328,7 +1328,7 @@
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
       "photo": null,
-      "url": "https://www.padelfip.com/player/eugenia-guimet-bigas/"
+      "url": "https://www.padelfip.com/player/eugenia-guimet/"
     },
     {
       "playerId": "P202472",
@@ -6925,7 +6925,7 @@
     },
     "P201837": {
       "playerId": "P200087",
-      "name": "Eugenia Guimet Bigas",
+      "name": "Eugenia Guimet",
       "source": "circuit"
     },
     "P000477": {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:07:17.191Z",
+  "generatedAt": "2026-09-01T10:44:51.023Z",
   "events": [
     {
       "id": 1789,
@@ -111,7 +111,7 @@
       ],
       "finalists": [
         {
-          "name": "Eugenia Guimet Bigas",
+          "name": "Eugenia Guimet",
           "playerId": "P200087",
           "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
           "country": "ESP"
@@ -236,7 +236,8 @@
         {
           "name": "Javier Garcia",
           "playerId": "P20307",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png"
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/placeholder-man.png",
+          "country": "ESP"
         },
         {
           "name": "Sergio Arias Aznar",
@@ -758,7 +759,7 @@
           "country": "UAE"
         },
         {
-          "name": "Emilio Sanchez Chamero",
+          "name": "Emilio Sánchez Chamero",
           "playerId": "P000149",
           "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/EMILIO-SANCHEZ-CHAMERO-150x150.png",
           "country": "ESP"
