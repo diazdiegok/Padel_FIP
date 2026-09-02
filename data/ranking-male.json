@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 36,
-  "generatedAt": "2026-09-01T10:44:51.023Z",
+  "generatedAt": "2026-09-02T10:09:54.995Z",
   "players": [
     {
       "playerId": "P000010",
@@ -92,7 +92,7 @@
       "move": 0,
       "country": "ARG",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
-      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/STUPACZUK-3-150x150.png",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Stupaczuk-c-150x150.png",
       "url": "https://www.padelfip.com/player/franco-stupaczuk/"
     },
     {
@@ -2723,7 +2723,7 @@
           "name": "Franco Stupaczuk",
           "shortName": "Stupaczuk",
           "country": "ARG",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/STUPACZUK-3-150x150.png",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Stupaczuk-c-150x150.png",
           "rank": 7,
           "points": 6630
         },

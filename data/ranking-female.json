@@ -2,7 +2,7 @@
   "gender": "female",
   "year": 2026,
   "week": 36,
-  "generatedAt": "2026-09-01T10:44:51.023Z",
+  "generatedAt": "2026-09-02T10:09:54.995Z",
   "players": [
     {
       "playerId": "P200002",
@@ -976,7 +976,7 @@
       "move": 7,
       "country": "MEX",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
-      "photo": null,
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Camila-Ramme-c-150x150.png",
       "url": "https://www.padelfip.com/player/camila-ramme-coellar/"
     },
     {
