@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:38:02.547Z",
+  "generatedAt": "2026-09-06T09:53:37.381Z",
   "players": {
     "P000010": {
       "career": {
@@ -21,7 +21,7 @@
         "url": "https://www.padelfip.com/player/agustin-tapia/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Coello-p.png",
-      "fetchedAt": "2026-08-30T10:53:48.565Z"
+      "fetchedAt": "2026-09-06T09:53:41.974Z"
     },
     "P000285": {
       "career": {
@@ -43,7 +43,7 @@
         "url": "https://www.padelfip.com/player/arturo-coello/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/TAPIA-1.png",
-      "fetchedAt": "2026-08-30T10:53:48.567Z"
+      "fetchedAt": "2026-09-06T09:53:41.990Z"
     },
     "P000001": {
       "career": {
@@ -65,7 +65,7 @@
         "url": "https://www.padelfip.com/player/federico-chingotto/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/GALAN-6.png",
-      "fetchedAt": "2026-08-30T10:53:48.562Z"
+      "fetchedAt": "2026-09-06T09:53:42.136Z"
     },
     "P000007": {
       "career": {
@@ -87,7 +87,7 @@
         "url": "https://www.padelfip.com/player/alejandro-galan/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/CHINGOTTO-2.png",
-      "fetchedAt": "2026-08-30T10:53:48.683Z"
+      "fetchedAt": "2026-09-06T09:53:42.142Z"
     },
     "P000002": {
       "career": {
@@ -109,7 +109,7 @@
         "url": "https://www.padelfip.com/player/leandro-augsburger/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/LEBRON-5.png",
-      "fetchedAt": "2026-08-30T10:53:48.688Z"
+      "fetchedAt": "2026-09-06T09:53:42.168Z"
     },
     "P101159": {
       "career": {
@@ -131,7 +131,7 @@
         "url": "https://www.padelfip.com/player/juan-lebron/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/LEO-AUGSBURGER-1.png",
-      "fetchedAt": "2026-08-30T10:53:48.793Z"
+      "fetchedAt": "2026-09-06T09:53:42.315Z"
     },
     "P000005": {
       "career": {
@@ -152,8 +152,8 @@
         "name": "Jon Sanz",
         "url": "https://www.padelfip.com/player/jon-sanz/"
       },
-      "portrait": "https://www.padelfip.com/wp-content/uploads/2026/02/full_franco_stupaczuk.png",
-      "fetchedAt": "2026-08-30T10:53:48.807Z"
+      "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Stupaczuk-p.png",
+      "fetchedAt": "2026-09-06T09:53:42.312Z"
     },
     "P000018": {
       "career": {
@@ -168,14 +168,14 @@
         "year": 2026,
         "bestRank": 7,
         "titles": 0,
-        "raceRank": 7
+        "raceRank": 8
       },
       "partner": {
         "name": "Jorge Nieto",
         "url": "https://www.padelfip.com/player/jorge-nieto/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/YANGUAS-1.png",
-      "fetchedAt": "2026-08-30T10:53:48.815Z"
+      "fetchedAt": "2026-09-06T09:53:42.349Z"
     },
     "P000003": {
       "career": {
@@ -197,7 +197,7 @@
         "url": "https://www.padelfip.com/player/martin-di-nenno/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/PAQUITO-NAVARRO-2.png",
-      "fetchedAt": "2026-08-30T10:53:49.003Z"
+      "fetchedAt": "2026-09-06T09:53:42.479Z"
     },
     "P000017": {
       "career": {
@@ -212,14 +212,14 @@
         "year": 2026,
         "bestRank": 7,
         "titles": 0,
-        "raceRank": 17
+        "raceRank": 16
       },
       "partner": {
         "name": "Miguel Yanguas",
         "url": "https://www.padelfip.com/player/miguel-yanguas/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2026/02/full_jorge_nieto.png",
-      "fetchedAt": "2026-08-30T10:53:48.931Z"
+      "fetchedAt": "2026-09-06T09:53:42.490Z"
     },
     "P000004": {
       "career": {
@@ -241,7 +241,7 @@
         "url": "https://www.padelfip.com/player/francisco-navarro/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/DI-NENNO-2.png",
-      "fetchedAt": "2026-08-30T10:53:48.936Z"
+      "fetchedAt": "2026-09-06T09:53:42.526Z"
     },
     "P000038": {
       "career": {
@@ -256,14 +256,14 @@
         "year": 2026,
         "bestRank": 10,
         "titles": 0,
-        "raceRank": 15
+        "raceRank": 14
       },
       "partner": {
         "name": "Franco Stupaczuk",
         "url": "https://www.padelfip.com/player/franco-stupaczuk/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/JON-SANZ-1.png",
-      "fetchedAt": "2026-08-30T10:53:49.056Z"
+      "fetchedAt": "2026-09-06T09:53:43.444Z"
     },
     "P000138": {
       "career": {
@@ -285,7 +285,7 @@
         "url": "https://www.padelfip.com/player/javier-leal/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/FRA-GUERRERO.png",
-      "fetchedAt": "2026-08-30T10:53:49.057Z"
+      "fetchedAt": "2026-09-06T09:53:42.669Z"
     },
     "P000011": {
       "career": {
@@ -307,7 +307,7 @@
         "url": "https://www.padelfip.com/player/lucas-campagnolo/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/MOMO-GONZALEZ-1.png",
-      "fetchedAt": "2026-08-30T10:53:49.227Z"
+      "fetchedAt": "2026-09-06T09:53:42.702Z"
     },
     "P000019": {
       "career": {
@@ -322,14 +322,14 @@
         "year": 2026,
         "bestRank": 15,
         "titles": 0,
-        "raceRank": 14
+        "raceRank": 15
       },
       "partner": {
         "name": "Francisco Guerrero",
         "url": "https://www.padelfip.com/player/francisco-guerrero/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/JAVI-LEAL-1.png",
-      "fetchedAt": "2026-08-30T10:53:49.178Z"
+      "fetchedAt": "2026-09-06T09:53:42.844Z"
     },
     "P000036": {
       "career": {
@@ -351,7 +351,7 @@
         "url": "https://www.padelfip.com/player/javier-garrido/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/LUCAS-BERGAMINI-1.png",
-      "fetchedAt": "2026-08-30T10:53:49.179Z"
+      "fetchedAt": "2026-09-06T09:53:42.879Z"
     },
     "P000043": {
       "career": {
@@ -373,7 +373,7 @@
         "url": "https://www.padelfip.com/player/aimar-goni-lacabe/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/ALONSO.png",
-      "fetchedAt": "2026-08-30T10:53:49.304Z"
+      "fetchedAt": "2026-09-06T09:53:43.019Z"
     },
     "P000008": {
       "career": {
@@ -388,11 +388,11 @@
         "year": 2026,
         "bestRank": 16,
         "titles": 0,
-        "raceRank": 16
+        "raceRank": 17
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/TELLO-2.png",
-      "fetchedAt": "2026-08-30T10:53:49.453Z"
+      "fetchedAt": "2026-09-06T09:53:43.193Z"
     },
     "P000016": {
       "career": {
@@ -414,7 +414,7 @@
         "url": "https://www.padelfip.com/player/lucas-bergamini/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Javier-Garrido-1.png",
-      "fetchedAt": "2026-08-30T10:53:49.424Z"
+      "fetchedAt": "2026-09-06T09:53:43.232Z"
     },
     "P000015": {
       "career": {
@@ -436,7 +436,7 @@
         "url": "https://www.padelfip.com/player/jeronimo-gonzalez/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/CAMPAGNOLO-1.png",
-      "fetchedAt": "2026-08-30T10:53:49.305Z"
+      "fetchedAt": "2026-09-06T09:53:43.054Z"
     },
     "P200002": {
       "career": {
@@ -455,7 +455,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Gemma-Triay-4.png",
-      "fetchedAt": "2026-08-30T10:53:53.236Z"
+      "fetchedAt": "2026-09-06T09:53:47.677Z"
     },
     "P200005": {
       "career": {
@@ -477,7 +477,7 @@
         "url": "https://www.padelfip.com/player/gemma-triay-pons/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Delfi-p.png",
-      "fetchedAt": "2026-08-30T10:53:53.233Z"
+      "fetchedAt": "2026-09-06T09:53:47.694Z"
     },
     "P200011": {
       "career": {
@@ -496,7 +496,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/full_beatriz_gonzalez-1.webp",
-      "fetchedAt": "2026-08-30T10:53:53.234Z"
+      "fetchedAt": "2026-09-06T09:53:47.836Z"
     },
     "P200004": {
       "career": {
@@ -515,7 +515,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Paula-Josemaria-Prof-2.png",
-      "fetchedAt": "2026-08-30T10:53:53.353Z"
+      "fetchedAt": "2026-09-06T09:53:47.844Z"
     },
     "P200003": {
       "career": {
@@ -534,7 +534,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Ariana-Sanchezu.png",
-      "fetchedAt": "2026-08-30T10:53:53.444Z"
+      "fetchedAt": "2026-09-06T09:53:47.869Z"
     },
     "P000532": {
       "career": {
@@ -553,7 +553,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/full_claudia_frenandez-1.webp",
-      "fetchedAt": "2026-08-30T10:53:53.357Z"
+      "fetchedAt": "2026-09-06T09:53:48.013Z"
     },
     "P200224": {
       "career": {
@@ -572,7 +572,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Andrea-Ustero-1.png",
-      "fetchedAt": "2026-08-30T10:53:53.472Z"
+      "fetchedAt": "2026-09-06T09:53:48.011Z"
     },
     "P000526": {
       "career": {
@@ -591,7 +591,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/Sofia-Araujo.png",
-      "fetchedAt": "2026-08-30T10:53:53.477Z"
+      "fetchedAt": "2026-09-06T09:53:48.045Z"
     },
     "P200006": {
       "career": {
@@ -613,7 +613,7 @@
         "url": "https://www.padelfip.com/player/claudia-jensen/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/Tamara-Icardo.png",
-      "fetchedAt": "2026-08-30T10:53:53.591Z"
+      "fetchedAt": "2026-09-06T09:53:48.190Z"
     },
     "P200014": {
       "career": {
@@ -635,7 +635,7 @@
         "url": "https://www.padelfip.com/player/sofia-araujo/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/full_marta_ortega-1.webp",
-      "fetchedAt": "2026-08-30T10:53:53.598Z"
+      "fetchedAt": "2026-09-06T09:53:48.220Z"
     },
     "P200032": {
       "career": {
@@ -654,7 +654,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/CLAUDIA-JENSEN-6.png",
-      "fetchedAt": "2026-08-30T10:53:53.711Z"
+      "fetchedAt": "2026-09-06T09:53:48.349Z"
     },
     "P203086": {
       "career": {
@@ -673,7 +673,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2024/03/Martina-Calvo-Santamaria-1.png",
-      "fetchedAt": "2026-08-30T10:53:53.672Z"
+      "fetchedAt": "2026-09-06T09:53:48.180Z"
     },
     "P200001": {
       "career": {
@@ -688,11 +688,11 @@
         "year": 2026,
         "bestRank": 12,
         "titles": 0,
-        "raceRank": 16
+        "raceRank": 15
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Alejandra-Salazar-Bengoechea-2.png",
-      "fetchedAt": "2026-08-30T10:53:53.717Z"
+      "fetchedAt": "2026-09-06T09:53:48.365Z"
     },
     "P200124": {
       "career": {
@@ -711,7 +711,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/ALEJANDRA-ALONSO-1.png",
-      "fetchedAt": "2026-08-30T10:53:53.898Z"
+      "fetchedAt": "2026-09-06T09:53:48.396Z"
     },
     "P000466": {
       "career": {
@@ -726,11 +726,11 @@
         "year": 2026,
         "bestRank": 15,
         "titles": 0,
-        "raceRank": 15
+        "raceRank": 16
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/Veronica-Virseda.png",
-      "fetchedAt": "2026-08-30T10:53:53.831Z"
+      "fetchedAt": "2026-09-06T09:53:48.517Z"
     },
     "P000472": {
       "career": {
@@ -749,7 +749,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Marina-Guinart-1.png",
-      "fetchedAt": "2026-08-30T10:53:53.837Z"
+      "fetchedAt": "2026-09-06T09:53:48.541Z"
     },
     "P200013": {
       "career": {
@@ -764,11 +764,11 @@
         "year": 2026,
         "bestRank": 17,
         "titles": 0,
-        "raceRank": 22
+        "raceRank": 21
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/ARANZAZU-OSORO-2.png",
-      "fetchedAt": "2026-08-30T10:53:53.950Z"
+      "fetchedAt": "2026-09-06T09:53:48.576Z"
     },
     "P200029": {
       "career": {
@@ -787,7 +787,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Beatriz-Caldera-1.png",
-      "fetchedAt": "2026-08-30T10:53:53.956Z"
+      "fetchedAt": "2026-09-06T09:53:48.685Z"
     },
     "P200030": {
       "career": {
@@ -806,7 +806,7 @@
       },
       "partner": null,
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/02/Carmen-Goenaga-2.png",
-      "fetchedAt": "2026-08-30T10:53:54.105Z"
+      "fetchedAt": "2026-09-06T09:53:48.718Z"
     },
     "P200012": {
       "career": {
@@ -821,14 +821,14 @@
         "year": 2026,
         "bestRank": 19,
         "titles": 0,
-        "raceRank": 26
+        "raceRank": 24
       },
       "partner": {
         "name": "Lorena Rufo Ortiz",
         "url": "https://www.padelfip.com/player/lorena-rufo-ortiz/"
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/VICTORIA-IGLESIAS.png",
-      "fetchedAt": "2026-08-30T10:53:54.680Z"
+      "fetchedAt": "2026-09-06T09:53:48.752Z"
     }
   }
 }
