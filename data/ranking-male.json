@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 37,
-  "generatedAt": "2026-09-08T10:15:51.142Z",
+  "generatedAt": "2026-09-09T10:21:46.555Z",
   "players": [
     {
       "playerId": "P000010",
@@ -987,8 +987,8 @@
       "rank": 76,
       "points": 846,
       "move": 1,
-      "country": "MEX",
-      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
+      "country": "ARG",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
       "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/AGUSTIN-TORRE-150x150.png",
       "url": "https://www.padelfip.com/player/eduardo-agustin-torre/"
     },
@@ -3975,13 +3975,13 @@
       "name": "Argentina",
       "color": "#5bc0eb",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Argentina_Fip.jpg",
-      "players": 38,
-      "points": 90877,
+      "players": 39,
+      "points": 91723,
       "bestRank": 1,
       "top10": 4,
       "top50": 14,
-      "avgPoints": 2392,
-      "share": 30.6
+      "avgPoints": 2352,
+      "share": 30.8
     },
     {
       "code": "ITA",
@@ -4088,19 +4088,6 @@
       "share": 0.5
     },
     {
-      "code": "MEX",
-      "name": "México",
-      "color": "#06d6a0",
-      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
-      "players": 2,
-      "points": 1201,
-      "bestRank": 76,
-      "top10": 0,
-      "top50": 0,
-      "avgPoints": 601,
-      "share": 0.4
-    },
-    {
       "code": "BEL",
       "name": "Bélgica",
       "color": "#f4a261",
@@ -4150,6 +4137,19 @@
       "top10": 0,
       "top50": 0,
       "avgPoints": 361,
+      "share": 0.1
+    },
+    {
+      "code": "MEX",
+      "name": "México",
+      "color": "#06d6a0",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Mexico_Fip.jpg",
+      "players": 1,
+      "points": 355,
+      "bestRank": 161,
+      "top10": 0,
+      "top50": 0,
+      "avgPoints": 355,
       "share": 0.1
     }
   ],
