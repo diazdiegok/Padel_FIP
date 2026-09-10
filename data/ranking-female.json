@@ -2,7 +2,7 @@
   "gender": "female",
   "year": 2026,
   "week": 37,
-  "generatedAt": "2026-09-09T10:21:46.555Z",
+  "generatedAt": "2026-09-10T10:14:16.180Z",
   "players": [
     {
       "playerId": "P200002",
@@ -1587,7 +1587,7 @@
       "move": 1,
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
-      "photo": null,
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Claudia-Ordonez-Romero-c-150x150.png",
       "url": "https://www.padelfip.com/player/claudia-ordonez-romero/"
     },
     {
