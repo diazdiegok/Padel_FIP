@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 39,
-  "generatedAt": "2026-09-25T10:47:46.038Z",
+  "generatedAt": "2026-09-26T10:29:35.894Z",
   "players": [
     {
       "playerId": "P000010",
@@ -2712,41 +2712,6 @@
       "pairRank": 3
     },
     {
-      "id": "P000003+P000004",
-      "rank": 7,
-      "avgPoints": 5673,
-      "combinedPoints": 11346,
-      "sharedPoints": null,
-      "players": [
-        {
-          "playerId": "P000003",
-          "name": "Francisco Navarro",
-          "shortName": "Navarro",
-          "country": "ESP",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/PAQUITO-NAVARRO-1-150x150.png",
-          "rank": 7,
-          "points": 6327
-        },
-        {
-          "playerId": "P000004",
-          "name": "Martin Di Nenno",
-          "shortName": "Di Nenno",
-          "country": "ARG",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Di-Nenno-1-150x150.png",
-          "rank": 11,
-          "points": 5019
-        }
-      ],
-      "countries": [
-        "ESP",
-        "ARG"
-      ],
-      "titles": 0,
-      "combinedMove": 0,
-      "source": "official",
-      "pairRank": 4
-    },
-    {
       "id": "P000005+P000038",
       "rank": 8,
       "avgPoints": 5635,
@@ -2779,7 +2744,7 @@
       "titles": 1,
       "combinedMove": 0,
       "source": "official",
-      "pairRank": 5
+      "pairRank": 4
     },
     {
       "id": "P000017+P000018",
@@ -2813,7 +2778,7 @@
       "titles": 0,
       "combinedMove": 0,
       "source": "official",
-      "pairRank": 6
+      "pairRank": 5
     },
     {
       "id": "P000019+P000138",
@@ -2846,6 +2811,40 @@
       ],
       "titles": 0,
       "combinedMove": -1,
+      "source": "official",
+      "pairRank": 6
+    },
+    {
+      "id": "P000004+P000008",
+      "rank": 11,
+      "avgPoints": 4055,
+      "combinedPoints": 8109,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P000004",
+          "name": "Martin Di Nenno",
+          "shortName": "Di Nenno",
+          "country": "ARG",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Di-Nenno-1-150x150.png",
+          "rank": 11,
+          "points": 5019
+        },
+        {
+          "playerId": "P000008",
+          "name": "Juan Tello",
+          "shortName": "Tello",
+          "country": "ARG",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Tello-1-150x150.png",
+          "rank": 18,
+          "points": 3090
+        }
+      ],
+      "countries": [
+        "ARG"
+      ],
+      "titles": 0,
+      "combinedMove": 1,
       "source": "official",
       "pairRank": 7
     },
@@ -2885,41 +2884,6 @@
       "pairRank": 8
     },
     {
-      "id": "P000016+P000036",
-      "rank": 19,
-      "avgPoints": 2963,
-      "combinedPoints": 5926,
-      "sharedPoints": null,
-      "players": [
-        {
-          "playerId": "P000036",
-          "name": "Lucas Bergamini",
-          "shortName": "Bergamini",
-          "country": "BRA",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/LUCAS-BERGAMINI-150x150.png",
-          "rank": 19,
-          "points": 3022
-        },
-        {
-          "playerId": "P000016",
-          "name": "Javier Garrido",
-          "shortName": "Garrido",
-          "country": "ESP",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/GARRIDO-150x150.png",
-          "rank": 20,
-          "points": 2904
-        }
-      ],
-      "countries": [
-        "BRA",
-        "ESP"
-      ],
-      "titles": 0,
-      "combinedMove": -2,
-      "source": "official",
-      "pairRank": 9
-    },
-    {
       "id": "P101158+P201729",
       "rank": 26,
       "avgPoints": 2242,
@@ -2951,7 +2915,7 @@
       "titles": 1,
       "combinedMove": 1,
       "source": "circuit",
-      "pairRank": 10
+      "pairRank": 9
     },
     {
       "id": "P101580+P101627",
@@ -2986,7 +2950,7 @@
       "titles": 1,
       "combinedMove": 3,
       "source": "circuit",
-      "pairRank": 11
+      "pairRank": 10
     },
     {
       "id": "P001511+P101157",
@@ -3020,7 +2984,7 @@
       "titles": 1,
       "combinedMove": -2,
       "source": "circuit",
-      "pairRank": 12
+      "pairRank": 11
     },
     {
       "id": "P000012+P203885",
@@ -3055,7 +3019,7 @@
       "titles": 0,
       "combinedMove": -8,
       "source": "circuit",
-      "pairRank": 13
+      "pairRank": 12
     },
     {
       "id": "P101160+P101734",
@@ -3090,7 +3054,7 @@
       "titles": 0,
       "combinedMove": 0,
       "source": "ranking",
-      "pairRank": 14
+      "pairRank": 13
     },
     {
       "id": "P000175+P201731",
@@ -3125,7 +3089,7 @@
       "titles": 0,
       "combinedMove": 5,
       "source": "ranking",
-      "pairRank": 15
+      "pairRank": 14
     },
     {
       "id": "P101612+P202744",
@@ -3160,7 +3124,7 @@
       "titles": 1,
       "combinedMove": 1,
       "source": "circuit",
-      "pairRank": 16
+      "pairRank": 15
     },
     {
       "id": "P000021+P000041",
@@ -3194,7 +3158,7 @@
       "titles": 0,
       "combinedMove": 1,
       "source": "ranking",
-      "pairRank": 17
+      "pairRank": 16
     },
     {
       "id": "P000157+P000185",
@@ -3229,7 +3193,7 @@
       "titles": 0,
       "combinedMove": 2,
       "source": "circuit",
-      "pairRank": 18
+      "pairRank": 17
     },
     {
       "id": "P000062+P101601",
@@ -3264,7 +3228,7 @@
       "titles": 1,
       "combinedMove": -4,
       "source": "circuit",
-      "pairRank": 19
+      "pairRank": 18
     },
     {
       "id": "P000013+P000014",
@@ -3298,7 +3262,7 @@
       "titles": 0,
       "combinedMove": -1,
       "source": "ranking",
-      "pairRank": 20
+      "pairRank": 19
     },
     {
       "id": "P100055+P201600",
@@ -3333,7 +3297,7 @@
       "titles": 1,
       "combinedMove": 4,
       "source": "circuit",
-      "pairRank": 21
+      "pairRank": 20
     },
     {
       "id": "P000061+P000149",
@@ -3368,7 +3332,7 @@
       "titles": 2,
       "combinedMove": 5,
       "source": "circuit",
-      "pairRank": 22
+      "pairRank": 21
     },
     {
       "id": "P101056+P204774",
@@ -3403,7 +3367,7 @@
       "titles": 1,
       "combinedMove": 2,
       "source": "circuit",
-      "pairRank": 23
+      "pairRank": 22
     },
     {
       "id": "P100910+P204727",
@@ -3437,7 +3401,7 @@
       "titles": 0,
       "combinedMove": -2,
       "source": "circuit",
-      "pairRank": 24
+      "pairRank": 23
     },
     {
       "id": "P101167+P208761",
@@ -3471,7 +3435,7 @@
       "titles": 2,
       "combinedMove": 13,
       "source": "circuit",
-      "pairRank": 25
+      "pairRank": 24
     },
     {
       "id": "P000679+P201642",
@@ -3505,7 +3469,7 @@
       "titles": 0,
       "combinedMove": 8,
       "source": "ranking",
-      "pairRank": 26
+      "pairRank": 25
     },
     {
       "id": "P101140+P101142",
@@ -3539,7 +3503,7 @@
       "titles": 1,
       "combinedMove": -3,
       "source": "circuit",
-      "pairRank": 27
+      "pairRank": 26
     },
     {
       "id": "P201346+P202493",
@@ -3574,7 +3538,7 @@
       "titles": 1,
       "combinedMove": 3,
       "source": "circuit",
-      "pairRank": 28
+      "pairRank": 27
     },
     {
       "id": "P000042+P000091",
@@ -3609,7 +3573,7 @@
       "titles": 0,
       "combinedMove": -14,
       "source": "circuit",
-      "pairRank": 29
+      "pairRank": 28
     },
     {
       "id": "P100578+P101697",
@@ -3643,7 +3607,7 @@
       "titles": 2,
       "combinedMove": 2,
       "source": "circuit",
-      "pairRank": 30
+      "pairRank": 29
     },
     {
       "id": "P201587+P201589",
@@ -3677,7 +3641,7 @@
       "titles": 0,
       "combinedMove": -6,
       "source": "ranking",
-      "pairRank": 31
+      "pairRank": 30
     },
     {
       "id": "P000126+P205766",
@@ -3712,7 +3676,7 @@
       "titles": 2,
       "combinedMove": 8,
       "source": "circuit",
-      "pairRank": 32
+      "pairRank": 31
     },
     {
       "id": "P100682+P101539",
@@ -3746,7 +3710,7 @@
       "titles": 0,
       "combinedMove": 7,
       "source": "circuit",
-      "pairRank": 33
+      "pairRank": 32
     },
     {
       "id": "P001131+P100532",
@@ -3780,7 +3744,7 @@
       "titles": 1,
       "combinedMove": 2,
       "source": "circuit",
-      "pairRank": 34
+      "pairRank": 33
     },
     {
       "id": "P000171+P100050",
@@ -3815,7 +3779,7 @@
       "titles": 0,
       "combinedMove": 3,
       "source": "ranking",
-      "pairRank": 35
+      "pairRank": 34
     },
     {
       "id": "P100954+P201343",
@@ -3850,7 +3814,7 @@
       "titles": 0,
       "combinedMove": -5,
       "source": "circuit",
-      "pairRank": 36
+      "pairRank": 35
     },
     {
       "id": "P000761+P001709",
@@ -3884,7 +3848,7 @@
       "titles": 0,
       "combinedMove": -2,
       "source": "circuit",
-      "pairRank": 37
+      "pairRank": 36
     },
     {
       "id": "P000137+P203842",
@@ -3918,7 +3882,7 @@
       "titles": 0,
       "combinedMove": 2,
       "source": "circuit",
-      "pairRank": 38
+      "pairRank": 37
     },
     {
       "id": "P100040+P101643",
@@ -3952,7 +3916,7 @@
       "titles": 1,
       "combinedMove": 14,
       "source": "circuit",
-      "pairRank": 39
+      "pairRank": 38
     },
     {
       "id": "P000027+P101633",
@@ -3987,7 +3951,7 @@
       "titles": 0,
       "combinedMove": 3,
       "source": "ranking",
-      "pairRank": 40
+      "pairRank": 39
     },
     {
       "id": "P000142+P202504",
@@ -4022,7 +3986,7 @@
       "titles": 0,
       "combinedMove": -6,
       "source": "ranking",
-      "pairRank": 41
+      "pairRank": 40
     },
     {
       "id": "P000071+P100053",
@@ -4057,7 +4021,7 @@
       "titles": 0,
       "combinedMove": 4,
       "source": "ranking",
-      "pairRank": 42
+      "pairRank": 41
     },
     {
       "id": "P201657+P203900",
@@ -4091,7 +4055,7 @@
       "titles": 0,
       "combinedMove": 3,
       "source": "ranking",
-      "pairRank": 43
+      "pairRank": 42
     },
     {
       "id": "P100343+P203375",
@@ -4126,7 +4090,7 @@
       "titles": 0,
       "combinedMove": -2,
       "source": "ranking",
-      "pairRank": 44
+      "pairRank": 43
     }
   ],
   "countries": [
@@ -6747,7 +6711,7 @@
   "summary": {
     "players": 200,
     "countries": 15,
-    "pairs": 44,
+    "pairs": 43,
     "totalPoints": 296838,
     "avgPoints": 1484,
     "leaderName": "Arturo Coello",
@@ -6809,8 +6773,8 @@
       "source": "official"
     },
     "P000004": {
-      "playerId": "P000003",
-      "name": "Francisco Navarro",
+      "playerId": "P000008",
+      "name": "Juan Tello",
       "source": "official"
     },
     "P000038": {
@@ -6843,9 +6807,9 @@
       "name": "Aimar Goñi Lacabe",
       "source": "official"
     },
-    "P000016": {
-      "playerId": "P000036",
-      "name": "Lucas Bergamini",
+    "P000008": {
+      "playerId": "P000004",
+      "name": "Martin Di Nenno",
       "source": "official"
     },
     "P000015": {

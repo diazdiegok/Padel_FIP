@@ -2,7 +2,7 @@
   "gender": "female",
   "year": 2026,
   "week": 39,
-  "generatedAt": "2026-09-25T10:47:46.038Z",
+  "generatedAt": "2026-09-26T10:29:35.894Z",
   "players": [
     {
       "playerId": "P200002",
@@ -6917,6 +6917,11 @@
     "P200014": {
       "playerId": "P000526",
       "name": "Sofia Araujo",
+      "source": "official"
+    },
+    "P200124": {
+      "playerId": "P202302",
+      "name": "Giulia Dal Pozzo",
       "source": "official"
     },
     "P200012": {
