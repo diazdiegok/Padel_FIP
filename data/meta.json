@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-27T11:00:45.198Z",
+  "generatedAt": "2026-09-28T12:19:52.182Z",
   "year": 2026,
-  "week": 39,
+  "week": 40,
   "source": "https://www.padelfip.com/fip-rankings/",
   "genders": {
     "male": {
       "players": 200,
-      "pairs": 43,
+      "pairs": 49,
       "countries": 15,
-      "weeks": 34,
+      "weeks": 35,
       "leader": "Arturo Coello",
-      "leaderPoints": 20454
+      "leaderPoints": 20383
     },
     "female": {
       "players": 200,
-      "pairs": 47,
+      "pairs": 49,
       "countries": 21,
-      "weeks": 33,
+      "weeks": 34,
       "leader": "Gemma Triay Pons",
-      "leaderPoints": 16974
+      "leaderPoints": 16663
     }
   },
-  "tournaments": 81
+  "tournaments": 101
 }
