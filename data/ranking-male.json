@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 40,
-  "generatedAt": "2026-10-01T12:02:20.105Z",
+  "generatedAt": "2026-10-02T11:33:44.812Z",
   "players": [
     {
       "playerId": "P000010",
@@ -2747,6 +2747,41 @@
       "pairRank": 4
     },
     {
+      "id": "P000003+P000004",
+      "rank": 7,
+      "avgPoints": 5654,
+      "combinedPoints": 11307,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P000003",
+          "name": "Francisco Navarro",
+          "shortName": "Navarro",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/PAQUITO-NAVARRO-1-150x150.png",
+          "rank": 7,
+          "points": 6301
+        },
+        {
+          "playerId": "P000004",
+          "name": "Martin Di Nenno",
+          "shortName": "Di Nenno",
+          "country": "ARG",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Di-Nenno-1-150x150.png",
+          "rank": 12,
+          "points": 5006
+        }
+      ],
+      "countries": [
+        "ESP",
+        "ARG"
+      ],
+      "titles": 0,
+      "combinedMove": -1,
+      "source": "official",
+      "pairRank": 5
+    },
+    {
       "id": "P000017+P000018",
       "rank": 9,
       "avgPoints": 5279,
@@ -2778,7 +2813,7 @@
       "titles": 0,
       "combinedMove": -1,
       "source": "official",
-      "pairRank": 5
+      "pairRank": 6
     },
     {
       "id": "P000019+P000138",
@@ -2811,40 +2846,6 @@
       ],
       "titles": 1,
       "combinedMove": 3,
-      "source": "official",
-      "pairRank": 6
-    },
-    {
-      "id": "P000004+P000008",
-      "rank": 12,
-      "avgPoints": 4048,
-      "combinedPoints": 8096,
-      "sharedPoints": null,
-      "players": [
-        {
-          "playerId": "P000004",
-          "name": "Martin Di Nenno",
-          "shortName": "Di Nenno",
-          "country": "ARG",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Di-Nenno-1-150x150.png",
-          "rank": 12,
-          "points": 5006
-        },
-        {
-          "playerId": "P000008",
-          "name": "Juan Tello",
-          "shortName": "Tello",
-          "country": "ARG",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Tello-1-150x150.png",
-          "rank": 18,
-          "points": 3090
-        }
-      ],
-      "countries": [
-        "ARG"
-      ],
-      "titles": 0,
-      "combinedMove": -1,
       "source": "official",
       "pairRank": 7
     },
@@ -6967,8 +6968,8 @@
       "source": "official"
     },
     "P000004": {
-      "playerId": "P000008",
-      "name": "Juan Tello",
+      "playerId": "P000003",
+      "name": "Francisco Navarro",
       "source": "official"
     },
     "P000038": {
@@ -6999,11 +7000,6 @@
     "P000043": {
       "playerId": "P101591",
       "name": "Aimar Goñi Lacabe",
-      "source": "official"
-    },
-    "P000008": {
-      "playerId": "P000004",
-      "name": "Martin Di Nenno",
       "source": "official"
     },
     "P000015": {
