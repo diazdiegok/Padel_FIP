@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 41,
-  "generatedAt": "2026-10-07T12:17:01.814Z",
+  "generatedAt": "2026-10-08T12:27:01.135Z",
   "players": [
     {
       "playerId": "P000010",
@@ -6901,8 +6901,8 @@
       "source": "official"
     },
     "P000036": {
-      "playerId": "P000016",
-      "name": "Javier Garrido",
+      "playerId": "P000086",
+      "name": "Jairo Bautista",
       "source": "official"
     },
     "P000043": {

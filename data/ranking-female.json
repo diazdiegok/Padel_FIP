@@ -2,7 +2,7 @@
   "gender": "female",
   "year": 2026,
   "week": 41,
-  "generatedAt": "2026-10-07T12:17:01.814Z",
+  "generatedAt": "2026-10-08T12:27:01.135Z",
   "players": [
     {
       "playerId": "P200002",
@@ -664,7 +664,7 @@
       "move": 0,
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
-      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MARINA-LOBO-150x150.png",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Marina-Lobo-c-150x150.png",
       "url": "https://www.padelfip.com/player/marina-lobo/"
     },
     {
@@ -3133,7 +3133,7 @@
           "name": "Marina Lobo",
           "shortName": "Lobo",
           "country": "ESP",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/MARINA-LOBO-150x150.png",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Marina-Lobo-c-150x150.png",
           "rank": 51,
           "points": 1241
         },
