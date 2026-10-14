@@ -2,7 +2,7 @@
   "gender": "female",
   "year": 2026,
   "week": 42,
-  "generatedAt": "2026-10-13T13:09:16.347Z",
+  "generatedAt": "2026-10-14T10:50:05.526Z",
   "players": [
     {
       "playerId": "P200002",
@@ -2588,7 +2588,7 @@
       "move": -10,
       "country": "VEN",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Venezuela_Fip.jpg",
-      "photo": null,
+      "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Jessica-Palma-c-150x150.png",
       "url": "https://www.padelfip.com/player/jessica-palma/"
     },
     {
@@ -4417,7 +4417,7 @@
           "name": "Jessica Palma",
           "shortName": "Palma",
           "country": "VEN",
-          "photo": null,
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Jessica-Palma-c-150x150.png",
           "rank": 199,
           "points": 143
         },
