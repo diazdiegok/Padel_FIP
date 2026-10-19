@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:05:06.878Z",
+  "generatedAt": "2026-10-19T11:31:57.304Z",
   "players": {
     "P000010": {
       "career": {
@@ -826,6 +826,16 @@
       },
       "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/VICTORIA-IGLESIAS.png",
       "fetchedAt": "2026-10-15T10:32:54.415Z"
+    },
+    "P200247": {
+      "career": null,
+      "season": null,
+      "partner": {
+        "name": "Jimena Velasco Postiguillo",
+        "url": "https://www.padelfip.com/player/jimena-velasco-postiguillo/"
+      },
+      "portrait": "https://www.padelfip.com/wp-content/uploads/2023/03/Raquel-Eugenio-2.png",
+      "fetchedAt": "2026-10-19T11:32:06.697Z"
     }
   }
 }
