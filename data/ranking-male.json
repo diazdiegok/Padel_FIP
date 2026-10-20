@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 43,
-  "generatedAt": "2026-10-19T11:31:57.304Z",
+  "generatedAt": "2026-10-20T10:37:31.099Z",
   "players": [
     {
       "playerId": "P000010",
@@ -838,9 +838,9 @@
     },
     {
       "playerId": "P101167",
-      "firstName": "Facundo Rodrigo",
-      "lastName": "Luis Lopez",
-      "name": "Facundo Rodrigo Luis Lopez",
+      "firstName": "Facundo",
+      "lastName": "Lopez",
+      "name": "Facundo Lopez",
       "rank": 65,
       "points": 972,
       "move": 8,
@@ -3448,8 +3448,8 @@
       "players": [
         {
           "playerId": "P101167",
-          "name": "Facundo Rodrigo Luis Lopez",
-          "shortName": "Luis Lopez",
+          "name": "Facundo Lopez",
+          "shortName": "Lopez",
           "country": "ARG",
           "photo": null,
           "rank": 65,
@@ -7079,7 +7079,7 @@
     {
       "icon": "📈",
       "title": "Progresión trimestral",
-      "value": "Facundo Rodrigo Luis Lopez",
+      "value": "Facundo Lopez",
       "detail": "Gana 32 posiciones en 12 semanas, hasta el #65.",
       "tag": "Tendencia"
     },
