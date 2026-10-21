@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 43,
-  "generatedAt": "2026-10-20T10:37:31.099Z",
+  "generatedAt": "2026-10-21T10:48:48.534Z",
   "players": [
     {
       "playerId": "P000010",
@@ -209,7 +209,7 @@
       "move": 0,
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
-      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JAVI-LEAL-150x150.png",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JAVI-LEAL-c-150x150.png",
       "url": "https://www.padelfip.com/player/javier-leal/"
     },
     {
@@ -2836,7 +2836,7 @@
           "name": "Javier Leal",
           "shortName": "Leal",
           "country": "ESP",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JAVI-LEAL-150x150.png",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JAVI-LEAL-c-150x150.png",
           "rank": 16,
           "points": 3599
         }

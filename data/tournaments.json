@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:37:31.099Z",
+  "generatedAt": "2026-10-21T10:48:48.534Z",
   "events": [
     {
       "id": 41541,
@@ -105,7 +105,7 @@
         {
           "name": "Facundo Rodrigo Luis Lopez",
           "playerId": "P101167",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ARG"
         }
       ],
@@ -181,13 +181,13 @@
         {
           "name": "Antonio Varo Ramos",
           "playerId": "P000895",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         },
         {
           "name": "Pablo Pastor Landaburu",
           "playerId": "P100682",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         }
       ],
@@ -201,7 +201,7 @@
         {
           "name": "Jordi Casanova Bataller",
           "playerId": "P100053",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         }
       ]
@@ -222,13 +222,13 @@
         {
           "name": "Cristina Carrascosa Cazorla",
           "playerId": "P000487",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         },
         {
           "name": "Marisol Fernandez Garcia",
           "playerId": "P203867",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         }
       ],
@@ -242,7 +242,7 @@
         {
           "name": "Andrea Batlle Achando",
           "playerId": "P207862",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ]
@@ -277,13 +277,13 @@
         {
           "name": "Kotomi Ozawa",
           "playerId": "P202126",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "JPN"
         },
         {
           "name": "Anastasiia Ryzhova",
           "playerId": "P204388",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "RUS"
         }
       ]
@@ -296,7 +296,7 @@
       "gender": "male",
       "tournament": "FIP BRONZE COTONOU",
       "city": "COTONÚ",
-      "countryFlag": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/noflag.png",
+      "countryFlag": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/noflag.png",
       "date": "18/10/2026",
       "sortDate": "2026-10-18",
       "score": "7-6/6-4",
@@ -318,13 +318,13 @@
         {
           "name": "Georges Wakim",
           "playerId": "P000215",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "EGY"
         },
         {
           "name": "Mohamed Alami",
           "playerId": "P204704",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "MAR"
         }
       ]
@@ -337,7 +337,7 @@
       "gender": "female",
       "tournament": "FIP BRONZE COTONOU",
       "city": "COTONÚ",
-      "countryFlag": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/noflag.png",
+      "countryFlag": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/noflag.png",
       "date": "18/10/2026",
       "sortDate": "2026-10-18",
       "score": "6-4/6-4",
@@ -351,7 +351,7 @@
         {
           "name": "Mafalda Marques Fernandes",
           "playerId": "P200157",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ],
@@ -359,7 +359,7 @@
         {
           "name": "Nelida Brito",
           "playerId": "P000530",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ARG"
         },
         {
@@ -392,7 +392,7 @@
         {
           "name": "Daniel Luna Peinado",
           "playerId": "P100049",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         }
       ],
@@ -400,13 +400,13 @@
         {
           "name": "Matteo Sargolini",
           "playerId": "P201582",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ITA"
         },
         {
           "name": "Matteo Rosingana",
           "playerId": "P201702",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ITA"
         }
       ]
@@ -427,13 +427,13 @@
         {
           "name": "Justine Pysson",
           "playerId": "P200691",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "BEL"
         },
         {
           "name": "Elyne Boeykens",
           "playerId": "P200706",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "BEL"
         }
       ],
@@ -441,13 +441,13 @@
         {
           "name": "Elsa Terranova",
           "playerId": "P000480",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ITA"
         },
         {
           "name": "Angelina Neizvestnaya",
           "playerId": "P200492",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "RUS"
         }
       ]
@@ -468,13 +468,13 @@
         {
           "name": "Felipe Calleja",
           "playerId": "P101164",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ARG"
         },
         {
           "name": "Santino Contreras",
           "playerId": "P208761",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ARG"
         }
       ],
@@ -482,13 +482,13 @@
         {
           "name": "Thijs Roper",
           "playerId": "P100954",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "NED"
         },
         {
           "name": "Willy Släryd",
           "playerId": "P201256",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "SWE"
         }
       ]
@@ -515,7 +515,7 @@
         {
           "name": "Clarinha Santos",
           "playerId": "P200921",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ],
@@ -556,7 +556,7 @@
         {
           "name": "Pedro Graca",
           "playerId": "P101697",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ],
@@ -564,13 +564,13 @@
         {
           "name": "Pau Miñano Ortinez",
           "playerId": "P101886",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         },
         {
           "name": "Pedro Perry",
           "playerId": "P201211",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ]
@@ -591,13 +591,13 @@
         {
           "name": "Martin Duque Ortiz",
           "playerId": "P208540",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         },
         {
           "name": "Luis Silva Bellorin",
           "playerId": "P212904",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         }
       ],
@@ -605,13 +605,13 @@
         {
           "name": "Salvador Sousa",
           "playerId": "P215409",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         },
         {
           "name": "Bernardo Sousa",
           "playerId": "P215410",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ]
@@ -632,13 +632,13 @@
         {
           "name": "Elias Lejmi",
           "playerId": "P212091",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "CAN"
         },
         {
           "name": "Constantino Leiva",
           "playerId": "P222563",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ARG"
         }
       ],
@@ -646,13 +646,13 @@
         {
           "name": "Abdulrahman Bineedan",
           "playerId": "P211458",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "KUW"
         },
         {
           "name": "Yaqoub Zainal",
           "playerId": "P213868",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "KUW"
         }
       ]
@@ -673,13 +673,13 @@
         {
           "name": "Enrique Silva Bellorin",
           "playerId": "P208157",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         },
         {
           "name": "Tiago Valente",
           "playerId": "P213738",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ],
@@ -687,13 +687,13 @@
         {
           "name": "Vasco Marques",
           "playerId": "P208859",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         },
         {
           "name": "Xavier Re",
           "playerId": "P214056",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ]
@@ -714,13 +714,13 @@
         {
           "name": "Sayed Hashem Almazeedi",
           "playerId": "P213631",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "KUW"
         },
         {
           "name": "Ali Abdulrhman Almalik",
           "playerId": "P215336",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "QAT"
         }
       ],
@@ -728,13 +728,13 @@
         {
           "name": "Ahmed Hassan Abdulla",
           "playerId": "P211531",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "QAT"
         },
         {
           "name": "Ali Almalik",
           "playerId": "P216020",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "QAT"
         }
       ]
@@ -755,13 +755,13 @@
         {
           "name": "Víctor Berrocal Sandoval",
           "playerId": "P208863",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         },
         {
           "name": "Mario Iniesta garcia-Navas",
           "playerId": "P213000",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         }
       ],
@@ -769,13 +769,13 @@
         {
           "name": "Miguel Gaspar",
           "playerId": "P208614",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         },
         {
           "name": "Martinho Marinho",
           "playerId": "P213040",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ]
@@ -796,13 +796,13 @@
         {
           "name": "Tiago Da Costa Pereira",
           "playerId": "P204920",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         },
         {
           "name": "Martim Dias",
           "playerId": "P208535",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "POR"
         }
       ],
@@ -810,13 +810,13 @@
         {
           "name": "Francisco Jose Pliego Moriconi",
           "playerId": "P203861",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         },
         {
           "name": "Juan Jose Valls Fuster",
           "playerId": "P212705",
-          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-11/assets/img/placeholder-table.png",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-12/assets/img/placeholder-table.png",
           "country": "ESP"
         }
       ]
