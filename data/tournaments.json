@@ -1,6 +1,170 @@
 {
-  "generatedAt": "2026-10-31T11:24:31.423Z",
+  "generatedAt": "2026-11-01T12:17:26.824Z",
   "events": [
+    {
+      "id": 82056,
+      "year": 2026,
+      "category": "Silver",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP SILVER DAMAC DUBAI II",
+      "city": "DUBAI",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/UAE_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-4/6-4",
+      "winners": [
+        {
+          "name": "Francisco Manuel Gil",
+          "playerId": "P000023",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/GIL-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Ramiro Jesus Valenzuela",
+          "playerId": "P202744",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/RAMIRO-VALENZUELA-150x150.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Arnau Ayats",
+          "playerId": "P000061",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ayats-150x150.png",
+          "country": "UAE"
+        },
+        {
+          "name": "Emilio Sánchez Chamero",
+          "playerId": "P000149",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/EMILIO-SANCHEZ-CHAMERO-150x150.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 82107,
+      "year": 2026,
+      "category": "Silver",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP SILVER DAMAC DUBAI II",
+      "city": "DUBAI",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/UAE_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-2/6-1",
+      "winners": [
+        {
+          "name": "Anna Ortiz Gasco",
+          "playerId": "P200925",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/ANNA-ORTIZ-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Maria Laura Ferreyra",
+          "playerId": "P201863",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/Maria-Lura-Ferreyra-c-150x150.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Blanca Arriola Cerrejon",
+          "playerId": "P202472",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Anastasiia Ryzhova",
+          "playerId": "P204388",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "RUS"
+        }
+      ]
+    },
+    {
+      "id": 81810,
+      "year": 2026,
+      "category": "Major",
+      "circuit": "PREMIER PADEL",
+      "gender": "male",
+      "tournament": "KUWAIT MAJOR",
+      "city": "KUWAIT",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Kuwait_Fip.jpg",
+      "date": "31/10/2026",
+      "sortDate": "2026-10-31",
+      "score": "6-1/6-1",
+      "winners": [
+        {
+          "name": "Arturo Coello",
+          "playerId": "P000010",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Coello-c-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Agustin Tapia",
+          "playerId": "P000285",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/TAPIA-150x150.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Juan Tello",
+          "playerId": "P000008",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Tello-1-150x150.png",
+          "country": "ARG"
+        },
+        {
+          "name": "Maximiliano Arce Simo",
+          "playerId": "P203884",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ARCE-150x150.png",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "id": 81841,
+      "year": 2026,
+      "category": "Major",
+      "circuit": "PREMIER PADEL",
+      "gender": "female",
+      "tournament": "KUWAIT MAJOR",
+      "city": "KUWAIT",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Kuwait_Fip.jpg",
+      "date": "31/10/2026",
+      "sortDate": "2026-10-31",
+      "score": "3-6/6-1/6-1",
+      "winners": [
+        {
+          "name": "Gemma Triay Pons",
+          "playerId": "P200002",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/TRIAY-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Delfina Brea Senesi",
+          "playerId": "P200005",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Delfi-c-150x150.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Ariana Sanchez Fallada",
+          "playerId": "P200003",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ARIANA-SANCHEZ-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Andrea Ustero Prieto",
+          "playerId": "P200224",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/ANDREA-USTERO-150x150.png",
+          "country": "ESP"
+        }
+      ]
+    },
     {
       "id": 73758,
       "year": 2026,
