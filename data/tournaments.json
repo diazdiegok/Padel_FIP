@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:17:26.824Z",
+  "generatedAt": "2026-11-02T14:09:52.662Z",
   "events": [
     {
       "id": 82056,
@@ -80,6 +80,744 @@
           "playerId": "P204388",
           "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
           "country": "RUS"
+        }
+      ]
+    },
+    {
+      "id": 120236,
+      "year": 2026,
+      "category": "Gold",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP GOLD MEDIOLANUM PADEL CUP TORINO",
+      "city": "TORINO",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-3/6-3",
+      "winners": [
+        {
+          "name": "Javier Barahona",
+          "playerId": "P000051",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/BARAHONA-3-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Ignacio Piotto Albornoz",
+          "playerId": "P000107",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/ignacio-piotto-150x150.png",
+          "country": "ARG"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Santiago Jose Pineda Cabello",
+          "playerId": "P100958",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Santino Contreras",
+          "playerId": "P208761",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "id": 120239,
+      "year": 2026,
+      "category": "Gold",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP GOLD MEDIOLANUM PADEL CUP TORINO",
+      "city": "TORINO",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Italy_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-4/7-6",
+      "winners": [
+        {
+          "name": "Amanda Lopez Moral",
+          "playerId": "P200185",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/AMANDA-LOPEZ-MORAL-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Camila Fassio Goyeneche",
+          "playerId": "P201785",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Julia Polo Bautista",
+          "playerId": "P000488",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JULIA-POLO-2-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Ana Dominguez Gracia",
+          "playerId": "P200176",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/03/ANA-DOMINGUEZ-C-150x150.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 120224,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP BRONZE JC FERRERO ACADEMY",
+      "city": "VILLENA",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-2/6-3",
+      "winners": [
+        {
+          "name": "Agustin Gutierrez",
+          "playerId": "P000028",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/AGUSTIN-GUTIERREZ-150x150.png",
+          "country": "ARG"
+        },
+        {
+          "name": "Salvador Oria",
+          "playerId": "P000049",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/SALVA-ORIA-150x150.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Miguel Morales Domenech",
+          "playerId": "P000761",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Pablo Reina Ambel",
+          "playerId": "P101100",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 120227,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP BRONZE JC FERRERO ACADEMY",
+      "city": "VILLENA",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-4/4-6/6-4",
+      "winners": [
+        {
+          "name": "Maria Delgado Medina",
+          "playerId": "P205711",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Mar Munera Vila",
+          "playerId": "P206185",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Susana Martin Marin",
+          "playerId": "P203078",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Paula Ferrán",
+          "playerId": "P205265",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 120230,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP BRONZE CYPRUS III",
+      "city": "AYIA NAPA",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2025/01/download-1-1.png",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "7-5/6-4",
+      "winners": [
+        {
+          "name": "Alejandro Garcia Calahorro",
+          "playerId": "P203103",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Iago Fuertes Leonardo",
+          "playerId": "P205461",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Alvaro Lopez Luque",
+          "playerId": "P100040",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Hector Vazquez Lopez",
+          "playerId": "P101643",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 120233,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP BRONZE CYPRUS III",
+      "city": "AYIA NAPA",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2025/01/download-1-1.png",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "7-5/6-4",
+      "winners": [
+        {
+          "name": "Constança Gorito",
+          "playerId": "P200920",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "POR"
+        },
+        {
+          "name": "Maria Garin",
+          "playerId": "P200937",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "POR"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Camille Sireix",
+          "playerId": "P201986",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "FRA"
+        },
+        {
+          "name": "Julie Razafindranaly",
+          "playerId": "P209763",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "id": 120242,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP BRONZE HIGH VELOCITY PHANGAN",
+      "city": "KO PANGHAN",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Thailand_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "7-6/6-4",
+      "winners": [
+        {
+          "name": "Pablo Pastor Landaburu",
+          "playerId": "P100682",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Marc Bernils Garcia",
+          "playerId": "P204708",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Antonio Varo Ramos",
+          "playerId": "P000895",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Jordi Casanova Bataller",
+          "playerId": "P100053",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 120245,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP BRONZE HIGH VELOCITY PHANGAN",
+      "city": "KO PANGHAN",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Thailand_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-1/6-1",
+      "winners": [
+        {
+          "name": "Sandra Bellver Fructuoso",
+          "playerId": "P000471",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/SANDRA-BELLVER-2-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Alba Gallardo Salvado",
+          "playerId": "P200235",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/09/Alba-Gallardo-Salvado.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Elsa Terranova",
+          "playerId": "P000480",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ITA"
+        },
+        {
+          "name": "Angelina Neizvestnaya",
+          "playerId": "P200492",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "RUS"
+        }
+      ]
+    },
+    {
+      "id": 120248,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP BRONZE TASHKENT",
+      "city": "TASHKENT",
+      "countryFlag": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/noflag.png",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-3/6-1",
+      "winners": [
+        {
+          "name": "Christian Medina Murphy",
+          "playerId": "P000171",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Christian-Medina-Murphy-.png",
+          "country": "GBR"
+        },
+        {
+          "name": "Alberto Garcia Jimenez",
+          "playerId": "P100056",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/Alberto-Garcia-Jimenez.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Gustavo Nunes",
+          "playerId": "P101584",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/03/Gustavo-Nunes-2.png",
+          "country": "POR"
+        },
+        {
+          "name": "Renzo Gabriel Nuñez",
+          "playerId": "P201323",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "id": 120724,
+      "year": 2026,
+      "category": "Bronze",
+      "circuit": "CUPRA FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP BRONZE TASHKENT",
+      "city": "TASHKENT",
+      "countryFlag": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/noflag.png",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-3/6-4",
+      "winners": [
+        {
+          "name": "Vlada Kutuzova",
+          "playerId": "P206128",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "RUS"
+        },
+        {
+          "name": "Vilena Petrova",
+          "playerId": "P206161",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "RUS"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Ana Varo Ramos",
+          "playerId": "P200102",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2026/03/ANA-VARO-150x150.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Ainize Santamaria Landa",
+          "playerId": "P200261",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "id": 120727,
+      "year": 2026,
+      "category": "Promises",
+      "circuit": "PROMISES FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP PROMISES THE GATE",
+      "city": "BEIRUT",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Lebanon_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "7-5/6-3",
+      "winners": [
+        {
+          "name": "Karim Adra",
+          "playerId": "P221358",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Ghassan Zakhem",
+          "playerId": "P221361",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Makram Daniel",
+          "playerId": "P222172",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Lucas Nader",
+          "playerId": "P222176",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        }
+      ]
+    },
+    {
+      "id": 120730,
+      "year": 2026,
+      "category": "Promises",
+      "circuit": "PROMISES FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP PROMISES THE GATE",
+      "city": "BEIRUT",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Lebanon_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "5-7/6-4/[10-2]",
+      "winners": [
+        {
+          "name": "George Abou Jaoude",
+          "playerId": "P209371",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Daniel Sherif",
+          "playerId": "P221904",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Karim Wazni",
+          "playerId": "P221937",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Sari Ezzedine",
+          "playerId": "P222142",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        }
+      ]
+    },
+    {
+      "id": 120733,
+      "year": 2026,
+      "category": "Promises",
+      "circuit": "PROMISES FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP PROMISES THE GATE",
+      "city": "BEIRUT",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Lebanon_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-3/6-1",
+      "winners": [
+        {
+          "name": "Jad Kteish",
+          "playerId": "P221920",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Ali Zamat",
+          "playerId": "P222825",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "George Abou Jaoude",
+          "playerId": "P209371",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Yann Takla",
+          "playerId": "P221917",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        }
+      ]
+    },
+    {
+      "id": 120736,
+      "year": 2026,
+      "category": "Promises",
+      "circuit": "PROMISES FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP PROMISES THE GATE",
+      "city": "BEIRUT",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Lebanon_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-4/6-1",
+      "winners": [
+        {
+          "name": "Ahmad Kamareddine",
+          "playerId": "P205171",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Jabado Ghazi",
+          "playerId": "P205190",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Mahdi Sabbah",
+          "playerId": "P209372",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Mohamad Badih Badih",
+          "playerId": "P221907",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        }
+      ]
+    },
+    {
+      "id": 120739,
+      "year": 2026,
+      "category": "Promises",
+      "circuit": "PROMISES FIP TOUR",
+      "gender": "female",
+      "tournament": "FIP PROMISES THE GATE",
+      "city": "BEIRUT",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Lebanon_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-3/6-3",
+      "winners": [
+        {
+          "name": "Julia Obeid",
+          "playerId": "P222190",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Scarlett Nassif",
+          "playerId": "P222200",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "AUS"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Andrea Al Kattah",
+          "playerId": "P222196",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        },
+        {
+          "name": "Sasha Hindy",
+          "playerId": "P222197",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "LBN"
+        }
+      ]
+    },
+    {
+      "id": 120742,
+      "year": 2026,
+      "category": "Promises",
+      "circuit": "PROMISES FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP PROMISES SKY PADEL JUNIOR CUP",
+      "city": "TUNIS",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Tunisia_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-3/7-5",
+      "winners": [
+        {
+          "name": "Yahya Marrakchi",
+          "playerId": "P219361",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "TUN"
+        },
+        {
+          "name": "Hedi Hadj Hassine",
+          "playerId": "P221934",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "TUN"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Sbaouelji Cherif",
+          "playerId": "P222672",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "TUN"
+        },
+        {
+          "name": "Krichen Mohamef",
+          "playerId": "P222867",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "TUN"
+        }
+      ]
+    },
+    {
+      "id": 120743,
+      "year": 2026,
+      "category": "Promises",
+      "circuit": "PROMISES FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP PROMISES SKY PADEL JUNIOR CUP",
+      "city": "TUNIS",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Tunisia_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-1/6-1",
+      "winners": [
+        {
+          "name": "Yassin Omar Youssef",
+          "playerId": "P215966",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "EGY"
+        },
+        {
+          "name": "Malek Ben Othman",
+          "playerId": "P219362",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "TUN"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Marrakchi Ghaly",
+          "playerId": "P221054",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "TUN"
+        },
+        {
+          "name": "Louhichi Adam",
+          "playerId": "P222649",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "TUN"
+        }
+      ]
+    },
+    {
+      "id": 120746,
+      "year": 2026,
+      "category": "Promises",
+      "circuit": "PROMISES FIP TOUR",
+      "gender": "male",
+      "tournament": "FIP PROMISES SKY PADEL JUNIOR CUP",
+      "city": "TUNIS",
+      "countryFlag": "https://www.padelfip.com/wp-content/uploads/2023/02/Tunisia_Fip.jpg",
+      "date": "01/11/2026",
+      "sortDate": "2026-11-01",
+      "score": "6-2/6-0",
+      "winners": [
+        {
+          "name": "Javier Mora Cuart",
+          "playerId": "P203989",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        },
+        {
+          "name": "Iván Iturbe Garrido",
+          "playerId": "P210379",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "ESP"
+        }
+      ],
+      "finalists": [
+        {
+          "name": "Yamen Doura",
+          "playerId": "P221918",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "TUN"
+        },
+        {
+          "name": "Louhichi Adam",
+          "playerId": "P222649",
+          "photo": "https://www.padelfip.com/wp-content/themes/padelfiptheme-v2026-10-14/assets/img/placeholder-table.png",
+          "country": "TUN"
         }
       ]
     },
