@@ -2,7 +2,7 @@
   "gender": "male",
   "year": 2026,
   "week": 45,
-  "generatedAt": "2026-11-02T14:09:52.662Z",
+  "generatedAt": "2026-11-03T13:14:11.234Z",
   "players": [
     {
       "playerId": "P000010",
@@ -1154,7 +1154,7 @@
       "lastName": "Roglan Pons",
       "name": "Albert Roglan Pons",
       "rank": 89,
-      "points": 767,
+      "points": 756,
       "move": -5,
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
@@ -1232,7 +1232,7 @@
       "lastName": "Aragon Herrera",
       "name": "Manuel Aragon Herrera",
       "rank": 95,
-      "points": 712,
+      "points": 701,
       "move": 2,
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
@@ -1266,30 +1266,30 @@
       "url": "https://www.padelfip.com/player/felipe-calleja/"
     },
     {
-      "playerId": "P101649",
-      "firstName": "Jaume",
-      "lastName": "Romera Barcelo",
-      "name": "Jaume Romera Barcelo",
-      "rank": 98,
-      "points": 676,
-      "move": -4,
-      "country": "ESP",
-      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
-      "photo": null,
-      "url": "https://www.padelfip.com/player/jaume-romera-barcelo/"
-    },
-    {
       "playerId": "P000091",
       "firstName": "Thomas",
       "lastName": "Leygue",
       "name": "Thomas Leygue",
-      "rank": 99,
-      "points": 669,
-      "move": 2,
+      "rank": 98,
+      "points": 684,
+      "move": 3,
       "country": "FRA",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
       "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Thomas-Leygue-1.png",
       "url": "https://www.padelfip.com/player/thomas-leygue/"
+    },
+    {
+      "playerId": "P101649",
+      "firstName": "Jaume",
+      "lastName": "Romera Barcelo",
+      "name": "Jaume Romera Barcelo",
+      "rank": 99,
+      "points": 676,
+      "move": -5,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": null,
+      "url": "https://www.padelfip.com/player/jaume-romera-barcelo/"
     },
     {
       "playerId": "P201642",
@@ -1734,13 +1734,26 @@
       "url": "https://www.padelfip.com/player/miguel-lamperti/"
     },
     {
+      "playerId": "P000042",
+      "firstName": "Jesus",
+      "lastName": "Moya",
+      "name": "Jesus Moya",
+      "rank": 134,
+      "points": 447,
+      "move": 4,
+      "country": "ESP",
+      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
+      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JESUN-MOYA-150x150.png",
+      "url": "https://www.padelfip.com/player/jesus-moya/"
+    },
+    {
       "playerId": "P000137",
       "firstName": "Pepe",
       "lastName": "Aliaga",
       "name": "Pepe Aliaga",
-      "rank": 134,
+      "rank": 135,
       "points": 442,
-      "move": 0,
+      "move": -1,
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
       "photo": null,
@@ -1751,35 +1764,22 @@
       "firstName": "Miguel",
       "lastName": "Melero Bernal",
       "name": "Miguel Melero Bernal",
-      "rank": 135,
+      "rank": 136,
       "points": 437,
-      "move": 0,
+      "move": -1,
       "country": "ESP",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
       "photo": null,
       "url": "https://www.padelfip.com/player/miguel-melero-bernal/"
     },
     {
-      "playerId": "P000042",
-      "firstName": "Jesus",
-      "lastName": "Moya",
-      "name": "Jesus Moya",
-      "rank": 136,
-      "points": 432,
-      "move": 2,
-      "country": "ESP",
-      "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
-      "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JESUN-MOYA-150x150.png",
-      "url": "https://www.padelfip.com/player/jesus-moya/"
-    },
-    {
       "playerId": "P000171",
       "firstName": "Christian",
       "lastName": "Medina Murphy",
       "name": "Christian Medina Murphy",
-      "rank": 136,
+      "rank": 137,
       "points": 432,
-      "move": 5,
+      "move": 4,
       "country": "GBR",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/GreatBritain_Fip.jpg",
       "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Christian-Medina-Murphy-.png",
@@ -3439,40 +3439,6 @@
       "pairRank": 24
     },
     {
-      "id": "P100910+P204727",
-      "rank": 89,
-      "avgPoints": 740,
-      "combinedPoints": 1479,
-      "sharedPoints": null,
-      "players": [
-        {
-          "playerId": "P204727",
-          "name": "Albert Roglan Pons",
-          "shortName": "Roglan Pons",
-          "country": "ESP",
-          "photo": null,
-          "rank": 89,
-          "points": 767
-        },
-        {
-          "playerId": "P100910",
-          "name": "Manuel Aragon Herrera",
-          "shortName": "Aragon Herrera",
-          "country": "ESP",
-          "photo": null,
-          "rank": 95,
-          "points": 712
-        }
-      ],
-      "countries": [
-        "ESP"
-      ],
-      "titles": 0,
-      "combinedMove": -3,
-      "source": "circuit",
-      "pairRank": 25
-    },
-    {
       "id": "P201346+P204774",
       "rank": 91,
       "avgPoints": 737,
@@ -3505,11 +3471,45 @@
       "titles": 0,
       "combinedMove": 20,
       "source": "ranking",
+      "pairRank": 25
+    },
+    {
+      "id": "P100910+P204727",
+      "rank": 89,
+      "avgPoints": 729,
+      "combinedPoints": 1457,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P204727",
+          "name": "Albert Roglan Pons",
+          "shortName": "Roglan Pons",
+          "country": "ESP",
+          "photo": null,
+          "rank": 89,
+          "points": 756
+        },
+        {
+          "playerId": "P100910",
+          "name": "Manuel Aragon Herrera",
+          "shortName": "Aragon Herrera",
+          "country": "ESP",
+          "photo": null,
+          "rank": 95,
+          "points": 701
+        }
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "titles": 0,
+      "combinedMove": -3,
+      "source": "circuit",
       "pairRank": 26
     },
     {
       "id": "P101649+P201642",
-      "rank": 98,
+      "rank": 99,
       "avgPoints": 672,
       "combinedPoints": 1344,
       "sharedPoints": null,
@@ -3520,7 +3520,7 @@
           "shortName": "Romera Barcelo",
           "country": "ESP",
           "photo": null,
-          "rank": 98,
+          "rank": 99,
           "points": 676
         },
         {
@@ -3537,7 +3537,7 @@
         "ESP"
       ],
       "titles": 2,
-      "combinedMove": -6,
+      "combinedMove": -7,
       "source": "circuit",
       "pairRank": 27
     },
@@ -3611,6 +3611,41 @@
       "pairRank": 29
     },
     {
+      "id": "P000042+P000091",
+      "rank": 98,
+      "avgPoints": 566,
+      "combinedPoints": 1131,
+      "sharedPoints": null,
+      "players": [
+        {
+          "playerId": "P000091",
+          "name": "Thomas Leygue",
+          "shortName": "Leygue",
+          "country": "FRA",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Thomas-Leygue-1.png",
+          "rank": 98,
+          "points": 684
+        },
+        {
+          "playerId": "P000042",
+          "name": "Jesus Moya",
+          "shortName": "Moya",
+          "country": "ESP",
+          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JESUN-MOYA-150x150.png",
+          "rank": 134,
+          "points": 447
+        }
+      ],
+      "countries": [
+        "ESP",
+        "FRA"
+      ],
+      "titles": 0,
+      "combinedMove": 7,
+      "source": "circuit",
+      "pairRank": 30
+    },
+    {
       "id": "P100634+P201884",
       "rank": 105,
       "avgPoints": 550,
@@ -3643,7 +3678,7 @@
       "titles": 0,
       "combinedMove": 6,
       "source": "circuit",
-      "pairRank": 30
+      "pairRank": 31
     },
     {
       "id": "P100578+P101697",
@@ -3677,7 +3712,7 @@
       "titles": 2,
       "combinedMove": -5,
       "source": "circuit",
-      "pairRank": 31
+      "pairRank": 32
     },
     {
       "id": "P000126+P205766",
@@ -3712,7 +3747,7 @@
       "titles": 3,
       "combinedMove": -5,
       "source": "circuit",
-      "pairRank": 32
+      "pairRank": 33
     },
     {
       "id": "P101140+P101142",
@@ -3746,7 +3781,7 @@
       "titles": 1,
       "combinedMove": -2,
       "source": "ranking",
-      "pairRank": 33
+      "pairRank": 34
     },
     {
       "id": "P000112+P202538",
@@ -3781,7 +3816,7 @@
       "titles": 2,
       "combinedMove": 6,
       "source": "circuit",
-      "pairRank": 34
+      "pairRank": 35
     },
     {
       "id": "P000049+P000111",
@@ -3815,7 +3850,7 @@
       "titles": 0,
       "combinedMove": 17,
       "source": "ranking",
-      "pairRank": 35
+      "pairRank": 36
     },
     {
       "id": "P201587+P201589",
@@ -3849,7 +3884,7 @@
       "titles": 0,
       "combinedMove": -18,
       "source": "ranking",
-      "pairRank": 36
+      "pairRank": 37
     },
     {
       "id": "P000028+P000786",
@@ -3884,7 +3919,7 @@
       "titles": 0,
       "combinedMove": -9,
       "source": "ranking",
-      "pairRank": 37
+      "pairRank": 38
     },
     {
       "id": "P100682+P101539",
@@ -3918,7 +3953,7 @@
       "titles": 0,
       "combinedMove": 10,
       "source": "circuit",
-      "pairRank": 38
+      "pairRank": 39
     },
     {
       "id": "P100528+P101514",
@@ -3953,23 +3988,23 @@
       "titles": 1,
       "combinedMove": -8,
       "source": "circuit",
-      "pairRank": 39
+      "pairRank": 40
     },
     {
-      "id": "P000042+P000171",
-      "rank": 136,
-      "avgPoints": 432,
-      "combinedPoints": 864,
-      "sharedPoints": 432,
+      "id": "P000171+P100056",
+      "rank": 132,
+      "avgPoints": 445,
+      "combinedPoints": 889,
+      "sharedPoints": null,
       "players": [
         {
-          "playerId": "P000042",
-          "name": "Jesus Moya",
-          "shortName": "Moya",
+          "playerId": "P100056",
+          "name": "Alberto Garcia Jimenez",
+          "shortName": "Garcia Jimenez",
           "country": "ESP",
-          "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/JESUN-MOYA-150x150.png",
-          "rank": 136,
-          "points": 432
+          "photo": "https://www.padelfip.com/wp-content/uploads/2024/11/Alberto-Garcia-Jimenez.png",
+          "rank": 132,
+          "points": 457
         },
         {
           "playerId": "P000171",
@@ -3977,18 +4012,18 @@
           "shortName": "Medina Murphy",
           "country": "GBR",
           "photo": "https://www.padelfip.com/wp-content/uploads/2023/02/Christian-Medina-Murphy-.png",
-          "rank": 136,
+          "rank": 137,
           "points": 432
         }
       ],
       "countries": [
-        "ESP",
-        "GBR"
+        "GBR",
+        "ESP"
       ],
-      "titles": 0,
-      "combinedMove": 7,
-      "source": "ranking",
-      "pairRank": 40
+      "titles": 2,
+      "combinedMove": 9,
+      "source": "circuit",
+      "pairRank": 41
     },
     {
       "id": "P101100+P101584",
@@ -4023,7 +4058,7 @@
       "titles": 0,
       "combinedMove": -2,
       "source": "ranking",
-      "pairRank": 41
+      "pairRank": 42
     },
     {
       "id": "P001131+P100532",
@@ -4057,7 +4092,7 @@
       "titles": 1,
       "combinedMove": 0,
       "source": "circuit",
-      "pairRank": 42
+      "pairRank": 43
     },
     {
       "id": "P101643+P205461",
@@ -4091,7 +4126,7 @@
       "titles": 0,
       "combinedMove": 16,
       "source": "ranking",
-      "pairRank": 43
+      "pairRank": 44
     },
     {
       "id": "P000056+P203103",
@@ -4125,7 +4160,7 @@
       "titles": 0,
       "combinedMove": 23,
       "source": "ranking",
-      "pairRank": 44
+      "pairRank": 45
     },
     {
       "id": "P000071+P100053",
@@ -4160,7 +4195,7 @@
       "titles": 1,
       "combinedMove": 6,
       "source": "circuit",
-      "pairRank": 45
+      "pairRank": 46
     },
     {
       "id": "P100954+P201343",
@@ -4195,7 +4230,7 @@
       "titles": 0,
       "combinedMove": 0,
       "source": "circuit",
-      "pairRank": 46
+      "pairRank": 47
     },
     {
       "id": "P000761+P001709",
@@ -4229,7 +4264,7 @@
       "titles": 0,
       "combinedMove": -2,
       "source": "circuit",
-      "pairRank": 47
+      "pairRank": 48
     },
     {
       "id": "P000125+P001160",
@@ -4264,7 +4299,7 @@
       "titles": 0,
       "combinedMove": -6,
       "source": "ranking",
-      "pairRank": 48
+      "pairRank": 49
     },
     {
       "id": "P101886+P201211",
@@ -4299,7 +4334,7 @@
       "titles": 0,
       "combinedMove": 12,
       "source": "circuit",
-      "pairRank": 49
+      "pairRank": 50
     },
     {
       "id": "P100731+P203842",
@@ -4334,7 +4369,7 @@
       "titles": 0,
       "combinedMove": 1,
       "source": "ranking",
-      "pairRank": 50
+      "pairRank": 51
     },
     {
       "id": "P203126+P203900",
@@ -4368,7 +4403,7 @@
       "titles": 0,
       "combinedMove": 0,
       "source": "circuit",
-      "pairRank": 51
+      "pairRank": 52
     },
     {
       "id": "P000127+P201657",
@@ -4402,7 +4437,7 @@
       "titles": 0,
       "combinedMove": 0,
       "source": "ranking",
-      "pairRank": 52
+      "pairRank": 53
     },
     {
       "id": "P000050+P100615",
@@ -4437,7 +4472,7 @@
       "titles": 0,
       "combinedMove": -9,
       "source": "ranking",
-      "pairRank": 53
+      "pairRank": 54
     },
     {
       "id": "P203134+P207623",
@@ -4471,7 +4506,7 @@
       "titles": 0,
       "combinedMove": 2,
       "source": "ranking",
-      "pairRank": 54
+      "pairRank": 55
     }
   ],
   "countries": [
@@ -4481,7 +4516,7 @@
       "color": "#e63946",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/Spain_Fip.jpg",
       "players": 108,
-      "points": 168796,
+      "points": 168789,
       "bestRank": 1,
       "top10": 6,
       "top50": 31,
@@ -4559,11 +4594,11 @@
       "color": "#4361ee",
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/France_Fip.jpg",
       "players": 7,
-      "points": 3381,
+      "points": 3396,
       "bestRank": 72,
       "top10": 0,
       "top50": 0,
-      "avgPoints": 483,
+      "avgPoints": 485,
       "share": 1.1
     },
     {
@@ -4638,7 +4673,7 @@
       "flag": "https://www.padelfip.com/wp-content/uploads/2023/02/GreatBritain_Fip.jpg",
       "players": 1,
       "points": 432,
-      "bestRank": 136,
+      "bestRank": 137,
       "top10": 0,
       "top50": 0,
       "avgPoints": 432,
@@ -6602,12 +6637,12 @@
       ]
     },
     "P204727": {
-      "points4w": 17,
-      "points12w": 80,
+      "points4w": 6,
+      "points12w": 69,
       "rank4w": -1,
       "rank12w": 5,
       "seasonBestRank": 84,
-      "seasonPeakPoints": 767,
+      "seasonPeakPoints": 757,
       "spark": [
         684,
         684,
@@ -6620,7 +6655,7 @@
         739,
         757,
         757,
-        767
+        756
       ]
     },
     "P000061": {
@@ -6718,12 +6753,12 @@
       ]
     },
     "P100910": {
-      "points4w": 46,
+      "points4w": 35,
       "points12w": null,
       "rank4w": 0,
       "rank12w": null,
       "seasonBestRank": 94,
-      "seasonPeakPoints": 712,
+      "seasonPeakPoints": 701,
       "spark": [
         644,
         638,
@@ -6732,7 +6767,7 @@
         666,
         684,
         684,
-        712
+        701
       ]
     },
     "P000126": {
@@ -6773,10 +6808,22 @@
         691
       ]
     },
+    "P000091": {
+      "points4w": null,
+      "points12w": null,
+      "rank4w": null,
+      "rank12w": null,
+      "seasonBestRank": 98,
+      "seasonPeakPoints": 684,
+      "spark": [
+        649,
+        684
+      ]
+    },
     "P101649": {
       "points4w": 40,
       "points12w": null,
-      "rank4w": 2,
+      "rank4w": 1,
       "rank12w": null,
       "seasonBestRank": 94,
       "seasonPeakPoints": 696,
@@ -6787,18 +6834,6 @@
         660,
         696,
         676
-      ]
-    },
-    "P000091": {
-      "points4w": null,
-      "points12w": null,
-      "rank4w": null,
-      "rank12w": null,
-      "seasonBestRank": 98,
-      "seasonPeakPoints": 669,
-      "spark": [
-        649,
-        669
       ]
     },
     "P201642": {
@@ -7099,15 +7134,15 @@
   "summary": {
     "players": 200,
     "countries": 15,
-    "pairs": 54,
-    "totalPoints": 303456,
+    "pairs": 55,
+    "totalPoints": 303464,
     "avgPoints": 1517,
     "leaderName": "Arturo Coello",
     "leaderPoints": 21906,
     "topCountry": "España",
     "topCountryShare": 55.6,
     "recentEvents": 96,
-    "weeklyMovers": 167
+    "weeklyMovers": 169
   },
   "partners": {
     "P000010": {
@@ -7280,16 +7315,6 @@
       "name": "Rodrigo Coello Manso",
       "source": "ranking"
     },
-    "P000042": {
-      "playerId": "P000171",
-      "name": "Christian Medina Murphy",
-      "source": "ranking"
-    },
-    "P000171": {
-      "playerId": "P000042",
-      "name": "Jesus Moya",
-      "source": "ranking"
-    },
     "P101584": {
       "playerId": "P101100",
       "name": "Pablo Reina Ambel",
@@ -7383,6 +7408,11 @@
     "P000031": {
       "playerId": "P000679",
       "name": "Pedro Melendez Amaya",
+      "source": "circuit"
+    },
+    "P000171": {
+      "playerId": "P100056",
+      "name": "Alberto Garcia Jimenez",
       "source": "circuit"
     },
     "P100056": {
@@ -7563,6 +7593,11 @@
     "P100003": {
       "playerId": "P201600",
       "name": "Juan Zamora Perez",
+      "source": "circuit"
+    },
+    "P000042": {
+      "playerId": "P000091",
+      "name": "Thomas Leygue",
       "source": "circuit"
     },
     "P000091": {
